@@ -1,0 +1,4 @@
+---
+layout: print
+title: Print
+---

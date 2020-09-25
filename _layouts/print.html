@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body>
+
+  <div class="bloom-max-w-7xl bloom-container bloom-mx-auto bloom-py-8 md:bloom-py-20">
+    <div class="bloom-flex bloom-flex-wrap bloom--mx-2">
+      <div class="bloom-w-full print:bloom-w-full sm:bloom-w-2/3 bloom-px-4">
+        {% assign sorted = site.pages | sort: 'weight' %}
+
+        {% for page in sorted %}
+        {% if page.weight %}
+        <h1 class="bloom-text-3xl md:bloom-text-4xl bloom-font-bold bloom-text-primary-dark bloom-mb-4">{{ page.title }}</h1>
+        <div class="bloom-text-l sm:bloom-text-xl bloom-prose">
+          {{ page.content }}
+        </div>
+        {% endif %}
+        {% endfor %}
+
+      </div>
+    </div>
+  </div>
+</body>

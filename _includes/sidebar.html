@@ -1,0 +1,18 @@
+<div class="bloom-p-5 bloom-bg-grey-light" id="sidebar">
+  <nav>
+    <a class="bloom-block bloom-pb-3 bloom-mb-3 bloom-border-grey-border bloom-border-b {% if page.title == "Introduction" %} bloom-font-bold{% endif %}" href="{{ site.baseurl }}/">Introduction</a>
+
+    <ol>
+    {% assign pages_list = site.pages | where: "layout","page" | where: "nav", true %}
+    {% for node in pages_list %}
+      <li><a class="bloom-block bloom-pb-3 bloom-mb-3 bloom-border-grey-border bloom-border-b {% if page.url == node.url %} bloom-font-bold{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ forloop.index }}. {{ node.title }}</a></li>
+    {% endfor %}
+    </ol>
+
+    <a class="bloom-block bloom-pb-3 bloom-mb-3 bloom-border-grey-border bloom-border-b {% if page.title == "Print" %} bloom-font-bold{% endif %}" href="{{ site.baseurl }}/print"  target="_blank">Complete Playbook (Print View)</a>
+
+    <div class="bloom-text-sm">
+      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    </div>
+  </nav>
+</div>

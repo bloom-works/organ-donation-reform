@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+
+    <header class="bloom-bg-primary-normal bloom-py-4">
+      <div class="bloom-flex bloom-flex-col md:bloom-flex-row md:bloom-items-center bloom-px-6">
+        <div class="md:bloom-w-1/2 bloom-text-white"><strong>{{ site.title }}</strong><Br/>{{ site.tagline }} </div>
+      </div>
+    </header>
+
+    <div class="bloom-max-w-7xl bloom-container bloom-mx-auto bloom-py-8 md:bloom-py-20">
+      <div class="bloom-flex bloom-flex-wrap bloom--mx-2">
+        <div class="bloom-w-full print:bloom-w-full sm:bloom-w-1/3 bloom-px-4 bloom-mb-10 sm:bloom-mb-0">{% include sidebar.html %}</div>
+        <div class="bloom-w-full print:bloom-w-full sm:bloom-w-2/3 bloom-px-4">{{ content }}</div>
+      </div>
+    </div>
+
+    <div class="bloom-bg-grey-light">
+      <div class="bloom-max-w-7xl bloom-container bloom-mx-auto bloom-py-8">
+        <div class="bloom-flex bloom-flex-col md:bloom-flex-row bloom-items-center">
+          <span class="bloom-flex-grow bloom-text-2xl bloom-text-primary-dark bloom-mb-6 md:bloom-mb-0">This site is available on GitHub</span>
+          <span class="md:bloom-ml-6">
+            <a href="{{ site.github.repo }}" class="bloom-inline-flex bloom-bg-primary-normal hover:bloom-bg-primary-dark bloom-text-white">
+              <span class="bloom-px-6 bloom-py-4 bloom-font-bold bloom-w-48">GitHub Project</span>
+              <span class="bloom-flex bloom-items-center bloom-justify-center bloom-bg-primary-dark bloom-w-16">
+                <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDQuODE5IDQ0NC44MTkiPjxwYXRoIGQ9Ik0zNTIuMDI1IDE5Ni43MTJMMTY1Ljg4NSAxMC44NDhDMTU5LjAyOCAzLjYxNSAxNTAuNDY4IDAgMTQwLjE4NSAwcy0xOC44NCAzLjYyLTI1LjY5NiAxMC44NDhsLTIxLjcgMjEuNDE2Yy03LjA0NSA3LjA0My0xMC41NjcgMTUuNjA0LTEwLjU2NyAyNS42OTIgMCA5Ljg5NyAzLjUyIDE4LjU2IDEwLjU2NiAyNS45OEwyMzEuNTQ0IDIyMi40MSA5Mi43ODUgMzYxLjE2OGMtNy4wNCA3LjA0My0xMC41NjMgMTUuNjA0LTEwLjU2MyAyNS42OTMgMCA5LjkgMy41MiAxOC41NjYgMTAuNTY0IDI1Ljk4bDIxLjcgMjEuNDE3YzcuMDQzIDcuMDQzIDE1LjYxMiAxMC41NjQgMjUuNjk3IDEwLjU2NCAxMC4wOSAwIDE4LjY1Ni0zLjUyIDI1LjY5Ny0xMC41NjRMMzUyLjAyNSAyNDguMzljNy4wNDYtNy40MjMgMTAuNTctMTYuMDg0IDEwLjU3LTI1Ljk4LjAwMi0xMC4wOS0zLjUyNC0xOC42NTUtMTAuNTctMjUuNjk4eiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==" role="presentation" class="bloom-w-6">
+              </span>
+            </a>
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <div class="bloom-bg-primary-dark">
+      <div class="bloom-max-w-7xl bloom-container bloom-mx-auto bloom-py-4 md:bloom-py-8 bloom-flex bloom-items-center"></div>
+    </div>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>

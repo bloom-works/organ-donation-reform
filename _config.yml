@@ -1,0 +1,17 @@
+# Setup
+title:            'This is the title'
+tagline:          'This is the tag line'
+description:      'This is the description'
+
+author:
+  name:           'Author'
+  url:            https://github.com/CTOpenData/data-sharing-playbook
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/CTOpenData/data-sharing-playbook
+
+# Google Analytics
+google_analytics: UA-XXXXXXXXXX-X

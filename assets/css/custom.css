@@ -1,0 +1,45 @@
+.bloom-prose table {
+  border: 1px solid #ccc;
+  margin-bottom: 1.2rem;
+}
+
+.bloom-prose thead {
+  border-bottom: 1px solid #ccc;
+}
+
+.bloom-prose th, .bloom-prose td {
+  padding: 0.5rem 0.7rem;
+  font-size: 0.85rem;
+  text-align: left;
+}
+
+.bloom-prose td {
+  vertical-align: top;
+}
+
+.bloom-prose tr td:first-child {
+  width: 30%;
+}
+
+.bloom-prose tr td:last-child {
+  width: 45%;
+}
+
+.bloom-prose tr:not(:first-child) {
+  border-top: 1px solid #ccc;
+  margin-bottom: 1.2rem;
+}
+
+.bloom-prose td ul {
+  margin-left: 0;
+  list-style: none;
+}
+
+.bloom-prose td li:not(:first-child) {
+  margin-top: 1rem;
+}
+
+@media print {
+  .print\:bloom-w-full{width:100%; margin-bottom: 5rem;}
+  hr {page-break-after: always;}
+}
