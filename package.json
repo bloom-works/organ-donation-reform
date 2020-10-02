@@ -1,0 +1,16 @@
+{
+  "name": "ord-report",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:govbloom/organ-donation-reform.git",
+  "author": "Hondo <hi@hondo.xyz>",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^8.1.1",
+    "postcss-cli": "^8.0.0",
+    "tailwindcss": "^1.8.10"
+  },
+  "scripts": {
+    "postcss:watch": "npx postcss assets/css/index.pcss -o assets/css/index.css --env production -w"
+  }
+}

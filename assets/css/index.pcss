@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: "Barlow", sans-serif;
+}
+
+.nav a {
+  display: block;
+  font-size: 1rem;
+  line-height: 1.625;
+  padding: 1.375rem;
+  border-bottom: 1px solid #E5E5E5;
+}
+
+.nav a:hover {
+  background: #363737;
+  color: #ffffff;
+}
+
+.nav-active a {
+  background: #D43C37;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.prose h1 {
+  font-size: 2.75rem;
+  line-height: 1.22727272727;
+}
+
+.prose table {
+  border: 1px solid #ccc;
+  margin-bottom: 1.2rem;
+}
+
+.prose thead {
+  border-bottom: 1px solid #ccc;
+}
+
+.prose th, .prose td {
+  padding: 0.5rem 0.7rem;
+  font-size: 0.85rem;
+  text-align: left;
+}
+
+.prose td {
+  vertical-align: top;
+}
+
+.prose tr td:first-child {
+  width: 30%;
+}
+
+.prose tr td:last-child {
+  width: 45%;
+}
+
+.prose tr:not(:first-child) {
+  border-top: 1px solid #ccc;
+  margin-bottom: 1.2rem;
+}
+
+.prose td ul {
+  margin-left: 0;
+  list-style: none;
+}
+
+.prose td li:not(:first-child) {
+  margin-top: 1rem;
+}
+
+@media print {
+  .print\:w-full{width:100%; margin-bottom: 5rem;}
+  hr {page-break-after: always;}
+}

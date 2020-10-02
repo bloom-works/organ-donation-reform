@@ -5,28 +5,28 @@
 
   <body>
 
-    <header class="bloom-bg-primary-normal bloom-py-4">
-      <div class="bloom-flex bloom-flex-col md:bloom-flex-row md:bloom-items-center bloom-px-6">
-        <div class="md:bloom-w-1/2 bloom-text-white"><strong>{{ site.title }}</strong><Br/>{{ site.tagline }} </div>
+    <header class="bg-darkGray py-6">
+      <div class="flex flex-col md:flex-row md:items-center px-6">
+        <div class="md:w-1/2 text-white"><strong>{{ site.title }}</strong><Br/>{{ site.tagline }} </div>
       </div>
     </header>
 
-    <div class="bloom-max-w-7xl bloom-container bloom-mx-auto bloom-py-8 md:bloom-py-20">
-      <div class="bloom-flex bloom-flex-wrap bloom--mx-2">
-        <div class="bloom-w-full print:bloom-w-full sm:bloom-w-1/3 bloom-px-4 bloom-mb-10 sm:bloom-mb-0">{% include sidebar.html %}</div>
-        <div class="bloom-w-full print:bloom-w-full sm:bloom-w-2/3 bloom-px-4">{{ content }}</div>
+    <div class="max-w-7xl container mx-auto py-8 md:py-20">
+      <div class="flex flex-wrap -mx-6">
+        <div class="w-full print:w-full sm:w-1/3 px-6 mb-10 sm:mb-0">{% include sidebar.html %}</div>
+        <div class="w-full print:w-full sm:w-2/3 px-6">{{ content }}</div>
       </div>
     </div>
 
-    <div class="bloom-bg-grey-light">
-      <div class="bloom-max-w-7xl bloom-container bloom-mx-auto bloom-py-8">
-        <div class="bloom-flex bloom-flex-col md:bloom-flex-row bloom-items-center">
-          <span class="bloom-flex-grow bloom-text-2xl bloom-text-primary-dark bloom-mb-6 md:bloom-mb-0">This site is available on GitHub</span>
-          <span class="md:bloom-ml-6">
-            <a href="{{ site.github.repo }}" class="bloom-inline-flex bloom-bg-primary-normal hover:bloom-bg-primary-dark bloom-text-white">
-              <span class="bloom-px-6 bloom-py-4 bloom-font-bold bloom-w-48">GitHub Project</span>
-              <span class="bloom-flex bloom-items-center bloom-justify-center bloom-bg-primary-dark bloom-w-16">
-                <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDQuODE5IDQ0NC44MTkiPjxwYXRoIGQ9Ik0zNTIuMDI1IDE5Ni43MTJMMTY1Ljg4NSAxMC44NDhDMTU5LjAyOCAzLjYxNSAxNTAuNDY4IDAgMTQwLjE4NSAwcy0xOC44NCAzLjYyLTI1LjY5NiAxMC44NDhsLTIxLjcgMjEuNDE2Yy03LjA0NSA3LjA0My0xMC41NjcgMTUuNjA0LTEwLjU2NyAyNS42OTIgMCA5Ljg5NyAzLjUyIDE4LjU2IDEwLjU2NiAyNS45OEwyMzEuNTQ0IDIyMi40MSA5Mi43ODUgMzYxLjE2OGMtNy4wNCA3LjA0My0xMC41NjMgMTUuNjA0LTEwLjU2MyAyNS42OTMgMCA5LjkgMy41MiAxOC41NjYgMTAuNTY0IDI1Ljk4bDIxLjcgMjEuNDE3YzcuMDQzIDcuMDQzIDE1LjYxMiAxMC41NjQgMjUuNjk3IDEwLjU2NCAxMC4wOSAwIDE4LjY1Ni0zLjUyIDI1LjY5Ny0xMC41NjRMMzUyLjAyNSAyNDguMzljNy4wNDYtNy40MjMgMTAuNTctMTYuMDg0IDEwLjU3LTI1Ljk4LjAwMi0xMC4wOS0zLjUyNC0xOC42NTUtMTAuNTctMjUuNjk4eiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==" role="presentation" class="bloom-w-6">
+    <div class="bg-grey-light">
+      <div class="max-w-7xl container mx-auto py-8">
+        <div class="flex flex-col md:flex-row items-center">
+          <span class="flex-grow text-2xl text-primary-dark mb-6 md:mb-0">This site is available on GitHub</span>
+          <span class="md:ml-6">
+            <a href="{{ site.github.repo }}" class="inline-flex bg-primary-normal hover:bg-primary-dark text-white">
+              <span class="px-6 py-4 font-bold w-48">GitHub Project</span>
+              <span class="flex items-center justify-center bg-primary-dark w-16">
+                <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDQuODE5IDQ0NC44MTkiPjxwYXRoIGQ9Ik0zNTIuMDI1IDE5Ni43MTJMMTY1Ljg4NSAxMC44NDhDMTU5LjAyOCAzLjYxNSAxNTAuNDY4IDAgMTQwLjE4NSAwcy0xOC44NCAzLjYyLTI1LjY5NiAxMC44NDhsLTIxLjcgMjEuNDE2Yy03LjA0NSA3LjA0My0xMC41NjcgMTUuNjA0LTEwLjU2NyAyNS42OTIgMCA5Ljg5NyAzLjUyIDE4LjU2IDEwLjU2NiAyNS45OEwyMzEuNTQ0IDIyMi40MSA5Mi43ODUgMzYxLjE2OGMtNy4wNCA3LjA0My0xMC41NjMgMTUuNjA0LTEwLjU2MyAyNS42OTMgMCA5LjkgMy41MiAxOC41NjYgMTAuNTY0IDI1Ljk4bDIxLjcgMjEuNDE3YzcuMDQzIDcuMDQzIDE1LjYxMiAxMC41NjQgMjUuNjk3IDEwLjU2NCAxMC4wOSAwIDE4LjY1Ni0zLjUyIDI1LjY5Ny0xMC41NjRMMzUyLjAyNSAyNDguMzljNy4wNDYtNy40MjMgMTAuNTctMTYuMDg0IDEwLjU3LTI1Ljk4LjAwMi0xMC4wOS0zLjUyNC0xOC42NTUtMTAuNTctMjUuNjk4eiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==" role="presentation" class="w-6">
               </span>
             </a>
           </span>
@@ -34,8 +34,8 @@
       </div>
     </div>
 
-    <div class="bloom-bg-primary-dark">
-      <div class="bloom-max-w-7xl bloom-container bloom-mx-auto bloom-py-4 md:bloom-py-8 bloom-flex bloom-items-center"></div>
+    <div class="bg-primary-dark">
+      <div class="max-w-7xl container mx-auto py-4 md:py-8 flex items-center"></div>
     </div>
 
     <script>
