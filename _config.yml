@@ -15,3 +15,10 @@ github:
 
 # Google Analytics
 google_analytics: UA-XXXXXXXXXX-X
+
+plugins:
+  - jekyll-toc
+
+toc:
+  min_level: 2 # default: 1
+  max_level: 2 # default: 6

@@ -4,5 +4,11 @@ layout: default
 
 <div class="prose">
   <h1>{{ page.title }}</h1>
-  {{ content }}
+  <div class="in-this">
+    <div class="in-this-title">In this section</div>
+    {% if page.toc == true %}
+      {{ content | toc_only }}
+    {% endif %}
+  </div>
+  {{ content | inject_anchors }}
 </div>
