@@ -4,8 +4,10 @@
       <a href="{{ site.baseurl }}/">Introduction</a>
     </li>
     {% assign pages_list = site.pages | where: "layout","page" | where: "nav", true %}
+    {% assign i = 1 %}
     {% for node in pages_list %}
-      <li class="{% if page.url == node.url %}nav-active{% endif %}"><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+      <li class="{% if page.url == node.url %}nav-active{% endif %}"><a href="{{ site.baseurl }}{{ node.url }}">{{ i }}. {{ node.title }}</a></li>
+      {% assign i = i | plus:1 %}
     {% endfor %}
     <li>
       <a href="{{ site.baseurl }}/print"  target="_blank">Complete Playbook (Print View)</a>

@@ -586,30 +586,30 @@ video {
   height: auto;
 }
 
-.container {
+.container{
   width: 100%;
 }
 
 @media (min-width: 640px) {
-  .container {
+  .container{
     max-width: 640px;
   }
 }
 
 @media (min-width: 768px) {
-  .container {
+  .container{
     max-width: 768px;
   }
 }
 
 @media (min-width: 1024px) {
-  .container {
+  .container{
     max-width: 1024px;
   }
 }
 
 @media (min-width: 1280px) {
-  .container {
+  .container{
     max-width: 1280px;
   }
 }
@@ -21390,6 +21390,10 @@ html {
   color: #ffffff;
 }
 
+.nav ol {
+  list-style-type: decimal;
+}
+
 .nav-active a {
   background: #D43C37;
   color: #ffffff;
@@ -21414,19 +21418,21 @@ html {
 
 .prose h2 {
   font-weight: 500;
+  text-transform: uppercase;
   font-size: 2rem;
   line-height: 1.3125;
   color: #D43C37;
-  margin-bottom: 1.25rem;
+  margin-bottom: 1rem;
+  margin-top: 4rem;
 }
 
 .prose h3 {
   font-size: 1.5rem;
   line-height: 1.3125;
-  text-transform: uppercase;
   line-height: 1.41666666667;
-  font-weight: 400;
+  font-weight: 500;
   margin-bottom: 1rem;
+  margin-top: 1.75rem;
 }
 
 .prose h4 {
@@ -21554,6 +21560,23 @@ html {
   color: #00768F;
 }
 
+.footnotes ol {
+  font-size: 1rem;
+  line-height: 1.625;
+}
+
+.footnotes ol {
+  position: relative;
+  margin-left: 1rem;
+}
+
+.footnotes ol ::marker {
+  color: #D43C37;
+  vertical-align: super;
+  font-size: 0.875rem;
+  margin-top: -100px;
+}
+
 @media print {
   .print\:w-full{
     width:100%; margin-bottom: 5rem;
@@ -21565,30 +21588,30 @@ html {
 }
 
 @media (min-width: 640px) {
-  .sm\:container {
+  .sm\:container px-4 md:px-0{
     width: 100%;
   }
 
   @media (min-width: 640px) {
-    .sm\:container {
+    .sm\:container px-4 md:px-0{
       max-width: 640px;
     }
   }
 
   @media (min-width: 768px) {
-    .sm\:container {
+    .sm\:container px-4 md:px-0{
       max-width: 768px;
     }
   }
 
   @media (min-width: 1024px) {
-    .sm\:container {
+    .sm\:container px-4 md:px-0{
       max-width: 1024px;
     }
   }
 
   @media (min-width: 1280px) {
-    .sm\:container {
+    .sm\:container px-4 md:px-0{
       max-width: 1280px;
     }
   }
@@ -42287,30 +42310,30 @@ html {
 }
 
 @media (min-width: 768px) {
-  .md\:container {
+  .md\:container px-4 md:px-0{
     width: 100%;
   }
 
   @media (min-width: 640px) {
-    .md\:container {
+    .md\:container px-4 md:px-0{
       max-width: 640px;
     }
   }
 
   @media (min-width: 768px) {
-    .md\:container {
+    .md\:container px-4 md:px-0{
       max-width: 768px;
     }
   }
 
   @media (min-width: 1024px) {
-    .md\:container {
+    .md\:container px-4 md:px-0{
       max-width: 1024px;
     }
   }
 
   @media (min-width: 1280px) {
-    .md\:container {
+    .md\:container px-4 md:px-0{
       max-width: 1280px;
     }
   }
@@ -63009,30 +63032,30 @@ html {
 }
 
 @media (min-width: 1024px) {
-  .lg\:container {
+  .lg\:container px-4 md:px-0{
     width: 100%;
   }
 
   @media (min-width: 640px) {
-    .lg\:container {
+    .lg\:container px-4 md:px-0{
       max-width: 640px;
     }
   }
 
   @media (min-width: 768px) {
-    .lg\:container {
+    .lg\:container px-4 md:px-0{
       max-width: 768px;
     }
   }
 
   @media (min-width: 1024px) {
-    .lg\:container {
+    .lg\:container px-4 md:px-0{
       max-width: 1024px;
     }
   }
 
   @media (min-width: 1280px) {
-    .lg\:container {
+    .lg\:container px-4 md:px-0{
       max-width: 1280px;
     }
   }
@@ -83731,30 +83754,30 @@ html {
 }
 
 @media (min-width: 1280px) {
-  .xl\:container {
+  .xl\:container px-4 md:px-0{
     width: 100%;
   }
 
   @media (min-width: 640px) {
-    .xl\:container {
+    .xl\:container px-4 md:px-0{
       max-width: 640px;
     }
   }
 
   @media (min-width: 768px) {
-    .xl\:container {
+    .xl\:container px-4 md:px-0{
       max-width: 768px;
     }
   }
 
   @media (min-width: 1024px) {
-    .xl\:container {
+    .xl\:container px-4 md:px-0{
       max-width: 1024px;
     }
   }
 
   @media (min-width: 1280px) {
-    .xl\:container {
+    .xl\:container px-4 md:px-0{
       max-width: 1280px;
     }
   }
