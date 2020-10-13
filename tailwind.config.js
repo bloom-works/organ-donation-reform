@@ -8,6 +8,9 @@ module.exports = {
     extend: {
       colors: {
         darkGray: '#363737',
+      },
+      screens: {
+        'print': {'raw': 'print'}
       }
     },
   },

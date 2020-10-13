@@ -7,6 +7,16 @@ html {
   color: #363737;
 }
 
+a[href$=".pdf"]:before {
+  width: 14px;
+  height: 18px;
+  margin-right: 0.35rem;
+  background: url('/assets/images/icons/pdf.svg');
+  background-repeat: no-repeat;
+  display:inline-block;
+  content:' ';
+}
+
 .nav a {
   display: block;
   font-size: 1rem;
@@ -219,5 +229,5 @@ html {
 
 @media print {
   .print\:w-full{width:100%; margin-bottom: 5rem;}
-  hr {page-break-after: always;}
+  h1 {page-break-before: always;}
 }
