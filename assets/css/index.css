@@ -21779,7 +21779,7 @@ html {
   color: #363737;
 }
 
-a[href$=".pdf"]:before {
+a[href$=".pdf"]:after {
   width: 14px;
   height: 18px;
   margin-right: 0.35rem;
@@ -21869,17 +21869,24 @@ a[href$=".pdf"]:before {
   width: 100%;
 }
 
+.prose img small {
+  display: block;
+  margin-bottom: 1rem;
+  width: 35%;
+  float: right;
+}
+
 .prose blockquote {
   color: #D43C37;
 }
 
 .prose blockquote p {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   font-family: "Playfair Display", sans-serif;
 }
 
 .prose blockquote strong {
-  font-size: 1.25rem;
+  font-size: 1rem;
   color: #363737;
   font-weight: 500;
   font-family: "Barlow", sans-serif;
@@ -21970,6 +21977,12 @@ a[href$=".pdf"]:before {
 
 .in-this a {
   color: #00768F;
+}
+
+.footnotes p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: .75rem;
 }
 
 .footnotes ol {
