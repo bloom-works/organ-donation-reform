@@ -4,11 +4,34 @@ layout: default
 
 <div class="prose">
   <h1>{{ page.title }}</h1>
-  {% if page.toc == true %}
-  <div class="in-this">
-    <div class="in-this-title">In this section</div>
-    {{ content | toc_only }}
-  </div>
+  {% if page.subpages %}
+    {% assign sorted = site.pages | sort: 'weight' %}
+
+    {% if page.toc == true %}
+      <div class="in-this">
+          <div class="in-this-title">In this section</div>
+          {% for subpage in sorted %}
+              {% if subpage.sub == page.subpages %}
+                  {{ subpage.content | toc_only }}
+              {% endif %}
+          {% endfor %}
+      </div>
+    {% endif %}
+
+    {% for subpage in sorted %}
+      {% if subpage.sub == page.subpages %}
+          <div class="prose">
+              {{ subpage.content | inject_anchors }}
+          </div>
+      {% endif %}
+    {% endfor %}
+  {% else %}
+    {% if page.toc == true %}
+    <div class="in-this">
+      <div class="in-this-title">In this section</div>
+      {{ content | toc_only }}
+    </div>
+    {% endif %}
+    {{ content | inject_anchors }}
   {% endif %}
-  {{ content | inject_anchors }}
 </div>
