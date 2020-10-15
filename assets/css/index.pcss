@@ -240,6 +240,19 @@ a[href$=".pdf"]:after {
   right: 0;
 }
 
+.print-button {
+  color: #00768F;
+  font-size: 0.875rem;
+  text-decoration: underline;
+  background: url('/assets/images/icons/print.svg');
+  background-repeat: no-repeat;
+  padding-left: 1.5rem;
+}
+
+.print-button:hover {
+  text-decoration: none;
+}
+
 @media print {
   .print\:w-full{width:100%; margin-bottom: 5rem;}
   h1 {page-break-before: always;}
