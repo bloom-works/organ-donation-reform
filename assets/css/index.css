@@ -21783,7 +21783,7 @@ a[href$=".pdf"]:after {
   width: 14px;
   height: 18px;
   margin-right: 0.35rem;
-  background: url('{{site.baseurl}}/assets/images/icons/pdf.svg');
+  background: url('/assets/images/icons/pdf.svg');
   background-repeat: no-repeat;
   display:inline-block;
   content:' ';
@@ -22014,7 +22014,7 @@ a[href$=".pdf"]:after {
   color: #00768F;
   font-size: 0.875rem;
   text-decoration: underline;
-  background: url('{{site.baseurl}}/assets/images/icons/print.svg');
+  background: url('/assets/images/icons/print.svg');
   background-repeat: no-repeat;
   padding-left: 1.5rem;
 }
