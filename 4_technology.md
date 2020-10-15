@@ -324,8 +324,7 @@ In the “bottom-up” approach, we see startup innovators working in the presen
 [Download the "How Organ Technology Could be Improved in the Long Term" PDF](/assets/PDF/ODR-Far_Future_Tech_Final.pdf)
 
 
-There is a consistent pattern employed by digital service companies in terms of effectively working with a government agency to build effective software and technology infrastructure. As referenced earlier, the [Digital Services Playbook](https://playbook.cio.gov/) pattern is the clearest published outline for how this process takes place. We emphasize that successfully implementing this playbook is highly dependent on the government selecting the right vendor which is covered in our [Acquisition Strategy](/Acquisition-Strategy#strategy)). 
-<!-- TODO: check acquisition strategy link -->
+There is a consistent pattern employed by digital service companies in terms of effectively working with a government agency to build effective software and technology infrastructure. As referenced earlier, the [Digital Services Playbook](https://playbook.cio.gov/) pattern is the clearest published outline for how this process takes place. We emphasize that successfully implementing this playbook is highly dependent on the government selecting the right vendor which is covered in our [Strategy for Buying OPTN Tech](/Buying-OPTN-Tech). 
 
 Over the next few paragraphs we will analyze how a digital services team would begin working with the OPTN to start the process of iteratively building the key technical infrastructure the organ “technology ecosystem” deserves. 
 
@@ -357,8 +356,7 @@ The team will focus on developing a relationship with the government and existin
 
 
 ### Deliver a Minimum Viable Product (MVP)
-<!-- check acquisition strategy link -->
-As outlined in the draft acquisition proposal (see [Acquisition Strategy](#)), the goal is to buy a repeatable process, not technical specifications. At the heart of this process is the goal of improving technology by developing iteratively over time. The team can and should focus on delivering a Minimum Viable Product (MVP). The MVP doesn’t solve the biggest problem or meet everyone’s needs. Instead, it may be a small project that delivers immediate value to the entire community in a matter of weeks, as opposed to the typical timeline of months that it takes UNOS to deliver a feature. 
+As outlined in the [Draft Acquisition Proposal](/Buying-OPTN-Tech#draft-request-for-proposal), the goal is to buy a repeatable process, not technical specifications. At the heart of this process is the goal of improving technology by developing iteratively over time. The team can and should focus on delivering a Minimum Viable Product (MVP). The MVP doesn’t solve the biggest problem or meet everyone’s needs. Instead, it may be a small project that delivers immediate value to the entire community in a matter of weeks, as opposed to the typical timeline of months that it takes UNOS to deliver a feature. 
 
 What’s interesting about focusing on an MVP is that what’s delivered is typically not the most valuable outcome. While building the MVP, the digital services team will navigate several challenges like meeting all stakeholders and conducting user research, building the hosting infrastructure required to serve software, and working through team processes that enable it to move faster in the future. Therefore, the most important outcome is that the team has started the process of becoming good at delivering something of value quickly into the organ transplant ecosystem.
 
