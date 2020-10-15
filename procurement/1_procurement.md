@@ -14,7 +14,7 @@ The life-saving system of organ donation and transplantation in the U.S. is coor
 
 ---  
 
->“We don’t have the in-depth IT staff to have an understanding whether the things are being built are good”
+>“We don’t have the in-depth IT staff to have an understanding whether the things are being built are good.”
 >
 > _- HHS Official_
 
@@ -30,7 +30,7 @@ The current procurement processes in place hamper the government's ability to tr
 
 ---
 
-Our included documentation
+Our included documentation:
 
 
 1. [Procurement Strategy](#procurement-strategy) 
