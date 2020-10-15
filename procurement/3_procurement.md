@@ -18,12 +18,11 @@ Moving away from the previous contracting strategy, this procurement does not in
 The below reports provide more context about organ donation.
 <!-- TODO: fix links -->
 *   [Reforming Organ Donation in America, Bridgespan, 2019](https://www.bridgespan.org/bridgespan/Images/articles/reforming-organ-donation-in-america/reforming-organ-donation-in-america-01-2019.pdf)
-*   (insert newer Bridgespan report)
-*   (insert Bloom report)
+*   [The Costly Effects of An Outdated Organ Donation System: Summary of Findings](/Summary) 
 
 ### Introduction
 
-The objective of this procurement is to award a multiple award BPA to provide HHS/HRSA agile product design and delivery services to accomplish the Statement of Objectives (see attachment X). While traditional government technology vendors are capable of making nominal improvements (eg. 1.3X) to effectiveness, the government desires vendors that embody the Digital Services Playbook, who are more capable of re-imagining approaches and delivering solutions which improve organ donation effectiveness by orders of magnitude (eg. 10X).
+The objective of this procurement is to award a multiple award BPA to provide HHS/HRSA agile product design and delivery services to accomplish the [Statement of Objectives](#implementing-an-acquisition-strategy-focused-on-objectives). While traditional government technology vendors are capable of making nominal improvements (eg. 1.3X) to effectiveness, the government desires vendors that embody the Digital Services Playbook, who are more capable of re-imagining approaches and delivering solutions which improve organ donation effectiveness by orders of magnitude (eg. 10X).
 
 In addition, the government needs a vendor that delivers solutions using modern technology approaches which de-risks the chance of a failed project. The desired vendors use modern technology approaches to learn and pivot rapidly. The government is not interested in a traditional technology vendor that plans to deploy working software 1.5 to 2 years after the award. The government does want a digital services vendor, when combined with the appropriate support from the government, that will deploy working software minimum viable product into production within 6 months of award. Following MVP delivery, the Government desires the product team to continue to iteratively deliver additional functionality (while lowering/maintaining technical debt) that will help solve the problems most important to the end users which were identified most recently.
 
@@ -60,17 +59,24 @@ For donor hospital and transplant center clinicians, organ procurement organizat
 <!-- TODO: fix these -->
 ### Process map
 
-(Insert Bloom’s process map and reference the Bloom report)
+**Figure 4**{:#figure-4}
+![Image detailing how an organ is managed throughout the organ donation process](/assets/images/organ-management.jpg)
+
+[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF](/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
 
 
 ### Current Technology
 
-(Insert Bloom’s Current Tech Flow document and reference Bloom report section focusing on )
+**Figure 6**{:#figure-6}
+![An overview of technology used by the organ tranplant community](/assets/images/tech-current.jpg)
+
+[Download the "An Overview of Technology Used By
+the Organ Transplant Community" PDF](/assets/PDF/ODR-Current_Tech_Final.pdf)
 
 
 ### Statement of Objectives
 
-See Attachment 1c.Requirements Document
+See Attachment [1c.Requirements Document](#requirements-document)
 
 
 ### Applicable Documents
@@ -275,17 +281,14 @@ This Quality Assurance Surveillance Plan (QASP) will define the performance mana
 
 #### Introduction
 
-The Offeror’s proposal shall be submitted electronically by the date and time indicated in the
-
-solicitation via email to (insert name of Contact Specialist) at (___@___.gov) in the files set forth below. The Offeror’s written proposal shall consist of five (5) volumes:
+The Offeror’s proposal shall be submitted electronically by the date and time indicated in the solicitation via email to (insert name of Contact Specialist) at (___@___.gov) in the files set forth below. The Offeror’s written proposal shall consist of five (5) volumes:
 
 
-<!-- TODO: make anchor links? -->
-*   Volume I: Case Studies (Technical Factor 1)
-*   Volume II: Written Technical Approach (Technical Factor 3)
-*   Volume III: Price
-*   Volume IV: Past performance (Technical Factor 4)
-*   Volume V: Offer & Award Documents, Certifications & Representations
+*   Volume I: [Case Studies (Technical Factor 1)](#volume-1--technical-factor-1---case-studies)
+*   Volume II: [Written Technical Approach (Technical Factor 3)](#volume-ii---technical-factor-3---written-technical-approach)
+*   Volume III: [Price](#volume-iii---price)
+*   Volume IV: [Past performance (Technical Factor 4)](#volume-iv---past-performance)
+*   Volume V: [Offer & Award Documents, Certifications & Representations](#volume-v---solicitation-offer--award-documents-certifications--representations)
 
 The Offeror’s proposal will also include a Design Challenge (Technical Factor 2). The use of hyperlinks or embedded attachments in proposals is prohibited except for artifacts.
 
