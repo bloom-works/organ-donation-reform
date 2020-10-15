@@ -4,7 +4,6 @@ title: Appendix
 permalink: /Appendix/
 nav: true
 weight: 1
-toc: true
 ---
 <!-- TODO: rename figures to match where they first appear, then make sure everything is here, maybe make graphics smaller and offer links to printed reports here, fix all links -->
 

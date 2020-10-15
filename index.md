@@ -1,6 +1,6 @@
 ---
 layout: page
-title:   
+title: 
 home: true
 weight: 0
 

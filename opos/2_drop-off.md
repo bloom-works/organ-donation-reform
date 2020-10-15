@@ -1,105 +1,84 @@
 ---
 layout: page
-title: Organ Drop-Off 3
-permalink: /OPO-Best-Practices/
-weight: 4
+title: Organ Drop-Off 1
+permalink: /OPO-Best-Practices-0/
+weight: 2
 toc: true
 sub: opos
 ---
 
----
+### ORGAN DROP-OFF POINTS & POTENTIAL FIXES
 
-## Drop-off Point #3: _When OPO does not obtain family authorization_
+Along the organ recovery process there are several drop-off[^18] points where organs that had the potential to be transplanted are not.[^19] These drop-off points are sometimes due to clinical reasons, but more often than not, are because of ineffective practices, processes, communication, and technology.
 
 
-### Frequency/Size of Drop-off: **MEDIUM**
+## Drop-off Point #1: _When “Imminent death” referral is not made in a timely manner, or at all_
 
-Family authorization rates can vary widely from OPO to OPO, with even the national authorization rate average ranging based on different analysis and sources. A 2015 study of 2008-2013 data found authorization rates ranging from 63.5% to 89.5%[^75] while other studies estimated between 65%[^76] to 75%[^77] on average nationwide. Accuracy of these authorization rates is questionable, however, because OPOs self-report their rates. As an OPO CEO noted, _"If an OPO is reporting a 90% authorization rate, I would be worried about how often they are actually approaching."_
 
-Regardless, this is one of the most fixable drop-off points because 80% of families report that they would have donated if they had been approached correctly.[^78] When we have seen OPOs dramatically improve their organ transplant rate with new leadership, the new leadership’s focus always included improving family authorization rates.  
+### Frequency/Size of Drop-off: **HIGH**[^20]
+
+While the exact number has not been captured, researchers and OPO experts we spoke to estimate that there is a large number of referrals that are never made. A referral for a potential donor is a crucial step[^21] because it kicks off the whole organ recovery process.[^22] There is a significant opportunity for OPOs to work more effectively with donor hospitals and ensure all viable patients are referred. A missed referral means a missed approach, which means a missed opportunity to save up to eight lives (as every donor may have up to 8 transplantable organs). 
 
 
 ### Causes
 
+### Lack of mandated standardization
 
-### Poor timing/poor interaction
+While there are recommended clinical criteria for donation in the OPTN policies,[^23] OPOs ultimately have the discretion to define clinical triggers,[^24] as well as the terms “imminent death” and “timely referral” as part of their donor hospital agreements.[^25] This means that the clinical triggers do not have to be evidence-based and can be determined by a non-clinical person. Under current evaluation standards, OPOs are not incentivized to pursue every organ (more on this later). The resulting variations in clinical triggers make it harder for staff, such as travel nurses, who may move between hospitals to keep track of when to refer a potential donor. 
 
-Problematic OPO approaches to family, such as approaching at the wrong time or having a poor quality of interaction may lead to families declining authorization.[^79] The likelihood of wrong time and poor interaction is exacerbated if OPO staff is not coordinating with hospital staff. Studies have shown that “initial receptivity to organ donation may reflect the family’s experience with the hospital healthcare team prior to the donation request...These results reveal the association between the donation decision and the coordination between HCPs and OPO staff.”[^80]
+---
 
-Best practices for approaching families as documented in several sources[^81] are not always followed. For example, the OPO coordinator may not come in-person, may not be sensitive to cultural or religious issues, may not educate family about misconceptions, may not cover critical topics in their discussion with the family, or may not spend adequate time with the family. “Previous studies found] that when referred, African American (AA) families report less complete discussions about the possibility of organ donation and are often not told of the need for transplantable organs within the AA community.”[^82]Additionally, because it is an overwhelming time for many families, some may need to be approached multiple times, thus some coordinators may give up too early on obtaining authorization. 
+>“Inherited handshake deals led to a lot of the [different] discretionary practices...there’s a floor, but there’s no ceiling of the best clinical triggers that are implemented nationally, they’re all over the place.”
+> 
+> __— Researcher__
 
-
-### Poor training and support for requestors
-
-Currently there is no central source of truth or training for coordinators requesting authorization from a donor’s next of kin. We have heard of only one masters program in the country (at University of Toledo[^83]) that provides accredited training on how to become an organ donation coordinator.[^84] There are smaller programs from different OPOs[^85] and associations, and a certificate[^86] that is not required to be hired as a coordinator. One OPO leader told us, _“There's no real specialized training. There's one Masters program in Toledo. So, they self-train...right now [OPO coordinator training] is disjointed, it's sporadic. There’s no good training program in the country that I would endorse."_ While a former OPO coordinator said, _"Training keeps getting worse and worse...there's no standard training, it's very subjective. There's the CPTC [certification program]_[^87] _but you don't even need to do it to be a coordinator. They're setting people [OPO staff] free before they're really ready."_ Other studies have also spoken to this need, "Standardized training for organ donation request staff is needed to ensure the highest quality communication during requests, optimize rates of family authorization to donation in all regions, and increase the supply of organs available for transplantation.”[^88]
-
-
-### Poor coordination with hospital staff
-
-When OPO staff does not coordinate with hospital staff, it can be detrimental to family authorization rates and to the long term working relationship between the OPO and the hospital. One study reported that “the majority of HCPs continue to view OPO staff as outsiders rather than part of the healthcare team. A multidisciplinary request protocol involving both HCPs and OPO staff in family donation conversations has proven effective in increasing rates of organ donation.”[^89]
-
-When the coordination does not happen, OPOs remain as “outsiders” and can adversely affect the end of life care planning that the hospital staff already has in play, resulting in a poor interaction with the donor family. We heard from hospital staff, _"We have a terrible relationship with the OPO - they don't come in until the end... Steamrolling in talking to the family when they think it’s the right time. Often it’s after we’ve already set up a game plan...they jump in and take over...we don't even know who they are."_ This has further ramifications, as we heard from one donor hospital physician, _“A lot of my coworkers are not donors because of how terrible the process is at our hospital...the Palliative Care Director is not a donor because of the number of times [the OPO] really ruined end of life care.”_ 
+---
 
 
-### Not utilizing data
+### Poor training and working relationships with donor hospitals
 
-Lack of benchmarking data can lead to lack of motivation to improve, because OPO staff could be unaware of how they compare to other OPOs, including being unaware that they may have significant room to improve. One OPO leader who increased organ recovery at their OPO by nearly 30% in their first year as CEO used data to benchmark where their OPO was and shared with their staff that they were in the fourth quartile for authorization and conversion of donors. The staff at that OPO said they did not know they were that bad. There needed to be awareness of the problem before it could be addressed. Similarly, when data are not used to understand the demographics of an OPO’s DSA, it is a missed opportunity for the OPO to staff and train coordinators better to approach donor families of those demographics. 
+In addition to varying clinical triggers, if OPOs do a poor job in educating hospital staff on organ donation and not maintaining a strong working relationship, hospital staff may be less likely to make timely referrals to OPOs. They may be busy/distracted or are not aware of the steps to refer. It is not only whether or not the hospital staff know the clinical triggers, but whether it is top of mind for them and whether they have the bandwidth to call it in, when they are focused on many other important tasks. 
+
+We heard from an OPO leader that, _"Many OPOs have instructed hospitals to NOT call on [to refer] certain patients thus eliminating organ donors before they even get to the OPO."_ OPOs do this to tamper with the numbers they have to report as referrals in order to avoid documentation of cases where healthcare providers (HCPs) or the OPO anticipate that it will be an unlikely donation. Research has shown that implicit bias and preconceptions of who is likely to donate disproportionately affect minorities and people of color (see [Inequity in Organ Donation](/Inequity)). "Past studies comparing the experiences of African American (AA) and Caucasian families who have made decisions about donating a family member’s organs found that donor-eligible AA patients were less likely to be referred to an OPO by hospital staff."[^26]
+
+OPOs are supposed to find these missed referrals in their death record reviews, but we heard, _“There’s no incentive to find those missed referrals. If they [the hospital] missed making a referral, they [the OPO] have to report it. There are incentives in the chain to cover up everybody else in the chain.”_ - _OPO COO._ One example of this, shared with us by a researcher, is that an OPO said they were getting 100% of referrals based on the OPO's death record audits, but when the OPO adopted an electronic automated referral system, the number of referrals went up. Because of this, an OPO leader emphasized that the referral potential for a donor hospital should not be assumed based on previous history of referral.
 
 
 ### Potential Fixes
 
 
-### Better training for requestors
+### Standardize clinical triggers nationally
 
-There needs to be standardized training of OPO coordinators on best practices for approaching donor families for authorization.[^90] [^91] Research indicates that the factor most likely to predict whether a family will donate is whether the OPO coordinator showed sensitivity and compassion to the family and did not pressure them to donate.[^92] Research also shows the critical need for initial training for staff involved in these conversations, even as there are no national standards that mandate these trainings.[^93] Such training could focus on already-established best approach practices, including:
-
-
-
-*   Separating requests for organ donation from declaration of death[^94]
-*   Effectively communicating[^95] [^96] with the family - including initiating the request in an empathic manner, acknowledging the loss of the patient, covering key topics,[^97] developing a supportive trust-based relationship, and providing closure to the family.  
-*   Timing is also crucial to making effective requests. When families perceive that the request was made at the appropriate time, they are more likely to consent.
-
-In addition to best approach practices, requestors should undergo explicit and implicit bias training, as research has shown that implicit bias is a factor in donor family approaches. “There is also evidence of implicit bias, i.e., the extra-conscious beliefs or attitudes toward individuals by virtue of some ‘irrelevant characteristic,’ that permeate discussions of organ donation with African American families about the opportunity for donation while in hospital.”[^98]<sup> </sup>[^99]
+Clinical triggers for a donor referral should be evidence-based and determined by medical experts. A researcher told us that if they had access to better OPO data (that currently lives in OPO tech systems[^27] but never gets reported to the OPTN[^28]), they could determine what are the best clinical triggers based on historical data. This would clear the path for a set of nationally mandated clinical triggers that all OPOs and donor hospitals would use for referrals. 
 
 
-### Spend more time with donor families
+### Leverage technology to make referrals less dependent on busy staff
 
-A clear strategy to increase family authorization is to enable OPO coordinators to spend enough time with donor families - particularly ensuring that families of color receive the same compassionate time and treatment. Research shows that family decision makers "from regions with the highest authorization rates reported the longest discussions about donation with their respective OPO requesters”[^100] and that “Families who had two-thirds more contact with OPO staff were 3 times as likely to donate irrespective of other factors.”[^101]
-
-
-### Hiring appropriate OPO staff
-
-Previous drop off points discussed the need for OPOs to hire the appropriate _number_ of OPO staff, but they also need to hire the _right people_ in their staffing. As one OPO leader told us, "_Demographics is important. You have to make sure you're talking the right language and talking to the right people...We consciously did an org chart review and we matched it to our demographics and by zip code, by hospitals, by interactions.”_ Studies have shown that OPO staff is overwhelmingly white and female, which does not accurately represent all the potential donor families the staff is approaching.[^102] “At least one study[^103] has shown family authorization rates for organ donation are higher for African Americans when the OPO staff discussing donation are also African American, but the majority of OPO staff continue to be Caucasian...These results [of lower AA authorization rates] emphasize the critical need for culturally appropriate communication skills to be deployed with African American families throughout the organ donation conversation.”[^104]
-
-Not only race and sex, but language is also a factor to consider for staffing.[^105] Staff should also reflect language demographics of the DSA, given that “avoiding translators during the approach process may improve donation rates.”[^106] We heard of one example of an OPO that had a large Spanish-speaking population in the DSA, yet 9 out of 10 staff members could not speak Spanish. 
-
-One OPO leader told us that not only do OPOs need more diversity in their frontline staff, but also in their leadership. To get to this, diverse staff needs to be developed to take on more leadership roles. _"Leadership and clinical teams at OPOs tend to be overwhelmingly, shockingly White. Black folks donate when the OPO provides optimal care for Black families. And serving communities of color isn’t hiring a single token representative to work in PR or community outreach...it’s growing representation in all ranks of leadership for the communities of color your OPO serves." -Researcher_
+Hospital staff are extremely busy and have multiple concurrent responsibilities. While it would still be important for OPOs to coordinate with hospital staff once onsite, making the initial referral less dependent on staff will lessen the chances for human error and alleviate the burden on hospital staff.
 
 
-### Coordination with hospital staff on approach
 
-Regular coordination between the OPO and hospital staff helps ensure communication and better integration of the ethos of saving as many lives as possible through organ donation. Hospital staff can assist with preparing families for the approach, and may even help with the authorization[^107] if they are involved in the OPO’s planning. One donor hospital physician noted that at a previous hospital she worked at that had a good relationship with their OPO, the OPO staff would always come to the hospital staff first to ask, “when would be a good time and who should we approach?” This would enable the physician to say, “I think they’d be a great candidate, I don’t know where the family’s at but I plan on talking to them in a little bit. If you’re here, I can allow you to come in towards the end of the meeting, etc.” 
-
----
-
->"Physicians are trying to keep their patient alive, so sometimes a death is perceived as a failure...How can we make this tragic negative turn into something more positive...have a bit of a silver lining. When we remind them of that, it becomes less of the old mentality that oh, the grim reaper is here, the vultures are here. It’s, these are our partners/trusted colleagues who we know won’t talk with the family until the time is appropriate. Establishing those relationships are absolutely key.” 
->
-> __- OPO Coordinator__
-
----
-
-The responsibility for building relationships and educating donor hospitals often falls exclusively to a “Hospital Development Coordinator,” however, the responsibility should extend to all OPO staff who come onsite at a hospital. A donor family approach should not be the first time the hospital staff meets an OPO coordinator. As an OPO leader told us, high performing OPOs know that _“Organ donation should NOT be transactional. OPOs can’t show up only when there’s a donor. OPOs have to have a relationship [with the donor hospital] BEFORE there’s a donor.” (paraphrased)_ 
+*   There are two tech systems currently being used to a very limited degree that attempt to do this. One version “pings” hospital staff when a patient meets clinical criteria, still requiring the nurse to call the OPO. The other is a fully-automated system that activates a referral to the OPO via a third party system, such as iTransplant.
+*   These e-referral systems have shown increases in referrals[^29], but are slow to integrate and do not work with all hospital electronic medical record (EMR) systems. They are also currently only used as bespoke solutions between a single hospital and an OPO, which will only add further unnecessary complexity to the system if such technologies continue to be adopted ad hoc. 
 
 
-### Strong leadership and use of data
+*   A technical solution needs to happen at a national level rather than piecemeal.[^30] Having a national standard for clinical triggers will also make a national e-referral system simpler to implement. The ONC should set interoperability standards and requirements between OPOs, Donor Hospitals, and OPTNs in order to enable the introduction of new technologies into the organ donation space that currently is highly fragmented with a significant amount of information blocking put in place by incumbents.[^31] Having a standardized national system for automated referrals could also be useful for gathering data on average response time and help to evaluate OPOs on how well they are responding to referrals, which could inform potential OPO conditions for coverage requirements.
 
-Changes in OPO leadership have often resulted in dramatic increases in organ donation rates. “After the Washington OPO hired a new CEO in 2010 and the Oklahoma OPO hired a new CEO in 2012, donors doubled. In 2017, the South Carolina OPO hired a new CEO and saw a 40% increase in donors, and San Francisco, California, increased donors by nearly 30% within 1 year after a new CEO was hired. These numbers far outpace the corresponding overall national increase in donors from the opioid epidemic.”[^108]
 
- 
+### Better education for donor hospital staff
 
-These leaders have increased donors by focusing on shifting culture within the organizations, using data to better understand community demographics, and aligning all efforts towards procuring and placing organs. One OPO leader said, _“I looked at every area of our organization and how it’s functioning. We were not aligned with our mission: every donor, every time. There were processes and procedures in place that blocked our mission to save every life possible. ”_
+More frequent and consistent donor hospital education is needed, not only for timely referrals but also for all the ways that OPOs and hospital staff need to coordinate. One OPO reported doing their hospital education annually, which is not nearly enough given the staff turnover and travel nurses who might be utilized. Donor hospital education is not standardized and varies greatly between OPOs.[^32] The hospital training may only be as good as how well the OPO staff are trained themselves, which is highly variable and non-standardized. When done by the Hospital Development Coordinator, who is non-clinical, trainings should be accompanied by a clinical OPO person, such as the clinical coordinator. In addition to advising on _when_ a potential donor should be referred, OPOs should also provide education on clinical donor management,[^33] so that donors do not expire and organs do not fail before OPO staff is able to follow-up on the referral. _“It [donor hospital training] is a hit or miss. OPO staff are also undertrained and under-knowledged...the content of the education could be improved.”_ _- OPO COO_
 
-One example of building culture to improve organ recovery we heard was, _"The family authorization piece is the number one thing we focused on. We had a system where we would actually notify all the staff that we had a family authorization pending...So even if you're in accounting, you know that someone's down in the hospital talking to a family. We wanted this to be in their DNA. This is what we do. This is the moment. The person talking to family knows that everyone's supporting them at the home office and we're all in this together...We saw our family authorizations go through the roof."_
+Donor hospital agreements set some expectations and protocols, but it is unclear who actually sees this agreement. We spoke with hospital frontline staff who said they were unaware of such an agreement and did not know what it contained. The expectations and agreements in these protocols should be a part of the donor hospital education by OPOs. As told to us by frontline staff,[^34] hospitals may need further protocols and agreements, such as what labs and procedures can be completed before a doctor declares brain death[^35] or before the next of kin has fully consented to donation. 
+
+
+### Institute feedback loop
+
+OPOs and donor hospitals working relationships often suffer.[^36] To identify — and, ideally, remediate — these issues before the damage becomes irreparable, there should be a standardized and regular feedback loop[^37] between OPOs and donor hospital staff who make referrals or were involved with a potential donor. This comes directly from an ICU nurse who told us, _"We need a feedback loop for performance. Right now they do their thing, we do our thing. There’s no meshing. No feedback."_ The first goal of this feedback loop is awareness – OPOs should have no excuses for being unaware of problems between OPO and hospital staff. The second goal is for these problems to be addressed effectively. To that end, this feedback data should be shared with CMS to ensure that actions are being taken. 
+
+Currently donor hospitals and transplant centers[^38] can file a formal complaint to CMS to open up an investigation into an OPO.[^39] However, most hospitals do not file a complaint even when there are issues, because they do not think CMS will do anything about it. This is learned behavior, as CMS has never once successfully decertified an OPO for underperformance, in large part due to the lack of reliable metric data[^40] to enable enforcement of regulations.[^41] It is a lot of work for the hospital to file, with low expectations on return, which makes it an ineffective feedback mechanism. Some hospital staff we spoke to were not even aware that this mechanism existed. Similarly, donor hospitals and transplant centers can file a formal complaint to the OPTN, however such complaints are heard by the OPO subcommittee[^42] which is run by OPOs, presenting a clear conflict of interest.
+
+Some OPOs may already be surveying their donor hospitals, but that information is kept internal and there is no meaningful pressure or accountability for the OPO to act on that information. CMS could tell OPOs that they need to survey hospitals (with standardized questions)[^43] and share that information back to CMS and the OPTN. 
 
 
 ---

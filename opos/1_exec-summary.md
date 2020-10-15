@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Executive Summary
-permalink: /OPO-Best-Practices/
+permalink: /OPO-Best-Practices-es/
 weight: 1
 toc: true
 sub: opos

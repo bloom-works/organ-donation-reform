@@ -1,56 +1,103 @@
 ---
 layout: page
-title: Organ Drop-Off 7
-permalink: /OPO-Best-Practices/
-weight: 8
+title: Organ Drop-Off 3
+permalink: /OPO-Best-Practices-2/
+weight: 4
 toc: true
 sub: opos
 ---
 
----
-
-## Drop-off Point #7: _When OPO fails to transport an organ to its destination in a timely manner, or if on arrival the organ is unsuitable for the intended recipient_
+## Drop-off Point #3: _When OPO does not obtain family authorization_
 
 
-### Frequency/Size of Drop-off: **LOW**
+### Frequency/Size of Drop-off: **MEDIUM**
 
-Analysis by Kaiser Health News (KHN) and Reveal from the Center for Investigative Reporting found that, even from the small subset of kidneys placed by the UNOS Organ Center, “between 2014 and 2019, nearly 170 organs could not be transplanted and almost 370 endured ‘near misses,’ with delays of two hours or more, after transportation problems.”[^130] For organs handled by the UNOS Organ Center, KHN reported 7% of those shipments encountered transportation problems - meaning this failure happens several times each month. One OPO coordinator we spoke to estimated this drop-off point to be about 10%. We don't know how often organ damage from transportation issues occurs across all OPOs because of lack of transparent data, but it should be a never-event and can be mitigated.
+Family authorization rates can vary widely from OPO to OPO, with even the national authorization rate average ranging based on different analysis and sources. A 2015 study of 2008-2013 data found authorization rates ranging from 63.5% to 89.5%[^75] while other studies estimated between 65%[^76] to 75%[^77] on average nationwide. Accuracy of these authorization rates is questionable, however, because OPOs self-report their rates. As an OPO CEO noted, _"If an OPO is reporting a 90% authorization rate, I would be worried about how often they are actually approaching."_
 
-_"The real issue, in a time when we can track our tube of toothpaste from Amazon in real-time, is where organs are. Giving the organ to an unreliable courier at 2:30am and feeling confident that it's going to be safe, protected, and taken directly to the destination…that’s the real issue." - OPO COO_
+Regardless, this is one of the most fixable drop-off points because 80% of families report that they would have donated if they had been approached correctly.[^78] When we have seen OPOs dramatically improve their organ transplant rate with new leadership, the new leadership’s focus always included improving family authorization rates.  
 
 
 ### Causes
 
 
-### Lack of standardization, communication, and data
+### Poor timing/poor interaction
 
-There are mandates on labeling, packaging, and who witnesses necessary signatures, but there is complete discretion for what methods OPOs can use to transport organs. Thus, every OPO manages transportation of organs differently and ad hoc. As one logistics expert framed it, _"It's people on the fly, making their own determinations, they’re not making decisions based on data."_ Because everyone is doing things differently, there’s no central source of data to analyze what are the best routing and transportation practices. 
+Problematic OPO approaches to family, such as approaching at the wrong time or having a poor quality of interaction may lead to families declining authorization.[^79] The likelihood of wrong time and poor interaction is exacerbated if OPO staff is not coordinating with hospital staff. Studies have shown that “initial receptivity to organ donation may reflect the family’s experience with the hospital healthcare team prior to the donation request...These results reveal the association between the donation decision and the coordination between HCPs and OPO staff.”[^80]
 
-Antiquated tracking systems are being used, as KHN reports, "Surgeons themselves often go to hospitals to collect and transport hearts, which survive only four to six hours out of the body. But kidneys and pancreases — which have longer shelf lives — often travel commercial, as cargo. As such, they can end up missing connecting flights or being delayed like lost luggage. Worse still, they are typically tracked with a primitive system of phone calls and paper manifests, with no GPS[^131] or other electronic tracking required.[^132] 
-
-The condition of the organ is not monitored during transport, which can also contribute to discard if its condition becomes less transplantable. Poor communication between the local recovery/procurement surgeon and transplant surgeon, as facilitated by the OPO, may also result in the transplant surgeon having different expectations of the organ and rejecting it when it arrives because of the differing condition. 
+Best practices for approaching families as documented in several sources[^81] are not always followed. For example, the OPO coordinator may not come in-person, may not be sensitive to cultural or religious issues, may not educate family about misconceptions, may not cover critical topics in their discussion with the family, or may not spend adequate time with the family. “Previous studies found] that when referred, African American (AA) families report less complete discussions about the possibility of organ donation and are often not told of the need for transplantable organs within the AA community.”[^82]Additionally, because it is an overwhelming time for many families, some may need to be approached multiple times, thus some coordinators may give up too early on obtaining authorization. 
 
 
-### Poor logistics and routing 
+### Poor training and support for requestors
 
-_"Logistics is not a core competency of OPOs, even though one of their core responsibilities is getting organs to transplant centers,"_ a logistics expert told us. This is evident in the inconsistent quality of transportation reported (e.g. organ box arrived with tire marks[^133]). There are multiple handoffs, which when handled ineffectively, result in wasted time. 
+Currently there is no central source of truth or training for coordinators requesting authorization from a donor’s next of kin. We have heard of only one masters program in the country (at University of Toledo[^83]) that provides accredited training on how to become an organ donation coordinator.[^84] There are smaller programs from different OPOs[^85] and associations, and a certificate[^86] that is not required to be hired as a coordinator. One OPO leader told us, _“There's no real specialized training. There's one Masters program in Toledo. So, they self-train...right now [OPO coordinator training] is disjointed, it's sporadic. There’s no good training program in the country that I would endorse."_ While a former OPO coordinator said, _"Training keeps getting worse and worse...there's no standard training, it's very subjective. There's the CPTC [certification program]_[^87] _but you don't even need to do it to be a coordinator. They're setting people [OPO staff] free before they're really ready."_ Other studies have also spoken to this need, "Standardized training for organ donation request staff is needed to ensure the highest quality communication during requests, optimize rates of family authorization to donation in all regions, and increase the supply of organs available for transplantation.”[^88]
 
-Cold-ischemic time (CIT) is a major issue in organ transport. Research has indicated that “each additional hour of travel may shorten the life the organ can provide to the transplanted patient.”[^134] A study found that “each additional hour of CIT was associated with a significant 1.3% increased risk of graft failure and 1.8% increased risk of death.”[^135]<sup> </sup>Therefore OPOs should be doing everything possible to reduce cold time. Oftentimes, OPOs will default to booking a flight, when having the organ driven to its destination would be faster and more efficient than waiting for the next available flight[^136]. As a former OPO coordinator noted, _“There’s going down a checklist - and there’s critical thinking to reduce cold time.”_
+
+### Poor coordination with hospital staff
+
+When OPO staff does not coordinate with hospital staff, it can be detrimental to family authorization rates and to the long term working relationship between the OPO and the hospital. One study reported that “the majority of HCPs continue to view OPO staff as outsiders rather than part of the healthcare team. A multidisciplinary request protocol involving both HCPs and OPO staff in family donation conversations has proven effective in increasing rates of organ donation.”[^89]
+
+When the coordination does not happen, OPOs remain as “outsiders” and can adversely affect the end of life care planning that the hospital staff already has in play, resulting in a poor interaction with the donor family. We heard from hospital staff, _"We have a terrible relationship with the OPO - they don't come in until the end... Steamrolling in talking to the family when they think it’s the right time. Often it’s after we’ve already set up a game plan...they jump in and take over...we don't even know who they are."_ This has further ramifications, as we heard from one donor hospital physician, _“A lot of my coworkers are not donors because of how terrible the process is at our hospital...the Palliative Care Director is not a donor because of the number of times [the OPO] really ruined end of life care.”_ 
+
+
+### Not utilizing data
+
+Lack of benchmarking data can lead to lack of motivation to improve, because OPO staff could be unaware of how they compare to other OPOs, including being unaware that they may have significant room to improve. One OPO leader who increased organ recovery at their OPO by nearly 30% in their first year as CEO used data to benchmark where their OPO was and shared with their staff that they were in the fourth quartile for authorization and conversion of donors. The staff at that OPO said they did not know they were that bad. There needed to be awareness of the problem before it could be addressed. Similarly, when data are not used to understand the demographics of an OPO’s DSA, it is a missed opportunity for the OPO to staff and train coordinators better to approach donor families of those demographics. 
 
 
 ### Potential Fixes
 
 
-### Capture data to improve routing and transparency
+### Better training for requestors
 
-One of the conditions of coverage that OPOs must uphold in order to stay certified is to transport organs in a manner that "ensures their arrival without compromise to the quality of the organ."[^137] CMS should hold OPOs accountable for every organ shipment under their purview — including recently documented failures.[^138] UNOS needs to be held accountable likewise for organ transport failures handled by the UNOS Organ Center. Additionally, OPOs should capture and make available the data on transport method, time, cost, and organ condition for each organ shipment in order to make route and transport method optimizations. Tracking organ vitals and transport conditions (such as temperature and vibrations) can provide data on how travel conditions affect organ condition. Once enough data has been gathered and shared, CMS can implement standardized regulations on what is acceptable for transport. 
+There needs to be standardized training of OPO coordinators on best practices for approaching donor families for authorization.[^90] [^91] Research indicates that the factor most likely to predict whether a family will donate is whether the OPO coordinator showed sensitivity and compassion to the family and did not pressure them to donate.[^92] Research also shows the critical need for initial training for staff involved in these conversations, even as there are no national standards that mandate these trainings.[^93] Such training could focus on already-established best approach practices, including:
 
 
-### Utilize modern technology and better communication
 
-“Modern logistics is almost entirely now a technological problem which has been solved by numerous industries,” notes our team’s technologist, “Particularly in the area of transportation, there is high interest and private funding focused on improving the logistical challenge of transporting organs.”[^139] HHS could tap these logistics industry experts by creating a federal contract for organ logistics and separate out all of the OPTN’s current transportation responsibilities. . Additionally, all OPOs should utilize organ life-extending technology currently used by some OPO peers, such as TransMedic[^140] and shipping kidneys on a pump to keep organs in optimal condition.
+*   Separating requests for organ donation from declaration of death[^94]
+*   Effectively communicating[^95] [^96] with the family - including initiating the request in an empathic manner, acknowledging the loss of the patient, covering key topics,[^97] developing a supportive trust-based relationship, and providing closure to the family.  
+*   Timing is also crucial to making effective requests. When families perceive that the request was made at the appropriate time, they are more likely to consent.
 
-In terms of communication between surgeons, it should always be a practice for OPOs, when possible, to have a conference call between the procuring surgeon and transplant surgeon before any organ recoverys to ensure everyone is on the same page on expectation. 
+In addition to best approach practices, requestors should undergo explicit and implicit bias training, as research has shown that implicit bias is a factor in donor family approaches. “There is also evidence of implicit bias, i.e., the extra-conscious beliefs or attitudes toward individuals by virtue of some ‘irrelevant characteristic,’ that permeate discussions of organ donation with African American families about the opportunity for donation while in hospital.”[^98]<sup> </sup>[^99]
+
+
+### Spend more time with donor families
+
+A clear strategy to increase family authorization is to enable OPO coordinators to spend enough time with donor families - particularly ensuring that families of color receive the same compassionate time and treatment. Research shows that family decision makers "from regions with the highest authorization rates reported the longest discussions about donation with their respective OPO requesters”[^100] and that “Families who had two-thirds more contact with OPO staff were 3 times as likely to donate irrespective of other factors.”[^101]
+
+
+### Hiring appropriate OPO staff
+
+Previous drop off points discussed the need for OPOs to hire the appropriate _number_ of OPO staff, but they also need to hire the _right people_ in their staffing. As one OPO leader told us, "_Demographics is important. You have to make sure you're talking the right language and talking to the right people...We consciously did an org chart review and we matched it to our demographics and by zip code, by hospitals, by interactions.”_ Studies have shown that OPO staff is overwhelmingly white and female, which does not accurately represent all the potential donor families the staff is approaching.[^102] “At least one study[^103] has shown family authorization rates for organ donation are higher for African Americans when the OPO staff discussing donation are also African American, but the majority of OPO staff continue to be Caucasian...These results [of lower AA authorization rates] emphasize the critical need for culturally appropriate communication skills to be deployed with African American families throughout the organ donation conversation.”[^104]
+
+Not only race and sex, but language is also a factor to consider for staffing.[^105] Staff should also reflect language demographics of the DSA, given that “avoiding translators during the approach process may improve donation rates.”[^106] We heard of one example of an OPO that had a large Spanish-speaking population in the DSA, yet 9 out of 10 staff members could not speak Spanish. 
+
+One OPO leader told us that not only do OPOs need more diversity in their frontline staff, but also in their leadership. To get to this, diverse staff needs to be developed to take on more leadership roles. _"Leadership and clinical teams at OPOs tend to be overwhelmingly, shockingly White. Black folks donate when the OPO provides optimal care for Black families. And serving communities of color isn’t hiring a single token representative to work in PR or community outreach...it’s growing representation in all ranks of leadership for the communities of color your OPO serves." -Researcher_
+
+
+### Coordination with hospital staff on approach
+
+Regular coordination between the OPO and hospital staff helps ensure communication and better integration of the ethos of saving as many lives as possible through organ donation. Hospital staff can assist with preparing families for the approach, and may even help with the authorization[^107] if they are involved in the OPO’s planning. One donor hospital physician noted that at a previous hospital she worked at that had a good relationship with their OPO, the OPO staff would always come to the hospital staff first to ask, “when would be a good time and who should we approach?” This would enable the physician to say, “I think they’d be a great candidate, I don’t know where the family’s at but I plan on talking to them in a little bit. If you’re here, I can allow you to come in towards the end of the meeting, etc.” 
+
+---
+
+>"Physicians are trying to keep their patient alive, so sometimes a death is perceived as a failure...How can we make this tragic negative turn into something more positive...have a bit of a silver lining. When we remind them of that, it becomes less of the old mentality that oh, the grim reaper is here, the vultures are here. It’s, these are our partners/trusted colleagues who we know won’t talk with the family until the time is appropriate. Establishing those relationships are absolutely key.” 
+>
+> __- OPO Coordinator__
+
+---
+
+The responsibility for building relationships and educating donor hospitals often falls exclusively to a “Hospital Development Coordinator,” however, the responsibility should extend to all OPO staff who come onsite at a hospital. A donor family approach should not be the first time the hospital staff meets an OPO coordinator. As an OPO leader told us, high performing OPOs know that _“Organ donation should NOT be transactional. OPOs can’t show up only when there’s a donor. OPOs have to have a relationship [with the donor hospital] BEFORE there’s a donor.” (paraphrased)_ 
+
+
+### Strong leadership and use of data
+
+Changes in OPO leadership have often resulted in dramatic increases in organ donation rates. “After the Washington OPO hired a new CEO in 2010 and the Oklahoma OPO hired a new CEO in 2012, donors doubled. In 2017, the South Carolina OPO hired a new CEO and saw a 40% increase in donors, and San Francisco, California, increased donors by nearly 30% within 1 year after a new CEO was hired. These numbers far outpace the corresponding overall national increase in donors from the opioid epidemic.”[^108]
+
+ 
+
+These leaders have increased donors by focusing on shifting culture within the organizations, using data to better understand community demographics, and aligning all efforts towards procuring and placing organs. One OPO leader said, _“I looked at every area of our organization and how it’s functioning. We were not aligned with our mission: every donor, every time. There were processes and procedures in place that blocked our mission to save every life possible. ”_
+
+One example of building culture to improve organ recovery we heard was, _"The family authorization piece is the number one thing we focused on. We had a system where we would actually notify all the staff that we had a family authorization pending...So even if you're in accounting, you know that someone's down in the hospital talking to a family. We wanted this to be in their DNA. This is what we do. This is the moment. The person talking to family knows that everyone's supporting them at the home office and we're all in this together...We saw our family authorizations go through the roof."_
 
 
 ---

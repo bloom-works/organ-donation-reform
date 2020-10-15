@@ -1,118 +1,103 @@
 ---
 layout: page
-title: CMS Recommendations
-permalink: /OPO-Best-Practices/
-weight: 9
+title: Organ Drop-Off permalink: /OPO-Best-Practices-1/
+weight: 3
 toc: true
 sub: opos
 ---
 
+## Drop-off Point #2: _When an OPO decides to not pursue a potential donation_
+
+
+### Frequency/Size of Drop-off: **HIGH**
+
+When a referral does come in from donor hospital staff, it is evaluated and triaged to determine whether it is a case that should be followed by the OPO. In 2018, 1.07 million referrals were reported, ultimately resulting in 10,721 deceased donors and 29,676 transplants.[^44] While not all referrals are clinically able to become donors, the OPTN itself estimated in a 2015 study that OPOs are recovering “potentially only one-fifth of the true [donor] potential” suggesting that ”significant donation potential exists that is not currently being realized.”[^45] Researchers estimate that this is a very large drop-off point for that lost donation potential, though the exact number is unknown because of inaccurate OPO self-reporting and lack of transparent data. 
+
 ---
 
-# CMS RECOMMENDATIONS 
+>"I believe a root problem is the OPTN's lack of focus on organ procurement issues. They are almost exclusively focused on ranking transplant candidates...OPOs are harassed by the OPTN for not allocating organs in proper sequence but there is no accountability for not recovering a suitable organ"
+> 
+> __— OPO CEO__
 
-In order to achieve the ambitious goals of the Executive Order on Advancing American Kidney Health,[^141] which seeks to help 17,000 more patients access life-saving deceased donor kidney transplants each year, as well as 11,000 patients receive heart, liver, lung, and pancreas transplants, CMS in collaboration with HRSA can take many actions within their oversight of OPOs, transplant centers, donor hospitals, and the OPTN.
-
-
-### OPOs
-
-Below are recommended changes to current OPO conditions of coverage, not in exact language but in essence of what should be changed or added to recover more organs, as outlined above. 
-
-**§ 486.322 Condition: Relationships with hospitals, critical access hospitals, and tissue banks.**[^142] CMS can clarify that:
+### Causes
 
 
+### Third-party call center deficiencies
 
-*   Hospital agreement should include protocols for both donation after brain death (DBD) and donation after cardiac death (DCD) cases. 
-*   Increase designated requestor training for hospital staff to at least quarterly
+Referral notifications go to whichever communication center is handling the referral. The person receiving the referrals takes in basic potential donor information and triages the case. Many OPOs are utilizing paid third-party call centers as the first point of contact for referrals from donor hospitals. One OPO leader noted, _"Many OPOs subcontract the phone receiving system with non or barely qualified phone operators"_ while a researcher also told us, _“There’s definitely a big overlap between low performers and use of a third party communication center..”_ Third party phone operators follow a set protocol[^46] given by the OPO, but may not do as good of a job in making discernments and decisions requiring critical analysis as trained OPO staff. 
 
-**§ 486.324 Condition: Administration and governing body.**[^143] CMS can clarify that:
-
+This initial triaging is a critical step in donation. As told to us by an organ research expert, _“If you asked me where do we lose the 28,000 organs, I would say most of them are lost here, at the first set of triage. A tremendous amount of drop-off happens at this moment.”_
 
 
-*   All OPOs should recover organs from donors after cardiac death and have policies in place for their protocol on how to do so.
+### Ruling out for non-medical reasons
 
-**§ 486.326 Condition: Human resources.** CMS can clarify that:
+Even after the first set of triage when the OPO has decided to follow the case, they may still not get to the point of approaching the family for consent. A researcher noted that OPO coordinators[^47] often use a rule criteria indicating “donor patient never became brain dead” as the reason why they stopped pursuing a potential donation, but often that is because the brain death test was never conducted. As noted in a 2018 study, “The failure to formally pronounce brain death may be due to a decision to withdraw supportive care prior to discussing donation with the family or staff belief that the family is unlikely to agree to donation. This critical flaw in the definition of eligible deaths[^48] fails to accurately reflect the potential donor pool within the population."[^49] As one OPO coordinator told us, _"It’s better for our data if MD never declares brain death"_ because then the OPO does not have to count the case as an eligible donor that did not result in donation.[^50]
+
+Rather than the clinical justifications OPOs provide, researchers and OPO experts noted the actual reasons for not pursuing a potential donor to be:
 
 
 
-*   OPO should have staffing measures in place for when interacting with potential donors’ next of kin for donation authorization. To the extent possible, preference should be for staff to reflect the demographics (in terms of race and language) of the community in the OPO’s DSA. Additionally, staff should undergo cultural sensitivity training for the demographics represented in their regions.[^144] 
-*   Specifically for standards on qualifications,[^145] individuals involved in donor assessment, procurement, and placement should have clinical experience or documented clinical training. 
-*   For standards on staffing,[^146] rule out of medical suitability for organ donation must be done by individuals with a clinical background; and OPOs must have a sufficient number of qualified staff to respond to 100% of potential donor referrals within an hour, including by going onsite in all cases to the extent possible. 
-*   For standards on education, training, and performance evaluation,[^147] individuals involved in donor assessment, procurement, and placement must undergo annual continued education clinical training. Individuals directly involved in, or who supervise, clinical donor management must undergo or have documented training on deceased donor management protocols and best practices. Individuals involved in speaking with next of kin for donation authorization should undergo training on donor family communication best practices, implicit bias, racial-equity, and trauma-informed care.
+*   Donor’s family wanted to turn off the ventilator and no one offered them the opportunity for donation
+*   OPO coordinator was taking too long to get to the hospital
+*   Hospital or OPO staff thought that the family was unlikely to donate
+*   OPO coordinator did not think it was a good donation prospect because the patient was marginal[^51] and only had one potential organ for donation[^52]
+*   OPO coordinator may turn away from a referral because it is deemed as a highly emotional case
+*   Person responding to a referral may have “recency bias” if the last few cases did not end well and may project this bias onto the current case
 
-**§ 486.328 Condition: Reporting of data.**[^148] CMS can clarify additions related to:
+_"Where OPOs ‘determine’ eligibility is a huge gap in the system. Many OPOs rule out patients that could be ruled in. Lack of training/knowledge, preconceived notions, pure laziness." - OPO COO_
 
+_“[OPO] Coordinators try to talk their Administrator on Call out of doing a lot of donors because they know if they move forward then they will have to work the case for the next X number of hours.” - OPO CEO_
 
+Similar to how preconceptions disproportionately affected families of color (see [Inequity in Organ Donation](/Inequity)) in regards to the initial referrals, these rule outs have resulted in health care providers (HCP)  “affording black families fewer opportunities than white families to consider the donation decision with HCP or OPO staff. Black families were more likely than white families to have not spoken with an OPO representative.”[^53] As another study noted, “The odds that a family of a White patient was approached for donation were nearly twice those for a family of an African American."[^54]
 
-*   Timeliness of OPO staff follow-up on eligible donors, and whether follow-up was onsite; 
-*   Data on demographics of donor families/next of kin who were approached for authorization (including at a minimum race/ethnicity, age, whether they were HIV-positive, and whether they were an extended criteria/marginal donor); and
-*   Data on staff demographics (gender, race, languages spoken) and background (clinical/non-clinical).
-
-**§ 486.330 Condition: Information management.**[^149] CMS can clarify
-
-
-
-*   Addition to referral information requiring the OPO to create a record for every referral using CMS provided data protocol:[^150] The record must include, at a minimum: date, time, and origin of referral; who at the OPO received the referral; how it was triaged; how long it took OPO staff to follow-up and whether it was onsite or not. CMS and OPOs should be analyzing this data as part of their QAPIs.
-
-**§ 486.342 Condition: Requesting consent.**[^151] CMS can clarify that the OPO should also ask about and clearly document any family time constraints, as well as provide the following information to the donor family: 
+When an organ is perceived to have some irregularities, OPO coordinators might do a "test match run" and decide the case is not worth pursuing because there are not a lot of recipients in the match list, so it may be harder to place the organ. The current technology fails to log these test match runs, which means that there is no record of the many viable referrals that never become donors. 
 
 
+### Inadequate staffing for onsite follow-up
 
-*   Costs associated with donation (there should be none)
-*   Timeframes for the donation decision and donation process, including any potential delays to funeral arrangements
-*   The donor’s eligibility to donate and ability for the family to decide which organs to donate
-*   The need for organs and the potential to help others, especially within that donor’s demographic community if applicable
-*   The treatment of the donor’s body during organ recovery
-*   If applicable, an explanation of a brain death diagnosis
+Even if the OPO determines that the potential donor is suitable to follow-up, the OPO may respond sub-optimally. For example, they may not show up in person (calling by phone instead) or they may follow up late, because they are not properly staffed to cover all referrals. As described by an OPO coordinator, _“This becomes detrimental especially when we’re looking at donation after circulatory death. We’re constantly finding ourselves behind the eight ball...By the time these families decide to withdraw care, they’re done, they’re emotionally and physically exhausted. And now we’re asking them to wait 2.5 hours for us to get there to talk to them.”_
 
-**§ 486.344 Condition: Evaluation and management of potential donors and organ placement and recovery.** CMS can clarify:
+Currently, there is no accountability for OPO coordinators to show up every time and in a timely manner, even if they have an agreement with the hospital on when they should show up (usually within an hour). OPOs often staff for the minimum need, rather than for the largest potential need. For example, we heard of an OPO that regularly only had two family care coordinators on call at a time, for a donation service area of 40+ hospitals. An ICU physician told us, _"My most recent interaction, we called them [the OPO] and said we're going to talk to the family, we think they're going to transition. We called them a day in advance, called them again in the morning, called them again in the afternoon, and they didn't show up until the evening. They'd been given more than 24 hours notice."_[^55] 
 
+When inadequate staffing results in OPO coordinators not showing up onsite in a timely manner, this becomes harmful to the potential donation. _“This is another massive gap in the system and where many, many donors are lost. Coordinators don’t go onsite and the management of the patient falls to the hospital/physician who is trained to provide care through death, but not after death. Being, and staying onsite is critical." - OPO COO_
 
-
-*   Within potential donor protocol management,[^152] the OPO must implement a system that ensures that a qualified physician or other qualified individual with a clinical background is available to assist in the medical management of a potential donor when the surgeon on call is unavailable.
-*   Within testing,[^153] utilize virtual crossmatching as the primary method for donor and recipient matching to the extent possible. Ensure that the potential donor's blood is typed using two separate blood samples and have a protocol in place for donors who have undergone transfusion.[^154] 
+An important note is that understaffing of frontline coordinators does not result from OPO resource constraint, but rather from resource misallocation. For example, audits and investigative journalism[^56] [^57] have found OPOs misspending taxpayer dollars on items such as retreats to 5-star hotels, private planes, and Rose Bowl tickets, as well as overly generous compensation packages for executives.[^58] 
 
 
-*   Within the collaboration with transplant program standards,[^155] the OPO should also have a protocol in place for donors who have undergone blood transfusion. 
-*   For donation after cardiac death,[^156] all OPOs should recover organs from donors after cardiac death and allow for the mention/socialization of donation after cardiac death prior to the family making the decision to stop/withdraw care.[^157] 
+### Potential Fixes
 
 
-*   Additionally, given that some hospitals express reticence to participate in DCD cases (either performing or receiving) as they increase their mortality rate thereby impacting their national benchmarking scores (a situation amplified if the DCD withdrawal occurs intraoperatively), CMS should ensure practices are in place so that such reporting does not count against hospitals performing DCDs, particularly as regards counting of deaths in the operating room.
+### Improved technology and data on what happens to referrals
 
-**§ 486.346 Condition: Organ preparation and transport.** CMS can clarify:[^158]
-
-
-
-*   The OPO must document how the organ is transported, track its condition during transport, and its final cold-ischemic time at arrival to the transplant center.  
-
-**§ 486.348 Condition: Quality assessment and performance improvement (QAPI).** CMS can clarify:[^159] 
+Better technology could standardize how referrals are tracked to make that information more transparent for all cases, including when third-party call centers are used. Currently that data lives in OPO systems like iTransplant and are only selectively shared with CMS or OPTN auditors during infrequent audits. As part of an “OPTN tech stack” for the organ transplant technology ecosystem (see [Technology Recommendations](/Technology)), a function could be to track all referrals from end-to-end with indicators for which organs are viable for transplant and whether test match runs were done. This information would be housed in a central data warehouse under the OPTN technical system caretaker[^59] and be available to SRTR[^60] and CMS for auditing. This information should also have validation points for who is reporting the data and how it is being collected for full transparency, and should be publicly available to researchers for analysis. A mandate to automatically track end-to-end data on every referral will help track trends, determine best practices, and prevent inaccurate OPO reporting. 
 
 
+### Limit discretionary rule outs
 
-*   These actions should include participation in peer-reviewed academic research to the extent possible.[^160] 
-
-**Other**: These are recommendations that do not fit into current OPO Conditions of Coverage**
-
+There should be a checks and balance system for referral rule outs. Rule outs should be medically based and only be done by a clinical person, ideally a medical director or administrator on call (AOC) with qualified training. Additionally, when conducted, test match runs should clearly indicate one of two results: either “yes” there are matches, or “no,” there are no matches. If there is even one potential match, the case should not be closed out because of anticipated difficulty in placing the organ. 
 
 
-*   Monitor the Standard Acquisition Charge (SAC) fees that OPOs pass to transplant centers and which are reimbursed by CMS. With broader allocation boundaries, the cost of organs acquisition has increased, without oversight or cap.[^161]
-*   The Office of the National Coordinator (ONC) for Health Information Technology should set interoperability standards and requirements between OPOs, Donor Hospitals, and OPTNs in order to enable the introduction of new technologies into the organ donation space that currently is highly fragmented with significant amounts of information blocking put in place by incumbents. This will enable workflows between hospitals and OPOs to move from phone/paper based exchanges into auditable and near real-time automated workflows, including more timely, electronic referrals of potential donors.
+### Pursue expanded criteria donors
+
+Along those lines, OPOs should increase their attempts to procure marginal donors (formerly known as expanded criteria donors, or ECD).[^61] Studies have shown that “kidney transplantation from ECD is associated with similar rates of recipient and graft survival compared to those obtained in kidney transplantation from standard criteria donors”[^62] and accepting such a kidney[^63] may significantly decrease waitlist time, which results in a longer and higher quality of life when compared to remaining on dialysis.[^64] The OPTN Deceased Donor Potential Study also pointed out that, “some of the unrealized potential may also be unrecognized under current practice, with organ donation not pursued due to misperceptions of the suitability for donation and concerns about impact of pursuit on performance metrics.”[^65] Introducing more marginal organs into the offer pool can help normalize them to more conservative transplant programs as viable options. Often OPOs do not because they think the organ will be difficult to place, but as one researcher told us, _"OPOs don't understand that what they offer to the system affects the appetite of the transplant centers. First two years, they might have a higher discard rate, but you’re shifting the appetite."_
 
 
-### Donor Hospitals and Transplant Centers
+### Improve accountability for existing staff
+
+While many OPOs need to hire more staff to respond to 100% of referrals, they also need to hold existing staff to better management and stronger accountability standards. An OPO CEO who dramatically increased the OPO’s organ donation rate said, _“Hiring new staff wasn’t necessary at first; accountability was the issue. Things needed to be made clear on expectations ._” Expectations include that coordinators should respond to a referral within an hour (or whatever time is set in their donor hospital agreement). Showing up, even if the case ends up not being a potential donor, is a chance for coordinators to show their face to hospital staff and do donor hospital education.
 
 
+### Better OPO coordinator staffing and support
 
-*   Experience surveys could be developed and administered as part of the upcoming ESRD Treatment Choices Learning Collaborative. Just as CMS monitors patient experience with HCAHPS, CMS could monitor and measure OPO performance based on input from clinical hospital teams involved in organ donation (on topics such as OPO staff interactions, staff knowledge, and quality of the engagement). These surveys could provide insight into how clinicians experience OPOs and illuminate opportunities for research. 
+OPOs should be staffing for their highest potential in a DSA, rather than the current or minimum volume. While this can be difficult because an OPO may get five potential donors in a day, and then zero donors the next week, they need to stay overstaffed to ensure that no potential organs are lost from inadequate staffing. Historical data on past referrals and national averages can be used to determine the potential at which the OPO should be staffed[^66]. _"OPOs were literally saying, we have 30 coordinators, they need 80, but they can't conceptually understand that. So they go to 39 and go, wow we increased by 30%"_ _- OPO COO_
 
+To be able to staff adequately, OPOs need a qualified pool of candidates.[^67] _"The easy answer is, well let's go get more coordinators. It's not that easy, because most people, even those in the medical field, don't know that this industry exists.” - OPO COO_. OPOs and other related organizations can help expand the hiring pool by publicizing in analogous fields to attract new talent and raise awareness of OPO coordinator positions as potential career paths. As one study noted, “Given that one of the most difficult aspects of a coordinator's work is juggling the unusual hours of the job and the on‐call lifestyle, prior experience in a critical care environment is perhaps the single most important background characteristic that an OPO director should look for in hiring. This could include work in an intensive care unit, an emergency department, or as a paramedic.”[^68]
 
-### OPTN (HRSA)
+To maintain adequate staffing, OPOs need to not only hire enough staff, but also to retain them. Studies have found OPO staff yearly attrition rates to range from 17% to 28%, with average job tenure of less than three years.[^69] A study surveying coordinators representing 52 out of 58 OPOs reported a wide range in annual compensation, ranging from under $45,000 to over $100,000. This study also noted that there are other strategies for retaining coordinators beyond salary. For example, they could include benefits such as reduced number of days each month that employees are on-call and a separate pay when on-call, regardless of actually being called into service.[^70] 
 
+Research suggests that “lack of any formalized training to perform their job functions likely contributes to the high rates of staff burnout and turnover”[^71] and 75% of coordinators surveyed “expressed a desire for more training and education opportunities.”[^72] OPO coordinators should be trained in trauma-informed care for approaching difficult cases and be provided with healthy strategies for managing stress to prevent burn out. Long hours can also affect an OPO coordinator’s ability to make critical decisions. We heard from a consultant who has worked with many OPOs that some coordinators who stay on longer will _“develop maladaptive behaviors to cope with that level of stress, trauma, and lack of rest.”_ and that _“We tend to hollow out the workforce and then complain when we have these really deplorable conditions.”_
 
-
-*   Update organ offer technology to meet modern software standards and address baseline usability concerns, as described in drop-off point #1 above and in Driving Innovation in the Organ Transplant Technology “Ecosystem” _(link to tech doc)_. 
-*   CMS currently requires OPOs to retain records of donors which creates duplicative systems in OPO databases. HRSA should instead require that this data be captured, managed, and centralized in an OPTN database as part of the Organ Transplant Technology “ecosystem” _(link to tech doc)_. If able to take effect, this would require changes to OPO Condition of Coverage § 486.330 as well.
-*   HRSA should make available to all transplant centers and OPOs the data dashboards of organ procurement and transplant information as a service of the OPTN. Transplant centers and OPOs should not have to pay additional money individually for this information.
+Additionally, OPOs should staff coordinators remotely outside of the main office and in the hospitals to optimize response time. Ideal are in-house coordinators at major hospitals. “The presence of an in-house coordinator (IHC) program significantly improves conversion rates for organ donation as well as organ yield.”[^73]<sup> </sup>[^74]<sup> </sup>
 
 
 ---
