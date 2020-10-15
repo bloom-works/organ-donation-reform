@@ -22031,6 +22031,18 @@ a[href$=".pdf"]:after {
   h1 {
     page-break-before: always;
   }
+
+  .print-button {
+    display: none
+  }
+
+  .back {
+    display: none
+  }
+
+  .in-this {
+    display: none
+  }
 }
 
 @media (min-width: 640px) {
