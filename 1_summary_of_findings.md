@@ -157,11 +157,6 @@ While not all patient referrals are clinically able to become donors, a study co
 
 ![Image of a hospital worker carrying an organ in a cooler](/assets/images/wasted-organs.jpg)
 
-**Figure 4**{:#figure-4}
-![Image detailing how an organ is managed throughout the organ donation process](/assets/images/organ-management.jpg)
-
-[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF](/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
-
 
 *   **Not all potential donor referrals are made.** A referral for a potential donor kicks off the whole organ donation process.[^24] Organ procurement organizations (OPOs) could work more effectively with donor hospitals to ensure all viable patients are referred. Some researchers, however, say OPOs avoid this to make their numbers look better. _“Many OPOs have instructed hospitals to NOT call on certain patients thus eliminating organ donors before they even get to the OPO.” - OPO Leader_
 
@@ -173,6 +168,11 @@ While not all patient referrals are clinically able to become donors, a study co
 
 *   **OPOs do not place organs or get them where they need to be in time.** Once an organ is recovered, OPOs rely on an inefficient matching technology from UNOS to place the organ while it is still viable. The algorithm can waste time by suggesting the wrong offers. For example, 17% of kidney offers go to deceased patients.[^26] “_What tends to happen is that sick people get offers for organs that they can't tolerate because they're too sick already. They'll have too many complications. There IS a patient for that organ, but an offer never makes it to a patient who can accept the organ._” - Researcher
 
+
+**Figure 4**{:#figure-4}
+![Image detailing how an organ is managed throughout the organ donation process](/assets/images/organ-management.jpg)
+
+[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF](/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
 
 ---
 
