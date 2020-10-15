@@ -13,16 +13,18 @@
 
     <div class="max-w-7xl container mx-auto py-8 md:py-20 md:pb-40 relative">
       <div class="flex flex-wrap -mx-6">
-        <div class="w-full print:w-full sm:w-1/3 px-6 mb-10 sm:mb-0">{% include sidebar.html %}</div>
-        <div class="w-full print:w-full sm:w-2/3 px-6">
-          {{ content }}
-          <a href="#" class="back flex items-center red-6">
-            Back to top of page
-            <span class="ml-2">
-              <svg width="22" height="22" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="11" fill="#fff"/><path d="M11.707 4.293a1 1 0 00-1.414 0l-6.364 6.364a1 1 0 101.414 1.414L11 6.414l5.657 5.657a1 1 0 001.414-1.414l-6.364-6.364zM12 19V5h-2v14h2z" fill="#D43C37"/></svg>
-            </span>
-          </a>
+        <div class="relative w-full print:w-full sm:w-1/3 px-6 mb-10 sm:mb-0">
+          {% include sidebar.html %}
+          <div id="back-to-top" class="fixed bottom-0 hidden">
+            <a href="#" class="back flex items-center red-6">
+              Back to top of page
+              <span class="ml-2">
+                <svg width="22" height="22" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="11" fill="#fff"/><path d="M11.707 4.293a1 1 0 00-1.414 0l-6.364 6.364a1 1 0 101.414 1.414L11 6.414l5.657 5.657a1 1 0 001.414-1.414l-6.364-6.364zM12 19V5h-2v14h2z" fill="#D43C37"/></svg>
+              </span>
+            </a>
+          </div>
         </div>
+        <div class="w-full print:w-full sm:w-2/3 px-6">{{ content }}</div>
       </div>
     </div>
 
@@ -45,41 +47,35 @@
       </div>
     </div>
 
+    <!-- Fades in the button when you scroll down -->
     <script>
-      (function(document) {
-        var toggle = document.querySelector('.sidebar-toggle');
-        var sidebar = document.querySelector('#sidebar');
-        var checkbox = document.querySelector('#sidebar-checkbox');
+      var link = document.getElementById("back-to-top");
+      var amountScrolled = 250;
 
-        document.addEventListener('click', function(e) {
-          var target = e.target;
-
-          if(!checkbox.checked ||
-             sidebar.contains(target) ||
-             (target === checkbox || target === toggle)) return;
-
-          checkbox.checked = false;
-        }, false);
-
-        var appended = document.getElementById('backToTop');
-        
-        if (appended) {
-          onscroll = function() {
-            var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
-            if (scrollTop > 500) {
-              if (!appended) {
-                document.body.appendChild(bookmark);
-                appended = true;
-              }
-            } else {
-              if (appended) {
-                document.body.removeChild(bookmark);
-                appended = false;
-              }
-            }
-          };
+      window.addEventListener('scroll', function(e) {
+        console.log(window.pageYOffset > amountScrolled);
+        if ( window.pageYOffset > amountScrolled ) {
+          link.classList.remove('hidden');
+        } else {
+          link.classList.add('hidden');
         }
-      })(document);
+      });
+
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+
+        var distance = 0 - window.pageYOffset;
+        var increments = distance/(500/16);
+        function animateScroll() {
+            window.scrollBy(0, increments);
+            if (window.pageYOffset <= document.body.offsetTop) {
+                clearInterval(runAnimation);
+            }
+        };
+
+        // Loop the animation function
+        var runAnimation = setInterval(animateScroll, 16);
+      });
     </script>
   </body>
 </html>

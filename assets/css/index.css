@@ -22007,9 +22007,7 @@ a[href$=".pdf"]:after {
   padding: 1rem;
   color: #ffffff;
   font-weight: 600;
-  position: absolute;
-  float: right;
-  right: 0;
+  float: left;
 }
 
 .print-button {
