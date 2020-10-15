@@ -45,9 +45,9 @@ After speaking with organ procurement organization (OPO) leaders, transplant cen
 Responsibilities around organ donation and transplantation in the U.S. are diffused across several different government agencies and contractors ([see “Governance and Oversight in the Organ Donation Process,” Figure 1](#figure-1)), leading to an unnecessarily complex — and conflicted — structure. 
 
 **Figure 1**{:#figure-1}
-![Detailed map of governance and oversight in the organ donation process](/assets/images/gov-oversight-map.jpg)
+![Detailed map of governance and oversight in the organ donation process]({{site.baseurl}}/assets/images/gov-oversight-map.jpg)
 
-[Download the "Governance and Oversight in the Organ Donation Process" PDF](/assets/PDF/ODR-Governance_Map_Final.pdf)
+[Download the "Governance and Oversight in the Organ Donation Process" PDF]({{site.baseurl}}/assets/PDF/ODR-Governance_Map_Final.pdf)
 
 ---
 
@@ -60,9 +60,9 @@ Responsibilities around organ donation and transplantation in the U.S. are diffu
 When Congress passed the National Organ Transplant Act (NOTA) of 1984, the government established the Organ Procurement and Transplantation Network (OPTN) and mandated that it be operated by a private contractor. The contract is currently overseen by Health Resources and Services Administration (HRSA) under Health and Human Services  (HHS). The only contractor who has ever held the contract is the United Network for Organ Sharing (UNOS). ([See Organ Donation Policy, Figure 2.](#figure-2)) 
 
 **Figure 2**{:#figure-2} 
-![Image of organ donation policy hierarchy](/assets/images/policy-chart.jpg)
+![Image of organ donation policy hierarchy]({{site.baseurl}}/assets/images/policy-chart.jpg)
 
-[Download the "Organ Donation Policy Chart" PDF](/assets/PDF/ODR-Policy_Chart_Final.pdf)
+[Download the "Organ Donation Policy Chart" PDF]({{site.baseurl}}/assets/PDF/ODR-Policy_Chart_Final.pdf)
 
 ---
 
@@ -99,7 +99,7 @@ OPOs play the vital role of procuring organs, finding a matching recipient, and 
 
 ---
 
-A recent CMS proposed rule has shown that a majority of OPOs are failing basic proposed outcome metrics,[^18] resulting in many organs going unrecovered, mishandled, or even lost. (See “The Most Frequent Causes of Wasted Organs,” page 7)
+A recent CMS proposed rule has shown that a majority of OPOs are failing basic proposed outcome metrics,[^18] resulting in many organs going unrecovered, mishandled, or even lost. (See [The Most Frequent Causes of Wasted Organs](#the-most-frequent-causes-of-wasted-organs))
 
 ---
 
@@ -127,9 +127,9 @@ Even though OPOs are technically overseen by the OPTN and CMS, they largely act 
 The current flow of money and costs ([see “Organ Procurement Money Flow,” Figure 3](#figure-3)) between agencies and federal contractors overseeing organ procurement and placement does not incentivize getting patients transplants.
 
 **Figure 3**{:#figure-3}
-![Image of the organ donation process money flow](/assets/images/money-map.jpg)
+![Image of the organ donation process money flow]({{site.baseurl}}/assets/images/money-map.jpg)
 
-[Download the "Organ Procurement Money Flow" PDF](/assets/PDF/ODR-Money_Map_Final.pdf)
+[Download the "Organ Procurement Money Flow" PDF]({{site.baseurl}}/assets/PDF/ODR-Money_Map_Final.pdf)
 
 The federal contractor in charge of overseeing the U.S. organ procurement system, UNOS, earns about $58 million a year, with the bulk of their revenue coming from transplant centers paying to add patients to the organ waitlist. 
 
@@ -155,12 +155,12 @@ While not all patient referrals are clinically able to become donors, a study co
 
 ### **The Most Frequent Causes of Wasted Organs**: 
 
-![Image of a hospital worker carrying an organ in a cooler](/assets/images/wasted-organs.jpg)
+![Image of a hospital worker carrying an organ in a cooler]({{site.baseurl}}/assets/images/wasted-organs.jpg)
 
 **Figure 4**{:#figure-4}
-![Image detailing how an organ is managed throughout the organ donation process](/assets/images/organ-management.jpg)
+![Image detailing how an organ is managed throughout the organ donation process]({{site.baseurl}}/assets/images/organ-management.jpg)
 
-[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF](/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
+[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF]({{site.baseurl}}/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
 
 
 *   **Not all potential donor referrals are made.** A referral for a potential donor kicks off the whole organ donation process.[^24] Organ procurement organizations (OPOs) could work more effectively with donor hospitals to ensure all viable patients are referred. Some researchers, however, say OPOs avoid this to make their numbers look better. _“Many OPOs have instructed hospitals to NOT call on certain patients thus eliminating organ donors before they even get to the OPO.” - OPO Leader_
@@ -212,7 +212,7 @@ Opportunities to modernize and remove conflicts from governance structure:
 
 *   Broaden options for HHS to more freely fulfill organ donation objectives without needing to designate as many functions to a contractor, and maximize competition for work done by the OPTN, so that HHS can access a much larger vendor pool.
 *   Centralize governance and oversight to contractors working on organ donation within one department, and staff it with a digital service team that can adequately manage and run technology services. 
-*   Use modern acquisition strategies for technologies related to the OPTN. (See Strategy for Buying OPTN Tech.)
+*   Use modern acquisition strategies for technologies related to the OPTN. (See [Strategy for Buying OPTN Tech](/Buying-OPTN-Tech).)
 
 Opportunities for CMS to improve accountability in organ recovery and placement: 
 
@@ -231,7 +231,7 @@ Opportunities for improved technology in organ donation:
 *   Improve organ offer technology to ensure all organs find a suitable recipient. This improved technology should ensure no offers go to deceased patients. It could also include assisted clinical decision making[^28] to help transplant centers quickly decide whether to accept.
 Medical professionals save nearly 100 lives every day with organ transplants.[^29] People currently waiting for a heart, lung, kidney, liver, or pancreas face the painful reality that the science exists to save them, and yet it’s an outdated, bureaucratic system that’s getting in the way. Employing a few structural changes could have a massive impact on the number of lives saved.  
 
-![Woman looking off into the distance](/assets/images/go-from-here.jpg)
+![Woman looking off into the distance]({{site.baseurl}}/assets/images/go-from-here.jpg)
 
 ## Methodology
 

@@ -66,9 +66,9 @@ Discovery Sprint**:** Based on interviews with OPO, donor hospital, and transpla
 # ORGAN RECOVERY PROCESS
 
 **Figure 4**{:#figure-4}
-![Image detailing how an organ is managed throughout the organ donation process](/assets/images/organ-management.jpg)
+![Image detailing how an organ is managed throughout the organ donation process]({{site.baseurl}}/assets/images/organ-management.jpg)
 
-[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF](/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
+[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF]({{site.baseurl}}/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
 
 
 As mentioned above, OPOs have the responsibility of procuring organs from deceased patients and placing them with transplant centers. To carry out this responsibility, OPO staff must coordinate with donor hospitals[^8] to procure organs from deceased donor patients who meet clinical criteria, and with transplant centers[^9] to match those organs with recipients on the organ waiting list. 
