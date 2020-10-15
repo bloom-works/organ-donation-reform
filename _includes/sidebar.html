@@ -9,8 +9,8 @@
       <li class="{% if page.url == node.url %}nav-active{% endif %}"><a href="{{ site.baseurl }}{{ node.url }}">{{ i }}. {{ node.title }}</a></li>
       {% assign i = i | plus:1 %}
     {% endfor %}
-    <li>
+    <!-- <li>
       <a href="{{ site.baseurl }}/print"  target="_blank">Complete Playbook (Print View)</a>
-    </li>
+    </li> -->
   </ul>
 </nav>

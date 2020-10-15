@@ -88,9 +88,9 @@ The U.S. government has the opportunity to save thousands of lives and also bill
 ## Current State of the Ecosystem
 
 **Figure 1**{:#figure-1}
-![Detailed map of governance and oversight in the organ donation process](/assets/images/gov-oversight-map.jpg)
+![Detailed map of governance and oversight in the organ donation process]({{site.baseurl}}/assets/images/gov-oversight-map.jpg)
 
-[Download the "Governance and Oversight in the Organ Donation Process" PDF](/assets/PDF/ODR-Governance_Map_Final.pdf)
+[Download the "Governance and Oversight in the Organ Donation Process" PDF]({{site.baseurl}}/assets/PDF/ODR-Governance_Map_Final.pdf)
 
 Before diving further into suggestions for improving the organ transplant ecosystem, we will first consider the most common systems and actors in play. 
 
@@ -196,10 +196,10 @@ OPO technology varies greatly between each organization, but ultimately they all
 All the other systems suffer from similar shortcomings, leaving many users frustrated with the amount of work and training required to constantly shift between several technical systems to perform basic functions. As an example of how this surfaces, when a transplant center has to make a decision on an organ offer they have to look at multiple screens: the donor info in DonorNet, the candidate ranking info in Waitlist, and then candidate's clinical info in the transplant hospital's EMR. It would be much easier and quicker if they could look at one screen for this info to make the offer decision.
 
 **Figure 2**{:#figure-2}
-![An overview of technology used by the organ tranplant community](/assets/images/tech-current.jpg)
+![An overview of technology used by the organ tranplant community]({{site.baseurl}}/assets/images/tech-current.jpg)
 
 [Download the "An Overview of Technology Used By
-the Organ Transplant Community" PDF](/assets/PDF/ODR-Current_Tech_Final.pdf)
+the Organ Transplant Community" PDF]({{site.baseurl}}/assets/PDF/ODR-Current_Tech_Final.pdf)
 
 
 
@@ -319,9 +319,9 @@ In the “bottom-up” approach, we see startup innovators working in the presen
 
 
 **Figure 3**{:#figure-3}
-![Detailed map of how organ technology could be improved in the long term](/assets/images/tech-future.jpg)
+![Detailed map of how organ technology could be improved in the long term]({{site.baseurl}}/assets/images/tech-future.jpg)
 
-[Download the "How Organ Technology Could be Improved in the Long Term" PDF](/assets/PDF/ODR-Far_Future_Tech_Final.pdf)
+[Download the "How Organ Technology Could be Improved in the Long Term" PDF]({{site.baseurl}}/assets/PDF/ODR-Far_Future_Tech_Final.pdf)
 
 
 There is a consistent pattern employed by digital service companies in terms of effectively working with a government agency to build effective software and technology infrastructure. As referenced earlier, the [Digital Services Playbook](https://playbook.cio.gov/) pattern is the clearest published outline for how this process takes place. We emphasize that successfully implementing this playbook is highly dependent on the government selecting the right vendor which is covered in our [Strategy for Buying OPTN Tech](/Buying-OPTN-Tech). 
@@ -373,9 +373,9 @@ As opposed to achieving a fixed, contractually agreed upon end state, like the g
 ### Bottom-Up: Fostering Innovative Startups
 
 **Figure 3**{:#figure-2}
-![An overview of how organ technology could be improved in the short term](/assets/images/tech-shortterm.jpg)
+![An overview of how organ technology could be improved in the short term]({{site.baseurl}}/assets/images/tech-shortterm.jpg)
 
-[Download the "How Organ Technology Could Be Improved in the Short Term" PDF](/assets/PDF/ODR-Near_Future_Tech_Final.pdf)
+[Download the "How Organ Technology Could Be Improved in the Short Term" PDF]({{site.baseurl}}/assets/PDF/ODR-Near_Future_Tech_Final.pdf)
 
 
 Even if the above-described top-down strategy occurs at an extremely quick pace, it will take some time for changes to directly impact the system. Waiting for the changes to occur is not the only effective strategy for creating change across the system. 
