@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Introduction
+title:   
 home: true
 weight: 0
+
 ---
 
 The U.S. could save thousands of lives and $40 billion in taxpayer money over the next decade if it fixed what was broken in the organ donation system.
@@ -13,8 +14,11 @@ Bloom Works investigated and analyzed the current organ donation system through 
 
 ## Where to start? 
 
-We recommend reading through our Summary of Findings here (or you can read the printable PDF version [here](#)).
+![Summary of Findings front cover](assets/images/odr-sum-cov.jpg)
+
+We recommend reading through our Summary of Findings here (or you can [read the printable PDF version here](/assets/PDF/ODR_Summary.pdf)).
 
 You can also view our more comprehensive reports with specific areas of focus, such as [Inequity in Organ Donation](/Inequity), [OPO Best Practices](/OPO-Best-Practices), [Technology Recommendations](/Technology), and [Acquisition Strategy for OPTN Tech](/Acquisition-Strategy). If you want to see all the maps and charts to explain the process, they are all in one place in the [appendix](/appendix). 
 
-This entire report is on github. You can read, download sourcefiles, and contribute.  
+
+[This entire report is on github](#). You can read, download source files, and contribute.
