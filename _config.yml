@@ -1,6 +1,6 @@
 # Setup
-title:            'Organ Donation in America'
-tagline:          'Investigating the roadblocks in a broken system'
+title:            'The Costly Effects of an Outdated Organ Donation System'
+tagline:          ''
 description:      'This is the description'
 
 author:
@@ -11,7 +11,7 @@ author:
 version:          1.0.0
 
 github:
-  repo:           https://github.com/CTOpenData/data-sharing-playbook
+  repo:           https://github.com/Bloom-Works/organ-donation-reform
 
 # Google Analytics
 google_analytics: UA-XXXXXXXXXX-X
