@@ -99,7 +99,7 @@ OPOs play the vital role of procuring organs, finding a matching recipient, and 
 
 ---
 
-A recent CMS proposed rule has shown that a majority of OPOs are failing basic proposed outcome metrics,[^18] resulting in many organs going unrecovered, mishandled, or even lost. (See “The Most Frequent Causes of Wasted Organs,” page 7)
+A recent CMS proposed rule has shown that a majority of OPOs are failing basic proposed outcome metrics,[^18] resulting in many organs going unrecovered, mishandled, or even lost. (See [The Most Frequent Causes of Wasted Organs](#the-most-frequent-causes-of-wasted-organs))
 
 ---
 
@@ -212,7 +212,7 @@ Opportunities to modernize and remove conflicts from governance structure:
 
 *   Broaden options for HHS to more freely fulfill organ donation objectives without needing to designate as many functions to a contractor, and maximize competition for work done by the OPTN, so that HHS can access a much larger vendor pool.
 *   Centralize governance and oversight to contractors working on organ donation within one department, and staff it with a digital service team that can adequately manage and run technology services. 
-*   Use modern acquisition strategies for technologies related to the OPTN. (See Strategy for Buying OPTN Tech.)
+*   Use modern acquisition strategies for technologies related to the OPTN. (See [Strategy for Buying OPTN Tech](/Buying-OPTN-Tech).)
 
 Opportunities for CMS to improve accountability in organ recovery and placement: 
 
