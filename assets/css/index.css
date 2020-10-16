@@ -21866,8 +21866,8 @@ a[href$=".pdf"]:after {
 .prose img {
   display: block;
   margin-bottom: 1.25rem;
-  width: 100%;
-}
+/*  width: 100%;
+*/}
 
 .prose img small {
   display: block;
