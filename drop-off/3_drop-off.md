@@ -4,7 +4,7 @@ title: Organ Drop-Off 1
 permalink: /OPO-Best-Practices-0/
 weight: 3
 toc: true
-sub: opos
+sub: drop-off
 ---
 
 ## Drop-off Point #2: _When an OPO decides to not pursue a potential donation_
