@@ -1,104 +1,269 @@
 ---
 layout: page
-title: Organ Drop-Off 1
-permalink: /OPO-Best-Practices-0/
-weight: 3
+title: Organ Drop-Off 4
+permalink: /OPO-Best-Practices-5/
+weight: 6
 toc: true
-sub: opos
+sub: drop-off
 ---
 
-## Drop-off Point #2: _When an OPO decides to not pursue a potential donation_
+## Drop-off Point #5: _When OPO does not place an organ while it is still viable_
 
 
-### Frequency/Size of Drop-off: **HIGH**
+### Frequency/Size of Drop-off: **MEDIUM**
 
-When a referral does come in from donor hospital staff, it is evaluated and triaged to determine whether it is a case that should be followed by the OPO. In 2018, 1.07 million referrals were reported, ultimately resulting in 10,721 deceased donors and 29,676 transplants.[^44] While not all referrals are clinically able to become donors, the OPTN itself estimated in a 2015 study that OPOs are recovering “potentially only one-fifth of the true [donor] potential” suggesting that ”significant donation potential exists that is not currently being realized.”[^45] Researchers estimate that this is a very large drop-off point for that lost donation potential, though the exact number is unknown because of inaccurate OPO self-reporting and lack of transparent data. 
+OPOs use the UNOS organ offer technology to generate a match list between the organ and recipient candidates on the waitlist. OPOs are responsible for going down this list to manage organs offers[^113] until the offer is accepted. Ideally every organ from a donor would have an accepted match before it is surgically removed, but that is often not the case.[^114] When that happens, OPOs are running against the clock because of how long the organ is outside the body. As one OPO leader told us, _"Organ placement can take forever – many times it is the commitment of the coordinator doing the allocation that drives whether the organ gets placed. Many OPOs ‘try’ locally/regionally – going through the list but if it ‘gets too hard’ they give up and the organ is lost."_
 
----
+How often this happens varies depending on organ type and OPO practices. As reported to the OPTN in 2018, 19% of kidneys, 21% of pancreases, 8% of livers, 3% of intestines, 1% of hearts, and 7% of lungs were recovered for transplant but not transplanted.[^115] OPO experts we spoke to said they believe not placing the organ in time is the largest point of organ discard for the remaining drop off points.[^116] 
 
->"I believe a root problem is the OPTN's lack of focus on organ procurement issues. They are almost exclusively focused on ranking transplant candidates...OPOs are harassed by the OPTN for not allocating organs in proper sequence but there is no accountability for not recovering a suitable organ"
-> 
-> __— OPO CEO__
 
 ### Causes
 
 
-### Third-party call center deficiencies
+### Bad organ offer technology
 
-Referral notifications go to whichever communication center is handling the referral. The person receiving the referrals takes in basic potential donor information and triages the case. Many OPOs are utilizing paid third-party call centers as the first point of contact for referrals from donor hospitals. One OPO leader noted, _"Many OPOs subcontract the phone receiving system with non or barely qualified phone operators"_ while a researcher also told us, _“There’s definitely a big overlap between low performers and use of a third party communication center..”_ Third party phone operators follow a set protocol[^46] given by the OPO, but may not do as good of a job in making discernments and decisions requiring critical analysis as trained OPO staff. 
-
-This initial triaging is a critical step in donation. As told to us by an organ research expert, _“If you asked me where do we lose the 28,000 organs, I would say most of them are lost here, at the first set of triage. A tremendous amount of drop-off happens at this moment.”_
+DonorNet interface is difficult to use and presents information in a way that can discourage organ acceptance by disregarding behavioral biases and placing a large cognitive burden on transplant surgeons.[^117] As a result 84% of all kidney offers are declined by transplant centers on first offer because of organ or donor quality concerns, patient-related factors, logistical limitations, or other concerns.[^118] Additionally, the waitlist is not updated properly, resulting in 17% of transplanted kidneys getting offered to at least 1 deceased patient.[^119] This is not only bad technology practice, but it also wastes time and contributes to discards[^120]. A researcher has framed this as, _"The offer has never made it to a patient who CAN accept it. What tends to happen is that sick people get offers for organs that they can't tolerate because they're too sick already. They'll have too many complications. There IS a patient for that organ, but an offer never makes it to a patient who can accept the organ."_ 
 
 
-### Ruling out for non-medical reasons
+### Ineffective use of time working through the match list
 
-Even after the first set of triage when the OPO has decided to follow the case, they may still not get to the point of approaching the family for consent. A researcher noted that OPO coordinators[^47] often use a rule criteria indicating “donor patient never became brain dead” as the reason why they stopped pursuing a potential donation, but often that is because the brain death test was never conducted. As noted in a 2018 study, “The failure to formally pronounce brain death may be due to a decision to withdraw supportive care prior to discussing donation with the family or staff belief that the family is unlikely to agree to donation. This critical flaw in the definition of eligible deaths[^48] fails to accurately reflect the potential donor pool within the population."[^49] As one OPO coordinator told us, _"It’s better for our data if MD never declares brain death"_ because then the OPO does not have to count the case as an eligible donor that did not result in donation.[^50]
+Several decision loops occur during the placement process. After doing the match run to get a match list, an OPO can notify up to 3 transplant programs (for an unlimited number of corresponding waitlist recipient candidates) on the list that there is a potential match. For each recipient candidate, transplant centers have an hour to acknowledge the provisional offer, then an hour to evaluate the offer and put in their provisional yes or refusal code. We have heard that transplant centers will often say yes to the provisional offer, even if they have not fully evaluated the offer and use this as a way to “hold” their place in line. This provisional offer is meant to save time by removing recipients who are not interested, but because it is not used properly, it wastes time when the primary offer comes around because only then will some transplant centers start the evaluation process. 
 
-Rather than the clinical justifications OPOs provide, researchers and OPO experts noted the actual reasons for not pursuing a potential donor to be:
+The primary offer is given to one recipient on the list at a time, and transplant centers have one hour to respond. The offer does not automatically close after an hour, however, so transplant centers may take more than the allotted hour to respond, which eats up time and contributes to discards if they ultimately refuse the organ. 
 
-
-
-*   Donor’s family wanted to turn off the ventilator and no one offered them the opportunity for donation
-*   OPO coordinator was taking too long to get to the hospital
-*   Hospital or OPO staff thought that the family was unlikely to donate
-*   OPO coordinator did not think it was a good donation prospect because the patient was marginal[^51] and only had one potential organ for donation[^52]
-*   OPO coordinator may turn away from a referral because it is deemed as a highly emotional case
-*   Person responding to a referral may have “recency bias” if the last few cases did not end well and may project this bias onto the current case
-
-_"Where OPOs ‘determine’ eligibility is a huge gap in the system. Many OPOs rule out patients that could be ruled in. Lack of training/knowledge, preconceived notions, pure laziness." - OPO COO_
-
-_“[OPO] Coordinators try to talk their Administrator on Call out of doing a lot of donors because they know if they move forward then they will have to work the case for the next X number of hours.” - OPO CEO_
-
-Similar to how preconceptions disproportionately affected families of color (see [Inequity in Organ Donation](/Inequity)) in regards to the initial referrals, these rule outs have resulted in health care providers (HCP)  “affording black families fewer opportunities than white families to consider the donation decision with HCP or OPO staff. Black families were more likely than white families to have not spoken with an OPO representative.”[^53] As another study noted, “The odds that a family of a White patient was approached for donation were nearly twice those for a family of an African American."[^54]
-
-When an organ is perceived to have some irregularities, OPO coordinators might do a "test match run" and decide the case is not worth pursuing because there are not a lot of recipients in the match list, so it may be harder to place the organ. The current technology fails to log these test match runs, which means that there is no record of the many viable referrals that never become donors. 
+Additionally, transplant centers may ask for more tests to be done before responding to an offer. While OPTN policy does list some labs that must occur before offers are made, because of the wide range of potential donor conditions, there are some tests that are not mandated, yet are often still needed by transplant centers to make an offer decision, such as a cardiac catheterization or chest computed tomography (CT) scan. Some OPOs are less proactive about performing these tests before the match run as a perceived cost saving measure, which can waste valuable time. 
 
 
-### Inadequate staffing for onsite follow-up
+### UNOS Organ Center inadequacies 
 
-Even if the OPO determines that the potential donor is suitable to follow-up, the OPO may respond sub-optimally. For example, they may not show up in person (calling by phone instead) or they may follow up late, because they are not properly staffed to cover all referrals. As described by an OPO coordinator, _“This becomes detrimental especially when we’re looking at donation after circulatory death. We’re constantly finding ourselves behind the eight ball...By the time these families decide to withdraw care, they’re done, they’re emotionally and physically exhausted. And now we’re asking them to wait 2.5 hours for us to get there to talk to them.”_
+UNOS Organ Center is responsible for kidneys that need to be placed nationally, and pancreata that need to be placed regionally or nationally. We heard from multiple people in the OPO industry about how slow, inefficient, and unaccountable the UNOS Organ Center can be. 
 
-Currently, there is no accountability for OPO coordinators to show up every time and in a timely manner, even if they have an agreement with the hospital on when they should show up (usually within an hour). OPOs often staff for the minimum need, rather than for the largest potential need. For example, we heard of an OPO that regularly only had two family care coordinators on call at a time, for a donation service area of 40+ hospitals. An ICU physician told us, _"My most recent interaction, we called them [the OPO] and said we're going to talk to the family, we think they're going to transition. We called them a day in advance, called them again in the morning, called them again in the afternoon, and they didn't show up until the evening. They'd been given more than 24 hours notice."_[^55] 
+One former OPO coordinator told us, _"When I was placing organs, I would have 3 phone calls out at once, not wasting a minute...The UNOS [Organ Center] people don't have that urgency. They sit at their desk, they make their call, they go to the next one. They don't have 5 calls out, they don't call ahead to an aggressive transplant center...The good OPOs, they are on it, they don't waste a minute and they'll do some of UNOS' work for them. UNOS [Organ Center] people are non-clinical people with no emotional tie to the case."_
 
-When inadequate staffing results in OPO coordinators not showing up onsite in a timely manner, this becomes harmful to the potential donation. _“This is another massive gap in the system and where many, many donors are lost. Coordinators don’t go onsite and the management of the patient falls to the hospital/physician who is trained to provide care through death, but not after death. Being, and staying onsite is critical." - OPO COO_
-
-An important note is that understaffing of frontline coordinators does not result from OPO resource constraint, but rather from resource misallocation. For example, audits and investigative journalism[^56] [^57] have found OPOs misspending taxpayer dollars on items such as retreats to 5-star hotels, private planes, and Rose Bowl tickets, as well as overly generous compensation packages for executives.[^58] 
+Another OPO expert highlighted, _“The UNOS Organ Center is so bad at this [placing organs]. I'm fighting with them on the phone, tell them you made a mistake, call the transplant center back, while I have a doctor yelling in my other ear. It is horrendous. **There is no external check on the quality of UNOS' own internal allocation system**…Any miscommunication or loss of communication can add enough cold-ischemic time [for the organ to become non-viable]. **We have no visibility into how often this happens because only UNOS can report that to UNOS**.”_
 
 
 ### Potential Fixes
 
 
-### Improved technology and data on what happens to referrals
+### Better organ offer technology
 
-Better technology could standardize how referrals are tracked to make that information more transparent for all cases, including when third-party call centers are used. Currently that data lives in OPO systems like iTransplant and are only selectively shared with CMS or OPTN auditors during infrequent audits. As part of an “OPTN tech stack” for the organ transplant technology ecosystem (see [Technology Recommendations](/Technology)), a function could be to track all referrals from end-to-end with indicators for which organs are viable for transplant and whether test match runs were done. This information would be housed in a central data warehouse under the OPTN technical system caretaker[^59] and be available to SRTR[^60] and CMS for auditing. This information should also have validation points for who is reporting the data and how it is being collected for full transparency, and should be publicly available to researchers for analysis. A mandate to automatically track end-to-end data on every referral will help track trends, determine best practices, and prevent inaccurate OPO reporting. 
-
-
-### Limit discretionary rule outs
-
-There should be a checks and balance system for referral rule outs. Rule outs should be medically based and only be done by a clinical person, ideally a medical director or administrator on call (AOC) with qualified training. Additionally, when conducted, test match runs should clearly indicate one of two results: either “yes” there are matches, or “no,” there are no matches. If there is even one potential match, the case should not be closed out because of anticipated difficulty in placing the organ. 
+The following changes in the organ offer technology could help increase transplant center acceptance:
 
 
-### Pursue expanded criteria donors
 
-Along those lines, OPOs should increase their attempts to procure marginal donors (formerly known as expanded criteria donors, or ECD).[^61] Studies have shown that “kidney transplantation from ECD is associated with similar rates of recipient and graft survival compared to those obtained in kidney transplantation from standard criteria donors”[^62] and accepting such a kidney[^63] may significantly decrease waitlist time, which results in a longer and higher quality of life when compared to remaining on dialysis.[^64] The OPTN Deceased Donor Potential Study also pointed out that, “some of the unrealized potential may also be unrecognized under current practice, with organ donation not pursued due to misperceptions of the suitability for donation and concerns about impact of pursuit on performance metrics.”[^65] Introducing more marginal organs into the offer pool can help normalize them to more conservative transplant programs as viable options. Often OPOs do not because they think the organ will be difficult to place, but as one researcher told us, _"OPOs don't understand that what they offer to the system affects the appetite of the transplant centers. First two years, they might have a higher discard rate, but you’re shifting the appetite."_
-
-
-### Improve accountability for existing staff
-
-While many OPOs need to hire more staff to respond to 100% of referrals, they also need to hold existing staff to better management and stronger accountability standards. An OPO CEO who dramatically increased the OPO’s organ donation rate said, _“Hiring new staff wasn’t necessary at first; accountability was the issue. Things needed to be made clear on expectations ._” Expectations include that coordinators should respond to a referral within an hour (or whatever time is set in their donor hospital agreement). Showing up, even if the case ends up not being a potential donor, is a chance for coordinators to show their face to hospital staff and do donor hospital education.
+*   Provide assisted clinical decision making[^121] [^122] by showing users the probability of how long it might take for their patient to get a better organ offer,[^123] or the value of this accepting the kidney over their patient staying on dialysis. 
 
 
-### Better OPO coordinator staffing and support
+*   Stop showing how many other transplant centers have rejected the offer in order to mitigate for risk-aversion. 
+*   Automatically sync data between the waitlist, death registry, and other sources for death data to ensure offers are not made to deceased patients. 
+*   Update the provisional and primary offer notification system to modern standards[^124] to ensure transplant centers can see the most pertinent information as soon as possible. 
+These are functions that can be built into the “OPTN Tech Stack” as part of the Organ Transplant Technology Ecosystem _(link to tech doc)_. 
 
-OPOs should be staffing for their highest potential in a DSA, rather than the current or minimum volume. While this can be difficult because an OPO may get five potential donors in a day, and then zero donors the next week, they need to stay overstaffed to ensure that no potential organs are lost from inadequate staffing. Historical data on past referrals and national averages can be used to determine the potential at which the OPO should be staffed[^66]. _"OPOs were literally saying, we have 30 coordinators, they need 80, but they can't conceptually understand that. So they go to 39 and go, wow we increased by 30%"_ _- OPO COO_
 
-To be able to staff adequately, OPOs need a qualified pool of candidates.[^67] _"The easy answer is, well let's go get more coordinators. It's not that easy, because most people, even those in the medical field, don't know that this industry exists.” - OPO COO_. OPOs and other related organizations can help expand the hiring pool by publicizing in analogous fields to attract new talent and raise awareness of OPO coordinator positions as potential career paths. As one study noted, “Given that one of the most difficult aspects of a coordinator's work is juggling the unusual hours of the job and the on‐call lifestyle, prior experience in a critical care environment is perhaps the single most important background characteristic that an OPO director should look for in hiring. This could include work in an intensive care unit, an emergency department, or as a paramedic.”[^68]
+### More comprehensive testing done earlier
 
-To maintain adequate staffing, OPOs need to not only hire enough staff, but also to retain them. Studies have found OPO staff yearly attrition rates to range from 17% to 28%, with average job tenure of less than three years.[^69] A study surveying coordinators representing 52 out of 58 OPOs reported a wide range in annual compensation, ranging from under $45,000 to over $100,000. This study also noted that there are other strategies for retaining coordinators beyond salary. For example, they could include benefits such as reduced number of days each month that employees are on-call and a separate pay when on-call, regardless of actually being called into service.[^70] 
+OPOs should be proactive in getting all reasonable tests done to discover any major issues before offers are made. To avoid time wasted on the back and forth, standards for which donor patient criteria should mandate which tests should be set by a nationally respected, third party entity. One OPO CEO said he believed that OPOs should take the approach of, “_Let's proactively get all these tests done and put all the info out there, then make our offers.”_
 
-Research suggests that “lack of any formalized training to perform their job functions likely contributes to the high rates of staff burnout and turnover”[^71] and 75% of coordinators surveyed “expressed a desire for more training and education opportunities.”[^72] OPO coordinators should be trained in trauma-informed care for approaching difficult cases and be provided with healthy strategies for managing stress to prevent burn out. Long hours can also affect an OPO coordinator’s ability to make critical decisions. We heard from a consultant who has worked with many OPOs that some coordinators who stay on longer will _“develop maladaptive behaviors to cope with that level of stress, trauma, and lack of rest.”_ and that _“We tend to hollow out the workforce and then complain when we have these really deplorable conditions.”_
 
-Additionally, OPOs should staff coordinators remotely outside of the main office and in the hospitals to optimize response time. Ideal are in-house coordinators at major hospitals. “The presence of an in-house coordinator (IHC) program significantly improves conversion rates for organ donation as well as organ yield.”[^73]<sup> </sup>[^74]<sup> </sup>
+### Virtual crossmatching
+
+A reliance by some OPOs on physical (rather than virtual) crossmatching means that an OPO will sometimes draw several vials of blood from a donor in front of their family before the family has even authorized donation. Moving to virtual crossmatching[^125] means that one vial of blood can be drawn after donor authorization with the family, and that blood can be virtually matched with all patients on the waitlist, which greatly increases the transplant center’s ability to quickly accept an organ offer.[^126] 
+
+
+### More persistent matching/placement
+
+As one OPO leader told us, _“Our philosophy has always been that there is a home for every organ…and we HAVE to place EVERY organ. Not all OPOs share this philosophy.”_ This is an approach that all OPOs should have for every case. In order to do this, OPOs need to get to know and establish good relationships with all their transplant centers, so that they are aware of who is more likely to accept what types of organs. One leading OPO said, “We sent an Advanced Practice Registered Nurse to every transplant center in our new allocation area,” which speaks to the persistence and resources some OPOs will put into establishing relationships with their transplant centers. 
+
+Since the organ offer match run technology is inefficient, OPOs with high placement metrics have surgeons available they can call to expedite an organ at risk of discard. Additionally, the UNOS Organ Center should be held accountable for their organ placement by a third-party that is not the OPTN, since UNOS runs the OPTN. Their metrics and outcome performance data should be made publicly available along with all other OPOs’ data.
+
+_“You are effectively incentivized to discard [the organ] or not pursue. Working hard to place the organ with a transplant center that will take it is not rewarded. The frustrating thing is you can spend hours justifying expedited placement, whereas just walking away is not questioned.” - OPO CEO_
+
+
+## Drop-off Point #6: _When OPO fails to recover organs in a timely manner or an organ is found to be non-viable after recovery_
+
+
+### Frequency/Size of Drop-off: **LOW**
+
+Between when an organ offer is accepted and when the organ is transplanted into a recipient candidate, there are still potential failure points that could result in the organ not being transplanted. While these drop-off points do not occur frequently, they could often be avoided altogether.
+
+
+### Causes
+
+
+### Failure to secure OR and surgeon in time
+
+OPOs may have difficulty securing an operating room and/or surgeon, so it takes them a long time to get in to recover the organs. This could come up against (real or perceived) family time constraints, especially for DCD deaths. A Washington Post investigation reported that a potential donor’s mother "said she was ‘devastated’ when the OPO told her they couldn’t find a match for her daughter’s organs. She was stunned to learn later about the dispute over a surgeon...“If they needed more time to find one, we would have agreed to give them more time. They didn’t ask.”[^127] Donor families are sometimes given unrealistic expectations by the OPO coordinator of how long the process might take and start to get anxious about wanting the process to draw to a close. 
+
+
+### Mistrust for remote recovery 
+
+The recovery[^128] of the organs from a donor needs to be sequenced and may need to accommodate several different surgeons in one operating room.[^129] Currently, transplant center surgeons will often fly in to personally recover the organ that they will be transplanting. There is a lack of trust for the local team to do the recovery, less so because of surgical error, but because of the decision making that is needed to make the final determination of whether the organ is transplantable. Once the organ is surgically removed from the body, it can reveal certain information that cannot be determined by labs beforehand. 
+
+
+### Potential Fixes
+
+
+### Hospital agreements and setting family expectations
+
+As discussed in earlier drop off points, OPOs need to establish good working relationships with their donor hospitals and transplant centers, which can help facilitate easier access to operating room times and surgeons. OPOs could even set up operating room time and surgeon agreements into their contracts if this issue persists. OPO coordinators need to set more realistic expectations with donor families about the variability of how long the matching and recovery might take (e.g. that it may take 3 days, rather than one day). 
+
+
+### Local recovery teams
+
+Some OPOs have their own recovery teams — trained surgeons or other certified clinicians who are on staff. Other OPOs rely on their local transplant surgeons to do the recovery. Surgeons who do not recover their own organs often ask who is doing the recovery, and OPOs should have back-up surgeons available whenever possible in case the accepting team is not available.
+
+Certain technology like Google Glass can give transplant surgeons good visuals into the organ so that they can make their own call on whether it’s transplantable, regardless of whether they were the ones doing the recovery. Imaging is an important aspect of the decision making. As one OPO coordinator told us, _"COVID is forcing them [transplant surgeons] to trust other procurement surgeons,"_ which could open up possibilities for this to become normalized in the future. 
+
+
+## Drop-off Point #7: _When OPO fails to transport an organ to its destination in a timely manner, or if on arrival the organ is unsuitable for the intended recipient_
+
+
+### Frequency/Size of Drop-off: **LOW**
+
+Analysis by Kaiser Health News (KHN) and Reveal from the Center for Investigative Reporting found that, even from the small subset of kidneys placed by the UNOS Organ Center, “between 2014 and 2019, nearly 170 organs could not be transplanted and almost 370 endured ‘near misses,’ with delays of two hours or more, after transportation problems.”[^130] For organs handled by the UNOS Organ Center, KHN reported 7% of those shipments encountered transportation problems - meaning this failure happens several times each month. One OPO coordinator we spoke to estimated this drop-off point to be about 10%. We don't know how often organ damage from transportation issues occurs across all OPOs because of lack of transparent data, but it should be a never-event and can be mitigated.
+
+_"The real issue, in a time when we can track our tube of toothpaste from Amazon in real-time, is where organs are. Giving the organ to an unreliable courier at 2:30am and feeling confident that it's going to be safe, protected, and taken directly to the destination…that’s the real issue." - OPO COO_
+
+
+### Causes
+
+
+### Lack of standardization, communication, and data
+
+There are mandates on labeling, packaging, and who witnesses necessary signatures, but there is complete discretion for what methods OPOs can use to transport organs. Thus, every OPO manages transportation of organs differently and ad hoc. As one logistics expert framed it, _"It's people on the fly, making their own determinations, they’re not making decisions based on data."_ Because everyone is doing things differently, there’s no central source of data to analyze what are the best routing and transportation practices. 
+
+Antiquated tracking systems are being used, as KHN reports, "Surgeons themselves often go to hospitals to collect and transport hearts, which survive only four to six hours out of the body. But kidneys and pancreases — which have longer shelf lives — often travel commercial, as cargo. As such, they can end up missing connecting flights or being delayed like lost luggage. Worse still, they are typically tracked with a primitive system of phone calls and paper manifests, with no GPS[^131] or other electronic tracking required.[^132] 
+
+The condition of the organ is not monitored during transport, which can also contribute to discard if its condition becomes less transplantable. Poor communication between the local recovery/procurement surgeon and transplant surgeon, as facilitated by the OPO, may also result in the transplant surgeon having different expectations of the organ and rejecting it when it arrives because of the differing condition. 
+
+
+### Poor logistics and routing 
+
+_"Logistics is not a core competency of OPOs, even though one of their core responsibilities is getting organs to transplant centers,"_ a logistics expert told us. This is evident in the inconsistent quality of transportation reported (e.g. organ box arrived with tire marks[^133]). There are multiple handoffs, which when handled ineffectively, result in wasted time. 
+
+Cold-ischemic time (CIT) is a major issue in organ transport. Research has indicated that “each additional hour of travel may shorten the life the organ can provide to the transplanted patient.”[^134] A study found that “each additional hour of CIT was associated with a significant 1.3% increased risk of graft failure and 1.8% increased risk of death.”[^135]<sup> </sup>Therefore OPOs should be doing everything possible to reduce cold time. Oftentimes, OPOs will default to booking a flight, when having the organ driven to its destination would be faster and more efficient than waiting for the next available flight[^136]. As a former OPO coordinator noted, _“There’s going down a checklist - and there’s critical thinking to reduce cold time.”_
+
+
+### Potential Fixes
+
+
+### Capture data to improve routing and transparency
+
+One of the conditions of coverage that OPOs must uphold in order to stay certified is to transport organs in a manner that "ensures their arrival without compromise to the quality of the organ."[^137] CMS should hold OPOs accountable for every organ shipment under their purview — including recently documented failures.[^138] UNOS needs to be held accountable likewise for organ transport failures handled by the UNOS Organ Center. Additionally, OPOs should capture and make available the data on transport method, time, cost, and organ condition for each organ shipment in order to make route and transport method optimizations. Tracking organ vitals and transport conditions (such as temperature and vibrations) can provide data on how travel conditions affect organ condition. Once enough data has been gathered and shared, CMS can implement standardized regulations on what is acceptable for transport. 
+
+
+### Utilize modern technology and better communication
+
+“Modern logistics is almost entirely now a technological problem which has been solved by numerous industries,” notes our team’s technologist, “Particularly in the area of transportation, there is high interest and private funding focused on improving the logistical challenge of transporting organs.”[^139] HHS could tap these logistics industry experts by creating a federal contract for organ logistics and separate out all of the OPTN’s current transportation responsibilities. . Additionally, all OPOs should utilize organ life-extending technology currently used by some OPO peers, such as TransMedic[^140] and shipping kidneys on a pump to keep organs in optimal condition.
+
+In terms of communication between surgeons, it should always be a practice for OPOs, when possible, to have a conference call between the procuring surgeon and transplant surgeon before any organ recoverys to ensure everyone is on the same page on expectation. 
+
+
+# CMS RECOMMENDATIONS 
+
+In order to achieve the ambitious goals of the Executive Order on Advancing American Kidney Health,[^141] which seeks to help 17,000 more patients access life-saving deceased donor kidney transplants each year, as well as 11,000 patients receive heart, liver, lung, and pancreas transplants, CMS in collaboration with HRSA can take many actions within their oversight of OPOs, transplant centers, donor hospitals, and the OPTN.
+
+
+### OPOs
+
+Below are recommended changes to current OPO conditions of coverage, not in exact language but in essence of what should be changed or added to recover more organs, as outlined above. 
+
+**§ 486.322 Condition: Relationships with hospitals, critical access hospitals, and tissue banks.**[^142] CMS can clarify that:
+
+
+
+*   Hospital agreement should include protocols for both donation after brain death (DBD) and donation after cardiac death (DCD) cases. 
+*   Increase designated requestor training for hospital staff to at least quarterly
+
+**§ 486.324 Condition: Administration and governing body.**[^143] CMS can clarify that:
+
+
+
+*   All OPOs should recover organs from donors after cardiac death and have policies in place for their protocol on how to do so.
+
+**§ 486.326 Condition: Human resources.** CMS can clarify that:
+
+
+
+*   OPO should have staffing measures in place for when interacting with potential donors’ next of kin for donation authorization. To the extent possible, preference should be for staff to reflect the demographics (in terms of race and language) of the community in the OPO’s DSA. Additionally, staff should undergo cultural sensitivity training for the demographics represented in their regions.[^144] 
+*   Specifically for standards on qualifications,[^145] individuals involved in donor assessment, procurement, and placement should have clinical experience or documented clinical training. 
+*   For standards on staffing,[^146] rule out of medical suitability for organ donation must be done by individuals with a clinical background; and OPOs must have a sufficient number of qualified staff to respond to 100% of potential donor referrals within an hour, including by going onsite in all cases to the extent possible. 
+*   For standards on education, training, and performance evaluation,[^147] individuals involved in donor assessment, procurement, and placement must undergo annual continued education clinical training. Individuals directly involved in, or who supervise, clinical donor management must undergo or have documented training on deceased donor management protocols and best practices. Individuals involved in speaking with next of kin for donation authorization should undergo training on donor family communication best practices, implicit bias, racial-equity, and trauma-informed care.
+
+**§ 486.328 Condition: Reporting of data.**[^148] CMS can clarify additions related to:
+
+
+
+*   Timeliness of OPO staff follow-up on eligible donors, and whether follow-up was onsite; 
+*   Data on demographics of donor families/next of kin who were approached for authorization (including at a minimum race/ethnicity, age, whether they were HIV-positive, and whether they were an extended criteria/marginal donor); and
+*   Data on staff demographics (gender, race, languages spoken) and background (clinical/non-clinical).
+
+**§ 486.330 Condition: Information management.**[^149] CMS can clarify
+
+
+
+*   Addition to referral information requiring the OPO to create a record for every referral using CMS provided data protocol:[^150] The record must include, at a minimum: date, time, and origin of referral; who at the OPO received the referral; how it was triaged; how long it took OPO staff to follow-up and whether it was onsite or not. CMS and OPOs should be analyzing this data as part of their QAPIs.
+
+**§ 486.342 Condition: Requesting consent.**[^151] CMS can clarify that the OPO should also ask about and clearly document any family time constraints, as well as provide the following information to the donor family: 
+
+
+
+*   Costs associated with donation (there should be none)
+*   Timeframes for the donation decision and donation process, including any potential delays to funeral arrangements
+*   The donor’s eligibility to donate and ability for the family to decide which organs to donate
+*   The need for organs and the potential to help others, especially within that donor’s demographic community if applicable
+*   The treatment of the donor’s body during organ recovery
+*   If applicable, an explanation of a brain death diagnosis
+
+**§ 486.344 Condition: Evaluation and management of potential donors and organ placement and recovery.** CMS can clarify:
+
+
+
+*   Within potential donor protocol management,[^152] the OPO must implement a system that ensures that a qualified physician or other qualified individual with a clinical background is available to assist in the medical management of a potential donor when the surgeon on call is unavailable.
+*   Within testing,[^153] utilize virtual crossmatching as the primary method for donor and recipient matching to the extent possible. Ensure that the potential donor's blood is typed using two separate blood samples and have a protocol in place for donors who have undergone transfusion.[^154] 
+
+
+*   Within the collaboration with transplant program standards,[^155] the OPO should also have a protocol in place for donors who have undergone blood transfusion. 
+*   For donation after cardiac death,[^156] all OPOs should recover organs from donors after cardiac death and allow for the mention/socialization of donation after cardiac death prior to the family making the decision to stop/withdraw care.[^157] 
+
+
+*   Additionally, given that some hospitals express reticence to participate in DCD cases (either performing or receiving) as they increase their mortality rate thereby impacting their national benchmarking scores (a situation amplified if the DCD withdrawal occurs intraoperatively), CMS should ensure practices are in place so that such reporting does not count against hospitals performing DCDs, particularly as regards counting of deaths in the operating room.
+
+**§ 486.346 Condition: Organ preparation and transport.** CMS can clarify:[^158]
+
+
+
+*   The OPO must document how the organ is transported, track its condition during transport, and its final cold-ischemic time at arrival to the transplant center.  
+
+**§ 486.348 Condition: Quality assessment and performance improvement (QAPI).** CMS can clarify:[^159] 
+
+
+
+*   These actions should include participation in peer-reviewed academic research to the extent possible.[^160] 
+
+**Other**: These are recommendations that do not fit into current OPO Conditions of Coverage**
+
+
+
+*   Monitor the Standard Acquisition Charge (SAC) fees that OPOs pass to transplant centers and which are reimbursed by CMS. With broader allocation boundaries, the cost of organs acquisition has increased, without oversight or cap.[^161]
+*   The Office of the National Coordinator (ONC) for Health Information Technology should set interoperability standards and requirements between OPOs, Donor Hospitals, and OPTNs in order to enable the introduction of new technologies into the organ donation space that currently is highly fragmented with significant amounts of information blocking put in place by incumbents. This will enable workflows between hospitals and OPOs to move from phone/paper based exchanges into auditable and near real-time automated workflows, including more timely, electronic referrals of potential donors.
+
+
+### Donor Hospitals and Transplant Centers
+
+
+
+*   Experience surveys could be developed and administered as part of the upcoming ESRD Treatment Choices Learning Collaborative. Just as CMS monitors patient experience with HCAHPS, CMS could monitor and measure OPO performance based on input from clinical hospital teams involved in organ donation (on topics such as OPO staff interactions, staff knowledge, and quality of the engagement). These surveys could provide insight into how clinicians experience OPOs and illuminate opportunities for research. 
+
+
+### OPTN (HRSA)
+
+
+
+*   Update organ offer technology to meet modern software standards and address baseline usability concerns, as described in drop-off point #1 above and in Driving Innovation in the Organ Transplant Technology “Ecosystem” _(link to tech doc)_. 
+*   CMS currently requires OPOs to retain records of donors which creates duplicative systems in OPO databases. HRSA should instead require that this data be captured, managed, and centralized in an OPTN database as part of the Organ Transplant Technology “ecosystem” _(link to tech doc)_. If able to take effect, this would require changes to OPO Condition of Coverage § 486.330 as well.
+*   HRSA should make available to all transplant centers and OPOs the data dashboards of organ procurement and transplant information as a service of the OPTN. Transplant centers and OPOs should not have to pay additional money individually for this information.
 
 
 ---

@@ -1,55 +1,46 @@
 ---
 layout: page
-title: Organ Drop-Off 7
-permalink: /OPO-Best-Practices-7/
-weight: 8
+title: Organ Drop-Off 6
+permalink: /OPO-Best-Practices-6/
+weight: 7
 toc: true
-sub: opos
+sub: drop-off
 ---
 
-## Drop-off Point #7: _When OPO fails to transport an organ to its destination in a timely manner, or if on arrival the organ is unsuitable for the intended recipient_
+## Drop-off Point #6: _When OPO fails to recover organs in a timely manner or an organ is found to be non-viable after recovery_
 
 
 ### Frequency/Size of Drop-off: **LOW**
 
-Analysis by Kaiser Health News (KHN) and Reveal from the Center for Investigative Reporting found that, even from the small subset of kidneys placed by the UNOS Organ Center, “between 2014 and 2019, nearly 170 organs could not be transplanted and almost 370 endured ‘near misses,’ with delays of two hours or more, after transportation problems.”[^130] For organs handled by the UNOS Organ Center, KHN reported 7% of those shipments encountered transportation problems - meaning this failure happens several times each month. One OPO coordinator we spoke to estimated this drop-off point to be about 10%. We don't know how often organ damage from transportation issues occurs across all OPOs because of lack of transparent data, but it should be a never-event and can be mitigated.
-
-_"The real issue, in a time when we can track our tube of toothpaste from Amazon in real-time, is where organs are. Giving the organ to an unreliable courier at 2:30am and feeling confident that it's going to be safe, protected, and taken directly to the destination…that’s the real issue." - OPO COO_
+Between when an organ offer is accepted and when the organ is transplanted into a recipient candidate, there are still potential failure points that could result in the organ not being transplanted. While these drop-off points do not occur frequently, they could often be avoided altogether.
 
 
 ### Causes
 
 
-### Lack of standardization, communication, and data
+### Failure to secure OR and surgeon in time
 
-There are mandates on labeling, packaging, and who witnesses necessary signatures, but there is complete discretion for what methods OPOs can use to transport organs. Thus, every OPO manages transportation of organs differently and ad hoc. As one logistics expert framed it, _"It's people on the fly, making their own determinations, they’re not making decisions based on data."_ Because everyone is doing things differently, there’s no central source of data to analyze what are the best routing and transportation practices. 
-
-Antiquated tracking systems are being used, as KHN reports, "Surgeons themselves often go to hospitals to collect and transport hearts, which survive only four to six hours out of the body. But kidneys and pancreases — which have longer shelf lives — often travel commercial, as cargo. As such, they can end up missing connecting flights or being delayed like lost luggage. Worse still, they are typically tracked with a primitive system of phone calls and paper manifests, with no GPS[^131] or other electronic tracking required.[^132] 
-
-The condition of the organ is not monitored during transport, which can also contribute to discard if its condition becomes less transplantable. Poor communication between the local recovery/procurement surgeon and transplant surgeon, as facilitated by the OPO, may also result in the transplant surgeon having different expectations of the organ and rejecting it when it arrives because of the differing condition. 
+OPOs may have difficulty securing an operating room and/or surgeon, so it takes them a long time to get in to recover the organs. This could come up against (real or perceived) family time constraints, especially for DCD deaths. A Washington Post investigation reported that a potential donor’s mother "said she was ‘devastated’ when the OPO told her they couldn’t find a match for her daughter’s organs. She was stunned to learn later about the dispute over a surgeon...“If they needed more time to find one, we would have agreed to give them more time. They didn’t ask.”[^127] Donor families are sometimes given unrealistic expectations by the OPO coordinator of how long the process might take and start to get anxious about wanting the process to draw to a close. 
 
 
-### Poor logistics and routing 
+### Mistrust for remote recovery 
 
-_"Logistics is not a core competency of OPOs, even though one of their core responsibilities is getting organs to transplant centers,"_ a logistics expert told us. This is evident in the inconsistent quality of transportation reported (e.g. organ box arrived with tire marks[^133]). There are multiple handoffs, which when handled ineffectively, result in wasted time. 
-
-Cold-ischemic time (CIT) is a major issue in organ transport. Research has indicated that “each additional hour of travel may shorten the life the organ can provide to the transplanted patient.”[^134] A study found that “each additional hour of CIT was associated with a significant 1.3% increased risk of graft failure and 1.8% increased risk of death.”[^135]<sup> </sup>Therefore OPOs should be doing everything possible to reduce cold time. Oftentimes, OPOs will default to booking a flight, when having the organ driven to its destination would be faster and more efficient than waiting for the next available flight[^136]. As a former OPO coordinator noted, _“There’s going down a checklist - and there’s critical thinking to reduce cold time.”_
+The recovery[^128] of the organs from a donor needs to be sequenced and may need to accommodate several different surgeons in one operating room.[^129] Currently, transplant center surgeons will often fly in to personally recover the organ that they will be transplanting. There is a lack of trust for the local team to do the recovery, less so because of surgical error, but because of the decision making that is needed to make the final determination of whether the organ is transplantable. Once the organ is surgically removed from the body, it can reveal certain information that cannot be determined by labs beforehand. 
 
 
 ### Potential Fixes
 
 
-### Capture data to improve routing and transparency
+### Hospital agreements and setting family expectations
 
-One of the conditions of coverage that OPOs must uphold in order to stay certified is to transport organs in a manner that "ensures their arrival without compromise to the quality of the organ."[^137] CMS should hold OPOs accountable for every organ shipment under their purview — including recently documented failures.[^138] UNOS needs to be held accountable likewise for organ transport failures handled by the UNOS Organ Center. Additionally, OPOs should capture and make available the data on transport method, time, cost, and organ condition for each organ shipment in order to make route and transport method optimizations. Tracking organ vitals and transport conditions (such as temperature and vibrations) can provide data on how travel conditions affect organ condition. Once enough data has been gathered and shared, CMS can implement standardized regulations on what is acceptable for transport. 
+As discussed in earlier drop off points, OPOs need to establish good working relationships with their donor hospitals and transplant centers, which can help facilitate easier access to operating room times and surgeons. OPOs could even set up operating room time and surgeon agreements into their contracts if this issue persists. OPO coordinators need to set more realistic expectations with donor families about the variability of how long the matching and recovery might take (e.g. that it may take 3 days, rather than one day). 
 
 
-### Utilize modern technology and better communication
+### Local recovery teams
 
-“Modern logistics is almost entirely now a technological problem which has been solved by numerous industries,” notes our team’s technologist, “Particularly in the area of transportation, there is high interest and private funding focused on improving the logistical challenge of transporting organs.”[^139] HHS could tap these logistics industry experts by creating a federal contract for organ logistics and separate out all of the OPTN’s current transportation responsibilities. . Additionally, all OPOs should utilize organ life-extending technology currently used by some OPO peers, such as TransMedic[^140] and shipping kidneys on a pump to keep organs in optimal condition.
+Some OPOs have their own recovery teams — trained surgeons or other certified clinicians who are on staff. Other OPOs rely on their local transplant surgeons to do the recovery. Surgeons who do not recover their own organs often ask who is doing the recovery, and OPOs should have back-up surgeons available whenever possible in case the accepting team is not available.
 
-In terms of communication between surgeons, it should always be a practice for OPOs, when possible, to have a conference call between the procuring surgeon and transplant surgeon before any organ recoverys to ensure everyone is on the same page on expectation. 
-
+Certain technology like Google Glass can give transplant surgeons good visuals into the organ so that they can make their own call on whether it’s transplantable, regardless of whether they were the ones doing the recovery. Imaging is an important aspect of the decision making. As one OPO coordinator told us, _"COVID is forcing them [transplant surgeons] to trust other procurement surgeons,"_ which could open up possibilities for this to become normalized in the future.
 
 ---
 

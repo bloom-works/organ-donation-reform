@@ -1,105 +1,88 @@
 ---
 layout: page
-title: Executive Summary
-permalink: /OPO-Best-Practices-es/
-weight: 1
+title: Organ Drop-Off 1
+permalink: /OPO-Best-Practices-0/
+weight: 2
 toc: true
-sub: opos
+sub: drop-off
 ---
 
-## Executive Summary
+### ORGAN DROP-OFF POINTS & POTENTIAL FIXES
 
-Each year, more than 28,000 viable organs never get the opportunity to be transplanted to patients who desperately need them. And out of the organs that are obtained from deceased donors, about a fifth of kidneys and pancreases are never transplanted. Central to this problem is the extreme performance variability and lack of basic accountability of Organ Procurement Organizations (OPOs) who are responsible for obtaining transplantable organs within their regions across the U.S. Communities of color are disproportionately harmed by system failures. Despite very clear issues, no OPO has ever lost its certification status for poor performance, which is costing lives and taxpayer dollars. Yet there is new commitment from the federal government to address and correct solvable problems in the system. This document offers strategic and actionable insights to build on this momentum and improve organ recovery outcomes in the short and long term.    
-
-The 58 OPOs across the country are tasked with managing and coordinating an organ recovery process that broadly consists of three phases:
+Along the organ recovery process there are several drop-off[^18] points where organs that had the potential to be transplanted are not.[^19] These drop-off points are sometimes due to clinical reasons, but more often than not, are because of ineffective practices, processes, communication, and technology.
 
 
-
-*   **Phase 1: Procurement** - Coordinating with donor hospitals to procure organs from deceased donor patients who meet clinical criteria for donation. 
-*   **Phase 2: Match & Recovery** - Matching the procured organ(s) with a patient on the waiting list to receive that organ, and overseeing surgical recovery of the organ(s). 
-*   **Phase 3: Transport & Transplant** - Transporting the recovered organ to the transplant center in sufficient time so that it can be transplanted successfully. 
-
-We identified many issues specific to OPO practices that impede organ recovery efforts at every phase of the process, including: 
+## Drop-off Point #1: _When “Imminent death” referral is not made in a timely manner, or at all_
 
 
+### Frequency/Size of Drop-off: **HIGH**[^20]
 
-*   Unmade referrals of a potential donor 
-*   OPOs not responding to a donor referral in time for the organ to be used successfully
-*   OPOs failing to obtain family authorization 
-*   OPOs not being able to find a suitable recipient while the organ is still transplantable
-*   OPOs not safely transporting an organ to its destination in sufficient time
+While the exact number has not been captured, researchers and OPO experts we spoke to estimate that there is a large number of referrals that are never made. A referral for a potential donor is a crucial step[^21] because it kicks off the whole organ recovery process.[^22] There is a significant opportunity for OPOs to work more effectively with donor hospitals and ensure all viable patients are referred. A missed referral means a missed approach, which means a missed opportunity to save up to eight lives (as every donor may have up to 8 transplantable organs). 
 
-There are some clinical reasons that cause these drop off points and others. But unfortunately,  there are far too many that are attributable to ineffective OPO practices, processes, communication, and technology.  
+
+### Causes
+
+### Lack of mandated standardization
+
+While there are recommended clinical criteria for donation in the OPTN policies,[^23] OPOs ultimately have the discretion to define clinical triggers,[^24] as well as the terms “imminent death” and “timely referral” as part of their donor hospital agreements.[^25] This means that the clinical triggers do not have to be evidence-based and can be determined by a non-clinical person. Under current evaluation standards, OPOs are not incentivized to pursue every organ (more on this later). The resulting variations in clinical triggers make it harder for staff, such as travel nurses, who may move between hospitals to keep track of when to refer a potential donor. 
 
 ---
 
->"We don't have an adequate way of expressing the harm of a non-approached donor. There are significant harms — the donor's decision to donate may not be honored, the family may not get closure or comfort, patients on the waiting list die, and costs increase to the national health care system. And yet OPOs are able to keep these harms invisible."
+>“Inherited handshake deals led to a lot of the [different] discretionary practices...there’s a floor, but there’s no ceiling of the best clinical triggers that are implemented nationally, they’re all over the place.”
 > 
 > __— Researcher__
 
 ---
 
 
-Many of these challenges have root causes that we believe can be addressed. In particular, there are critical opportunities related to: 
+### Poor training and working relationships with donor hospitals
+
+In addition to varying clinical triggers, if OPOs do a poor job in educating hospital staff on organ donation and not maintaining a strong working relationship, hospital staff may be less likely to make timely referrals to OPOs. They may be busy/distracted or are not aware of the steps to refer. It is not only whether or not the hospital staff know the clinical triggers, but whether it is top of mind for them and whether they have the bandwidth to call it in, when they are focused on many other important tasks. 
+
+We heard from an OPO leader that, _"Many OPOs have instructed hospitals to NOT call on [to refer] certain patients thus eliminating organ donors before they even get to the OPO."_ OPOs do this to tamper with the numbers they have to report as referrals in order to avoid documentation of cases where healthcare providers (HCPs) or the OPO anticipate that it will be an unlikely donation. Research has shown that implicit bias and preconceptions of who is likely to donate disproportionately affect minorities and people of color (see [Inequity in Organ Donation](/Inequity)). "Past studies comparing the experiences of African American (AA) and Caucasian families who have made decisions about donating a family member’s organs found that donor-eligible AA patients were less likely to be referred to an OPO by hospital staff."[^26]
+
+OPOs are supposed to find these missed referrals in their death record reviews, but we heard, _“There’s no incentive to find those missed referrals. If they [the hospital] missed making a referral, they [the OPO] have to report it. There are incentives in the chain to cover up everybody else in the chain.”_ - _OPO COO._ One example of this, shared with us by a researcher, is that an OPO said they were getting 100% of referrals based on the OPO's death record audits, but when the OPO adopted an electronic automated referral system, the number of referrals went up. Because of this, an OPO leader emphasized that the referral potential for a donor hospital should not be assumed based on previous history of referral.
+
+
+### Potential Fixes
+
+
+### Standardize clinical triggers nationally
+
+Clinical triggers for a donor referral should be evidence-based and determined by medical experts. A researcher told us that if they had access to better OPO data (that currently lives in OPO tech systems[^27] but never gets reported to the OPTN[^28]), they could determine what are the best clinical triggers based on historical data. This would clear the path for a set of nationally mandated clinical triggers that all OPOs and donor hospitals would use for referrals. 
+
+
+### Leverage technology to make referrals less dependent on busy staff
+
+Hospital staff are extremely busy and have multiple concurrent responsibilities. While it would still be important for OPOs to coordinate with hospital staff once onsite, making the initial referral less dependent on staff will lessen the chances for human error and alleviate the burden on hospital staff.
 
 
 
-*   **Accountability** - Holding OPOs (who are government contractors) to more rigorous standards around organ recovery, transportation and logistics, and urgency around donor matching.
-*   **Staffing & Training** - Addressing understaffing and poor training to improve coordination and communication among key stakeholders in the system.
-*   **Data & Technology** - Improving data and technology throughout the process so that it can be leveraged more efficiently to support organ recovery. 
+*   There are two tech systems currently being used to a very limited degree that attempt to do this. One version “pings” hospital staff when a patient meets clinical criteria, still requiring the nurse to call the OPO. The other is a fully-automated system that activates a referral to the OPO via a third party system, such as iTransplant.
+*   These e-referral systems have shown increases in referrals[^29], but are slow to integrate and do not work with all hospital electronic medical record (EMR) systems. They are also currently only used as bespoke solutions between a single hospital and an OPO, which will only add further unnecessary complexity to the system if such technologies continue to be adopted ad hoc. 
 
-_A more detailed list of recommended actions can be found towards the end of the document._
 
-The U.S. Department of Health and Human Services (HHS) has a critical window of opportunity to fix the organ transplant system, as catalyzed by the Executive Order on Advancing American Kidney Health that seeks to improve patient access to organ transplants, and a proposed rule change that holds OPOs accountable. These changes — once finalized and implemented — have the power to recover thousands of life-saving organs and save billions of taxpayer dollars.
+*   A technical solution needs to happen at a national level rather than piecemeal.[^30] Having a national standard for clinical triggers will also make a national e-referral system simpler to implement. The ONC should set interoperability standards and requirements between OPOs, Donor Hospitals, and OPTNs in order to enable the introduction of new technologies into the organ donation space that currently is highly fragmented with a significant amount of information blocking put in place by incumbents.[^31] Having a standardized national system for automated referrals could also be useful for gathering data on average response time and help to evaluate OPOs on how well they are responding to referrals, which could inform potential OPO conditions for coverage requirements.
+
+
+### Better education for donor hospital staff
+
+More frequent and consistent donor hospital education is needed, not only for timely referrals but also for all the ways that OPOs and hospital staff need to coordinate. One OPO reported doing their hospital education annually, which is not nearly enough given the staff turnover and travel nurses who might be utilized. Donor hospital education is not standardized and varies greatly between OPOs.[^32] The hospital training may only be as good as how well the OPO staff are trained themselves, which is highly variable and non-standardized. When done by the Hospital Development Coordinator, who is non-clinical, trainings should be accompanied by a clinical OPO person, such as the clinical coordinator. In addition to advising on _when_ a potential donor should be referred, OPOs should also provide education on clinical donor management,[^33] so that donors do not expire and organs do not fail before OPO staff is able to follow-up on the referral. _“It [donor hospital training] is a hit or miss. OPO staff are also undertrained and under-knowledged...the content of the education could be improved.”_ _- OPO COO_
+
+Donor hospital agreements set some expectations and protocols, but it is unclear who actually sees this agreement. We spoke with hospital frontline staff who said they were unaware of such an agreement and did not know what it contained. The expectations and agreements in these protocols should be a part of the donor hospital education by OPOs. As told to us by frontline staff,[^34] hospitals may need further protocols and agreements, such as what labs and procedures can be completed before a doctor declares brain death[^35] or before the next of kin has fully consented to donation. 
+
+
+### Institute feedback loop
+
+OPOs and donor hospitals working relationships often suffer.[^36] To identify — and, ideally, remediate — these issues before the damage becomes irreparable, there should be a standardized and regular feedback loop[^37] between OPOs and donor hospital staff who make referrals or were involved with a potential donor. This comes directly from an ICU nurse who told us, _"We need a feedback loop for performance. Right now they do their thing, we do our thing. There’s no meshing. No feedback."_ The first goal of this feedback loop is awareness – OPOs should have no excuses for being unaware of problems between OPO and hospital staff. The second goal is for these problems to be addressed effectively. To that end, this feedback data should be shared with CMS to ensure that actions are being taken. 
+
+Currently donor hospitals and transplant centers[^38] can file a formal complaint to CMS to open up an investigation into an OPO.[^39] However, most hospitals do not file a complaint even when there are issues, because they do not think CMS will do anything about it. This is learned behavior, as CMS has never once successfully decertified an OPO for underperformance, in large part due to the lack of reliable metric data[^40] to enable enforcement of regulations.[^41] It is a lot of work for the hospital to file, with low expectations on return, which makes it an ineffective feedback mechanism. Some hospital staff we spoke to were not even aware that this mechanism existed. Similarly, donor hospitals and transplant centers can file a formal complaint to the OPTN, however such complaints are heard by the OPO subcommittee[^42] which is run by OPOs, presenting a clear conflict of interest.
+
+Some OPOs may already be surveying their donor hospitals, but that information is kept internal and there is no meaningful pressure or accountability for the OPO to act on that information. CMS could tell OPOs that they need to survey hospitals (with standardized questions)[^43] and share that information back to CMS and the OPTN. 
+
 
 ---
 
-# INTRODUCTION
-
-Problem: Currently, 58 Organ Procurement Organizations (OPOs) are designated across the US. They are each responsible for obtaining transplantable organs within their own territory of hospitals in their donation service area (DSA), without competition from any other organizations, which essentially renders each OPO as a monopoly for organ procurement for their DSA.[^1] Without strong performance guardrails, performance of OPOs across the nation has been variable — by as much as 470% in organ recovery.[^2] Despite this, no OPO has ever lost its government contract for poor performance. Research has shown that 28,000[^3] organs each year go unrecovered by OPOs and a December 2019 Notice of Public Rulemaking from the Department of Health and Human Services (HHS) flagged a majority of the nation’s OPOs as failing basic proposed outcome metrics.[^4] 
-
-Opportunity: With the proposed rule change on outcome measures,[^5] OPOs may be further motivated to improve their practices in order to avoid decertification. Potential competitive pressures from higher performing OPOs could help motivate OPOs to increase organ procurement and placement. Given the recent Executive Order on Advancing American Kidney Health,[^6] Centers for Medicare & Medicaid Services (CMS) may also decide in the future to further refine other conditions of coverage to call for the adoption of practices that increase organ recovery and transplantation. 
-
-Discovery Sprint**:** Based on interviews with OPO, donor hospital, and transplant center staff, as well as researchers and other leaders[^7] in the organ transplant system, this report offers insight into the issues impeding organ recovery and the practices that could address these issues. Given that there have been limited studies that examine the effects of specific OPO practices, the findings in this report are reinforced with data when possible, though are largely case studies.
-
-
-# ORGAN RECOVERY PROCESS
-
-**Figure 4**{:#figure-4}
-![Image detailing how an organ is managed throughout the organ donation process](/assets/images/organ-management.jpg)
-
-[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF](/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
-
-
-As mentioned above, OPOs have the responsibility of procuring organs from deceased patients and placing them with transplant centers. To carry out this responsibility, OPO staff must coordinate with donor hospitals[^8] to procure organs from deceased donor patients who meet clinical criteria, and with transplant centers[^9] to match those organs with recipients on the organ waiting list. 
-
-### Phase 1: Procurement
-
-
-1. Hospitals notify OPOs of “imminent deaths” based on clinical triggers. It is then the responsibility of the OPO to assess that patient’s donation potential.
-2. If the OPO decides this is an eligible donor, they will start to follow the case — ideally having an integrated plan of action with the donor hospital staff.[^10] 
-
-
-3. Once brain death protocol is started, or in the case of donation after circulatory death (DCD),[^11] that the family has begun discussing withdrawal of care,[^12] the OPO will talk with the next of kin about organ donation — either to notify them if the patient was a registered donor, or to ask for organ donation authorization if the patient was not registered. 
-
-
-4. If donation is authorized, the OPO and hospital staff will do testing to gather more data and ensure the organs are viable and safe to transplant.
-
-### Phase 2: Match & Recovery
-
-
-
-1. Once the organs are deemed transplantable, the OPO enters the donor’s clinical data into the organ offer technology to run a “match list.” This provides the OPO with an ordered list of the patients in line to receive that organ. 
-2. OPOs must work quickly to run down the match list to find an accepting transplant center and recipient.[^13]
-3. The surgical recovery of the organs is scheduled and usually takes place at the donor hospital.[^14] For some organs, surgeons from the transplant centers will travel to the donor hospital to perform the surgical removal of the organs and take the organs back with them. For other organs, local surgeons will perform the surgery[^15] and the organs must be shipped to the transplant center.  
-Phase 3: Transport & Transplant
-
-
-
-1. Once organs are surgically removed, the OPO prepares them for transit, and arranges transportation.[^16] The transportation of the organ to the transplant center is time-sensitive since the organ degrades with increased cold-ischemia time (time outside the body).[^17]
-2. Once the transplant center has the organ, surgeons transplant it into the recipient candidate.  
-
----
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes

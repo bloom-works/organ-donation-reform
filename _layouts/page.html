@@ -17,7 +17,7 @@ layout: default
           <div class="in-this-title">In this section</div>
           {% for subpage in sorted %}
               {% if subpage.sub == page.subpages %}
-                  {{ subpage.content | toc_only }}
+                  {{ subpage.content | markdownify | toc_only }}
               {% endif %}
           {% endfor %}
       </div>
@@ -26,7 +26,7 @@ layout: default
     {% for subpage in sorted %}
       {% if subpage.sub == page.subpages %}
           <div class="prose">
-              {{ subpage.content | inject_anchors }}
+              {{ subpage.content | markdownify | inject_anchors }}
           </div>
       {% endif %}
     {% endfor %}
