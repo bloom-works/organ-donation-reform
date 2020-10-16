@@ -195,7 +195,7 @@ OPO technology varies greatly between each organization, but ultimately they all
 
 All the other systems suffer from similar shortcomings, leaving many users frustrated with the amount of work and training required to constantly shift between several technical systems to perform basic functions. As an example of how this surfaces, when a transplant center has to make a decision on an organ offer they have to look at multiple screens: the donor info in DonorNet, the candidate ranking info in Waitlist, and then candidate's clinical info in the transplant hospital's EMR. It would be much easier and quicker if they could look at one screen for this info to make the offer decision.
 
-**Figure 2**{:#figure-2}
+**Figure 5**{:#figure-5}
 ![An overview of technology used by the organ tranplant community](/assets/images/tech-current.jpg)
 
 [Download the "An Overview of Technology Used By
@@ -318,7 +318,7 @@ In the “bottom-up” approach, we see startup innovators working in the presen
 ### Top-Down: Govt Digital Services Model
 
 
-**Figure 3**{:#figure-3}
+**Figure 6**{:#figure-6}
 ![Detailed map of how organ technology could be improved in the long term](/assets/images/tech-future.jpg)
 
 [Download the "How Organ Technology Could be Improved in the Long Term" PDF](/assets/PDF/ODR-Far_Future_Tech_Final.pdf)
@@ -372,7 +372,7 @@ As opposed to achieving a fixed, contractually agreed upon end state, like the g
 
 ### Bottom-Up: Fostering Innovative Startups
 
-**Figure 3**{:#figure-2}
+**Figure 7**{:#figure-7}
 ![An overview of how organ technology could be improved in the short term](/assets/images/tech-shortterm.jpg)
 
 [Download the "How Organ Technology Could Be Improved in the Short Term" PDF](/assets/PDF/ODR-Near_Future_Tech_Final.pdf)

@@ -21866,8 +21866,8 @@ a[href$=".pdf"]:after {
 .prose img {
   display: block;
   margin-bottom: 1.25rem;
-  width: 100%;
-}
+/*  width: 100%;
+*/}
 
 .prose img small {
   display: block;
@@ -22027,9 +22027,40 @@ a[href$=".pdf"]:after {
   .print\:w-full{
     width:100%; margin-bottom: 5rem;
   }
+  header, nav, footer {
+    display: none;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  @page {
+    margin-top: 1cm;
+    margin-right: 2.25cm;
+    margin-left: 2.25cm;
+  }
+
+  .prose p, .prose ul, .prose li {
+    font-size: 12pt;
+    line-height: 1.5rem;
+  }
 
   h1 {
     page-break-before: always;
+    font-size: 1.25rem;
+    padding-bottom: 2rem;
+
+  }
+  h2 {
+    page-break-before: always;
+    margin-top: 2rem;
+  }
+
+  .prose blockquote p {
+    page-break-inside: avoid;
+    font-size: 18pt;
+    line-height: 2rem;
   }
 
   .print-button {
