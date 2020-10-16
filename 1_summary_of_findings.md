@@ -21,7 +21,7 @@ Today, the medical community continues to make advancements in the field of orga
 
 How does this system hurt Americans? **Imagine you need an organ and manage to join the 109,000[^1] people on the waiting list -- which in itself can be a challenge.[^2] Once you're over the hurdle of getting on the list, you have only a 50% chance of receiving the organ you need within the next 5 years.**[^3]
 
-The problem is even worse for people of color,[^4] who are less likely to get on the waitlist[^5] and less likely to find a match once they’re on there.[^6] Black families are also less likely to even be asked about donation -- and face lower quality interactions when they are approached[^7] --  which contributes to the low match probability for Black recipients.[^8]   
+The problem is even worse for people of color,[^4] who are less likely to get on the waitlist[^5] and less likely to find a match once they’re on there.[^6] Black families are also less likely to even be asked about donation -- and face lower quality interactions when they are approached[^7] --  which contributes to the low match probability for Black patients.[^8]   
 
 One might think with all the people on the waitlist, and with 90%[^9] of Americans supporting organ donation, that nearly all viable organs from deceased donors will get used. But disturbingly, that’s not the case. Less than half of people in the U.S. who meet established criteria for organ donation actually become donors.[^10] 
 
@@ -57,7 +57,7 @@ Responsibilities around organ donation and transplantation in the U.S. are diffu
 
 ---
 
-When Congress passed the National Organ Transplant Act (NOTA) of 1984, the government established the Organ Procurement and Transplantation Network (OPTN) and mandated that it be operated by a private contractor. The contract is currently overseen by Health Resources and Services Administration (HRSA) under Health and Human Services  (HHS). The only contractor who has ever held the contract is the United Network for Organ Sharing (UNOS). ([See Organ Donation Policy, Figure 2.](#figure-2)) 
+When Congress passed the National Organ Transplant Act (NOTA) of 1984, the government established the Organ Procurement and Transplantation Network (OPTN) and mandated that it be operated by a private contractor. The contract is currently overseen by the Health Resources and Services Administration (HRSA) under Health and Human Services  (HHS). The only contractor who has ever held the contract is the United Network for Organ Sharing (UNOS). ([See Organ Donation Policy, Figure 2.](#figure-2)) 
 
 **Figure 2**{:#figure-2} 
 ![Image of organ donation policy hierarchy](/assets/images/policy-chart.jpg)
