@@ -1,0 +1,260 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: "Barlow", sans-serif;
+  color: #363737;
+}
+
+
+a[href$=".pdf"]:after {
+  width: 14px;
+  height: 18px;
+  margin-right: 0.35rem;
+  background: url('/assets/images/icons/pdf.svg');
+  background-repeat: no-repeat;
+  display:inline-block;
+  content:' ';
+}
+
+.nav a {
+  display: block;
+  font-size: 1rem;
+  line-height: 1.625;
+  padding: 1.375rem;
+  border-bottom: 1px solid #E5E5E5;
+}
+
+.nav a:hover {
+  background: #363737;
+  color: #ffffff;
+}
+
+.nav ol {
+  list-style-type: decimal;
+}
+
+.nav-active a {
+  background: #D43C37;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.prose a {
+  color: #00768F;
+  text-decoration: underline;
+}
+
+.prose a:hover {
+  text-decoration: none;
+}
+
+.prose h1 {
+  font-weight: 500;
+  font-size: 2.75rem;
+  line-height: 1.22727272727;
+  margin-bottom: 2rem;
+}
+
+.prose h2 {
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 2rem;
+  line-height: 1.3125;
+  color: #D43C37;
+  margin-bottom: 1rem;
+  margin-top: 4rem;
+}
+
+.prose h3 {
+  font-size: 1.5rem;
+  line-height: 1.3125;
+  line-height: 1.41666666667;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  margin-top: 1.75rem;
+}
+
+.prose h4 {
+  font-size: 1.25rem;
+  line-height: 1.3125;
+  text-transform: uppercase;
+  line-height: 1.41666666667;
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
+
+.prose hr {
+  width: 50%;
+  margin: 0 auto;
+  border-color: #363737;
+  margin-bottom: 3rem;
+}
+
+.prose img {
+  display: block;
+  margin-bottom: 1.25rem;
+  width: 100%;
+}
+
+.prose img small {
+  display: block;
+  margin-bottom: 1rem;
+  width: 35%;
+  float: right;
+}
+
+.prose blockquote {
+  color: #D43C37;
+}
+
+.prose blockquote p {
+  font-size: 1.5rem;
+  font-family: "Playfair Display", sans-serif;
+}
+
+.prose blockquote strong {
+  font-size: 1rem;
+  color: #363737;
+  font-weight: 500;
+  font-family: "Barlow", sans-serif;
+}
+
+.prose p ~ hr {
+  margin-top: 3rem;
+}
+
+.prose ul, .prose ol {
+  font-size: 1.25rem;
+  line-height: 1.875;
+  margin-bottom: 1.5rem;
+  margin-left: 3rem;
+  list-style-type: disc;
+}
+
+.prose ol {
+  list-style-type: decimal;
+}
+
+.prose p {
+  font-size: 1.25rem;
+  line-height: 1.875;
+  margin-bottom: 1.5rem;
+}
+
+.prose table {
+  border: 1px solid #ccc;
+  margin-bottom: 1.2rem;
+}
+
+.prose thead {
+  border-bottom: 1px solid #ccc;
+}
+
+.prose th, .prose td {
+  padding: 0.5rem 0.7rem;
+  font-size: 0.85rem;
+  text-align: left;
+}
+
+.prose td {
+  vertical-align: top;
+}
+
+.prose tr td:first-child {
+  width: 30%;
+}
+
+.prose tr td:last-child {
+  width: 45%;
+}
+
+.prose tr:not(:first-child) {
+  border-top: 1px solid #ccc;
+  margin-bottom: 1.2rem;
+}
+
+.prose td ul {
+  margin-left: 0;
+  list-style: none;
+}
+
+.prose td li:not(:first-child) {
+  margin-top: 1rem;
+}
+
+.in-this {
+  padding: 2rem;
+  background-color: #FAFAFA;
+  margin-bottom: 3rem;
+}
+
+.in-this-title {
+  font-size: 1rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 0.25rem;
+}
+
+.in-this ul {
+  margin-bottom: 0;
+  margin-left: 1.25rem;
+  font-size: 1rem;
+  color: #00768F;
+}
+
+.in-this a {
+  color: #00768F;
+}
+
+.footnotes p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: .75rem;
+}
+
+.footnotes ol {
+  font-size: 1rem;
+  line-height: 1.625;
+}
+
+.footnotes ol {
+  position: relative;
+  margin-left: 1rem;
+}
+
+.footnotes ol ::marker {
+  color: #D43C37;
+  vertical-align: super;
+  font-size: 0.875rem;
+  margin-top: -100px;
+}
+
+.back {
+  background-color: #D43C37;
+  padding: 1rem;
+  color: #ffffff;
+  font-weight: 600;
+  float: left;
+}
+.print-button {
+  color: #00768F;
+  font-size: 0.875rem;
+  text-decoration: underline;
+  background: url('/assets/images/icons/print.svg');
+  background-repeat: no-repeat;
+  padding-left: 1.5rem;
+}
+
+.print-button:hover {
+  text-decoration: none;
+}
+
+@media print {
+  .print\:w-full{width:100%; margin-bottom: 5rem;}
+  h1 {page-break-before: always;}
+  .print-button {display: none}
+  .back {display: none}
+  .in-this {display: none}
+}
