@@ -94,7 +94,6 @@ a[href$=".pdf"]:after {
 .prose img {
   display: block;
   margin-bottom: 1.25rem;
-  width: 100%;
 }
 
 .prose img small {
@@ -249,6 +248,15 @@ a[href$=".pdf"]:after {
 .print-button:hover {
   text-decoration: none;
 }
+
+@media (max-width: 700px) {
+  .prose {
+    padding: 1rem;
+   }
+   table {
+    overflow-x:auto
+   }
+  }
 
 @media print {
   header, nav, footer {

@@ -134,7 +134,6 @@ When travel is required, travel details must be provided to, and approved by, th
 
 This Quality Assurance Surveillance Plan (QASP) will define the performance management approach taken by the Government to monitor and manage the contractor’s performance to ensure the expected outcomes or performance objectives communicated in the SOO are achieved.
 
-
 <table>
   <tr>
    <td><strong>Deliverable</strong>

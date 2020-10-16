@@ -186,6 +186,6 @@ Our suggested approach above decreases the risk of forcing the Government’s ha
 ## Notes
 
 [^1]:
-     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6494733/pdf/nihms-995506.pdf
+     [Restructuring the OPTN contract to achieve policy coherence and infrastructure excellence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6494733/pdf/nihms-995506.pdf)
 
 
