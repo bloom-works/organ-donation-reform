@@ -4,7 +4,7 @@ title: Organ Drop-Off 6
 permalink: /OPO-Best-Practices-6/
 weight: 7
 toc: true
-sub: opos
+sub: drop-off
 ---
 
 ## Drop-off Point #6: _When OPO fails to recover organs in a timely manner or an organ is found to be non-viable after recovery_

@@ -4,7 +4,7 @@ title: Organ Drop-Off 7
 permalink: /OPO-Best-Practices-7/
 weight: 8
 toc: true
-sub: opos
+sub: drop-off
 ---
 
 ## Drop-off Point #7: _When OPO fails to transport an organ to its destination in a timely manner, or if on arrival the organ is unsuitable for the intended recipient_
