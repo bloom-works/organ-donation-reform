@@ -8,7 +8,7 @@ weight: 0
 
 # Introduction
 
-The U.S. could save thousands of lives and $40 billion in taxpayer money over the next decade if it fixed what was broken in the organ donation system.
+If the U.S. fixed its broken organ donation system, it could save thousands of lives and $40 billion in taxpayer money over the next decade.
 
 Despite scientific advancements, the organ donation system is held back by poor management and performance.
 
