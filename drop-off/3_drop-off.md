@@ -20,7 +20,7 @@ When a referral does come in from donor hospital staff, it is evaluated and tria
 > 
 > __— OPO CEO__
 
-### Causes
+### **CAUSES**
 
 
 ### Third-party call center deficiencies
@@ -65,7 +65,7 @@ When inadequate staffing results in OPO coordinators not showing up onsite in a 
 An important note is that understaffing of frontline coordinators does not result from OPO resource constraint, but rather from resource misallocation. For example, audits and investigative journalism[^56] [^57] have found OPOs misspending taxpayer dollars on items such as retreats to 5-star hotels, private planes, and Rose Bowl tickets, as well as overly generous compensation packages for executives.[^58] 
 
 
-### Potential Fixes
+### **POTENTIAL FIXES**
 
 
 ### Improved technology and data on what happens to referrals
@@ -105,7 +105,7 @@ Additionally, OPOs should staff coordinators remotely outside of the main office
 
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### **NOTES**
 
 [^44]:
      “[OPTN/SRTR 2018 Annual Data Report: Deceased Organ Donation](https://onlinelibrary.wiley.com/doi/full/10.1111/ajt.15678),” _American Journal of Transplantation_, 2020. 

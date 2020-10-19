@@ -17,7 +17,7 @@ Analysis by Kaiser Health News (KHN) and Reveal from the Center for Investigativ
 _"The real issue, in a time when we can track our tube of toothpaste from Amazon in real-time, is where organs are. Giving the organ to an unreliable courier at 2:30am and feeling confident that it's going to be safe, protected, and taken directly to the destination…that’s the real issue." - OPO COO_
 
 
-### Causes
+### **CAUSES**
 
 
 ### Lack of standardization, communication, and data
@@ -36,7 +36,7 @@ _"Logistics is not a core competency of OPOs, even though one of their core resp
 Cold-ischemic time (CIT) is a major issue in organ transport. Research has indicated that “each additional hour of travel may shorten the life the organ can provide to the transplanted patient.”[^134] A study found that “each additional hour of CIT was associated with a significant 1.3% increased risk of graft failure and 1.8% increased risk of death.”[^135]<sup> </sup>Therefore OPOs should be doing everything possible to reduce cold time. Oftentimes, OPOs will default to booking a flight, when having the organ driven to its destination would be faster and more efficient than waiting for the next available flight[^136]. As a former OPO coordinator noted, _“There’s going down a checklist - and there’s critical thinking to reduce cold time.”_
 
 
-### Potential Fixes
+### **POTENTIAL FIXES**
 
 
 ### Capture data to improve routing and transparency
@@ -48,14 +48,14 @@ One of the conditions of coverage that OPOs must uphold in order to stay certifi
 
 “Modern logistics is almost entirely now a technological problem which has been solved by numerous industries,” notes our team’s technologist, “Particularly in the area of transportation, there is high interest and private funding focused on improving the logistical challenge of transporting organs.”[^139] HHS could tap these logistics industry experts by creating a federal contract for organ logistics and separate out all of the OPTN’s current transportation responsibilities. . Additionally, all OPOs should utilize organ life-extending technology currently used by some OPO peers, such as TransMedic[^140] and shipping kidneys on a pump to keep organs in optimal condition.
 
-In terms of communication between surgeons, it should always be a practice for OPOs, when possible, to have a conference call between the procuring surgeon and transplant surgeon before any organ recoverys to ensure everyone is on the same page on expectation. 
+In terms of communication between surgeons, it should always be a practice for OPOs, when possible, to have a conference call between the procuring surgeon and transplant surgeon before any organ recoveries to ensure everyone is on the same page on expectation. 
 
 
 ---
 
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### **NOTES**
 
 [^130]:
     “[How Lifesaving Organs For Transplant Go Missing In Transit](https://khn.org/news/how-lifesaving-organs-for-transplant-go-missing-in-transit/),” _Kaiser Health News_, 2020.
