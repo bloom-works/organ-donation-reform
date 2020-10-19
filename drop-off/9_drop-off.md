@@ -9,7 +9,7 @@ sub: drop-off
 
 ---
 
-## CMS RECOMMENDATIONS 
+## CMS Recommendations
 
 In order to achieve the ambitious goals of the Executive Order on Advancing American Kidney Health,[^141] which seeks to help 17,000 more patients access life-saving deceased donor kidney transplants each year, as well as 11,000 patients receive heart, liver, lung, and pancreas transplants, CMS in collaboration with HRSA can take many actions within their oversight of OPOs, transplant centers, donor hospitals, and the OPTN.
 
@@ -18,46 +18,34 @@ In order to achieve the ambitious goals of the Executive Order on Advancing Amer
 
 Below are recommended changes to current OPO conditions of coverage, not in exact language but in essence of what should be changed or added to recover more organs, as outlined above. 
 
-**§ 486.322 Condition: Relationships with hospitals, critical access hospitals, and tissue banks.**[^142] CMS can clarify that:
 
-
-
+**§ 486.322 Condition: Relationships with hospitals, critical access hospitals, and tissue banks.**[^142] CMS can clarify:
 *   Hospital agreement should include protocols for both donation after brain death (DBD) and donation after cardiac death (DCD) cases. 
 *   Increase designated requestor training for hospital staff to at least quarterly
 
-**§ 486.324 Condition: Administration and governing body.**[^143] CMS can clarify that:
 
-
-
+**§ 486.324 Condition: Administration and governing body.**[^143] CMS can clarify:
 *   All OPOs should recover organs from donors after cardiac death and have policies in place for their protocol on how to do so.
 
-**§ 486.326 Condition: Human resources.** CMS can clarify that:
 
-
-
+**§ 486.326 Condition: Human resources.** CMS can clarify:
 *   OPO should have staffing measures in place for when interacting with potential donors’ next of kin for donation authorization. To the extent possible, preference should be for staff to reflect the demographics (in terms of race and language) of the community in the OPO’s DSA. Additionally, staff should undergo cultural sensitivity training for the demographics represented in their regions.[^144] 
 *   Specifically for standards on qualifications,[^145] individuals involved in donor assessment, procurement, and placement should have clinical experience or documented clinical training. 
 *   For standards on staffing,[^146] rule out of medical suitability for organ donation must be done by individuals with a clinical background; and OPOs must have a sufficient number of qualified staff to respond to 100% of potential donor referrals within an hour, including by going onsite in all cases to the extent possible. 
 *   For standards on education, training, and performance evaluation,[^147] individuals involved in donor assessment, procurement, and placement must undergo annual continued education clinical training. Individuals directly involved in, or who supervise, clinical donor management must undergo or have documented training on deceased donor management protocols and best practices. Individuals involved in speaking with next of kin for donation authorization should undergo training on donor family communication best practices, implicit bias, racial-equity, and trauma-informed care.
 
+
 **§ 486.328 Condition: Reporting of data.**[^148] CMS can clarify additions related to:
-
-
-
 *   Timeliness of OPO staff follow-up on eligible donors, and whether follow-up was onsite; 
 *   Data on demographics of donor families/next of kin who were approached for authorization (including at a minimum race/ethnicity, age, whether they were HIV-positive, and whether they were an extended criteria/marginal donor); and
 *   Data on staff demographics (gender, race, languages spoken) and background (clinical/non-clinical).
 
-**§ 486.330 Condition: Information management.**[^149] CMS can clarify
 
-
-
+**§ 486.330 Condition: Information management.**[^149] CMS can clarify:
 *   Addition to referral information requiring the OPO to create a record for every referral using CMS provided data protocol:[^150] The record must include, at a minimum: date, time, and origin of referral; who at the OPO received the referral; how it was triaged; how long it took OPO staff to follow-up and whether it was onsite or not. CMS and OPOs should be analyzing this data as part of their QAPIs.
 
+
 **§ 486.342 Condition: Requesting consent.**[^151] CMS can clarify that the OPO should also ask about and clearly document any family time constraints, as well as provide the following information to the donor family: 
-
-
-
 *   Costs associated with donation (there should be none)
 *   Timeframes for the donation decision and donation process, including any potential delays to funeral arrangements
 *   The donor’s eligibility to donate and ability for the family to decide which organs to donate
@@ -65,51 +53,31 @@ Below are recommended changes to current OPO conditions of coverage, not in exac
 *   The treatment of the donor’s body during organ recovery
 *   If applicable, an explanation of a brain death diagnosis
 
+
 **§ 486.344 Condition: Evaluation and management of potential donors and organ placement and recovery.** CMS can clarify:
-
-
-
 *   Within potential donor protocol management,[^152] the OPO must implement a system that ensures that a qualified physician or other qualified individual with a clinical background is available to assist in the medical management of a potential donor when the surgeon on call is unavailable.
 *   Within testing,[^153] utilize virtual crossmatching as the primary method for donor and recipient matching to the extent possible. Ensure that the potential donor's blood is typed using two separate blood samples and have a protocol in place for donors who have undergone transfusion.[^154] 
-
-
 *   Within the collaboration with transplant program standards,[^155] the OPO should also have a protocol in place for donors who have undergone blood transfusion. 
 *   For donation after cardiac death,[^156] all OPOs should recover organs from donors after cardiac death and allow for the mention/socialization of donation after cardiac death prior to the family making the decision to stop/withdraw care.[^157] 
-
-
 *   Additionally, given that some hospitals express reticence to participate in DCD cases (either performing or receiving) as they increase their mortality rate thereby impacting their national benchmarking scores (a situation amplified if the DCD withdrawal occurs intraoperatively), CMS should ensure practices are in place so that such reporting does not count against hospitals performing DCDs, particularly as regards counting of deaths in the operating room.
 
 **§ 486.346 Condition: Organ preparation and transport.** CMS can clarify:[^158]
-
-
-
 *   The OPO must document how the organ is transported, track its condition during transport, and its final cold-ischemic time at arrival to the transplant center.  
 
 **§ 486.348 Condition: Quality assessment and performance improvement (QAPI).** CMS can clarify:[^159] 
-
-
-
 *   These actions should include participation in peer-reviewed academic research to the extent possible.[^160] 
 
+
 **Other**: These are recommendations that do not fit into current OPO Conditions of Coverage**
-
-
-
 *   Monitor the Standard Acquisition Charge (SAC) fees that OPOs pass to transplant centers and which are reimbursed by CMS. With broader allocation boundaries, the cost of organs acquisition has increased, without oversight or cap.[^161]
 *   The Office of the National Coordinator (ONC) for Health Information Technology should set interoperability standards and requirements between OPOs, Donor Hospitals, and OPTNs in order to enable the introduction of new technologies into the organ donation space that currently is highly fragmented with significant amounts of information blocking put in place by incumbents. This will enable workflows between hospitals and OPOs to move from phone/paper based exchanges into auditable and near real-time automated workflows, including more timely, electronic referrals of potential donors.
 
 
 ### Donor Hospitals and Transplant Centers
-
-
-
 *   Experience surveys could be developed and administered as part of the upcoming ESRD Treatment Choices Learning Collaborative. Just as CMS monitors patient experience with HCAHPS, CMS could monitor and measure OPO performance based on input from clinical hospital teams involved in organ donation (on topics such as OPO staff interactions, staff knowledge, and quality of the engagement). These surveys could provide insight into how clinicians experience OPOs and illuminate opportunities for research. 
 
 
 ### OPTN (HRSA)
-
-
-
 *   Update organ offer technology to meet modern software standards and address baseline usability concerns, as described in drop-off point #1 above and in Driving Innovation in the Organ Transplant Technology “Ecosystem” _(link to tech doc)_. 
 *   CMS currently requires OPOs to retain records of donors which creates duplicative systems in OPO databases. HRSA should instead require that this data be captured, managed, and centralized in an OPTN database as part of the Organ Transplant Technology “ecosystem” _(link to tech doc)_. If able to take effect, this would require changes to OPO Condition of Coverage § 486.330 as well.
 *   HRSA should make available to all transplant centers and OPOs the data dashboards of organ procurement and transplant information as a service of the OPTN. Transplant centers and OPOs should not have to pay additional money individually for this information.
