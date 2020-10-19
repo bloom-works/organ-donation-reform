@@ -10,14 +10,14 @@ sub: drop-off
 ## Drop-off Point #3: _When OPO does not obtain family authorization_
 
 
-### Frequency/Size of Drop-off: **MEDIUM**
+### Frequency/Size of Drop-off: **MEDIUM/HIGH**
 
 Family authorization rates can vary widely from OPO to OPO, with even the national authorization rate average ranging based on different analysis and sources. A 2015 study of 2008-2013 data found authorization rates ranging from 63.5% to 89.5%[^75] while other studies estimated between 65%[^76] to 75%[^77] on average nationwide. Accuracy of these authorization rates is questionable, however, because OPOs self-report their rates. As an OPO CEO noted, _"If an OPO is reporting a 90% authorization rate, I would be worried about how often they are actually approaching."_
 
 Regardless, this is one of the most fixable drop-off points because 80% of families report that they would have donated if they had been approached correctly.[^78] When we have seen OPOs dramatically improve their organ transplant rate with new leadership, the new leadership’s focus always included improving family authorization rates.  
 
 
-### Causes
+### **CAUSES**
 
 
 ### Poor timing/poor interaction
@@ -44,7 +44,7 @@ When the coordination does not happen, OPOs remain as “outsiders” and can ad
 Lack of benchmarking data can lead to lack of motivation to improve, because OPO staff could be unaware of how they compare to other OPOs, including being unaware that they may have significant room to improve. One OPO leader who increased organ recovery at their OPO by nearly 30% in their first year as CEO used data to benchmark where their OPO was and shared with their staff that they were in the fourth quartile for authorization and conversion of donors. The staff at that OPO said they did not know they were that bad. There needed to be awareness of the problem before it could be addressed. Similarly, when data are not used to understand the demographics of an OPO’s DSA, it is a missed opportunity for the OPO to staff and train coordinators better to approach donor families of those demographics. 
 
 
-### Potential Fixes
+### **POTENTIAL FIXES**
 
 
 ### Better training for requestors
@@ -104,7 +104,7 @@ One example of building culture to improve organ recovery we heard was, _"The fa
 
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### **NOTES**
 
 [^75]:
     “[Increasing the Number of Organ Transplants in the United States by Optimizing Donor Authorization Rates](https://www.researchgate.net/publication/277336609_Increasing_the_Number_of_Organ_Transplants_in_the_United_States_by_Optimizing_Donor_Authorization_Rates),” _American Journal of Transplantation_, 2015. 

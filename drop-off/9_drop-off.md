@@ -9,7 +9,7 @@ sub: drop-off
 
 ---
 
-# CMS RECOMMENDATIONS 
+## CMS RECOMMENDATIONS 
 
 In order to achieve the ambitious goals of the Executive Order on Advancing American Kidney Health,[^141] which seeks to help 17,000 more patients access life-saving deceased donor kidney transplants each year, as well as 11,000 patients receive heart, liver, lung, and pancreas transplants, CMS in collaboration with HRSA can take many actions within their oversight of OPOs, transplant centers, donor hospitals, and the OPTN.
 
@@ -119,7 +119,7 @@ Below are recommended changes to current OPO conditions of coverage, not in exac
 
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### **NOTES**
 
 [^141]:
      “[Executive Order on Advancing American Kidney Health](https://www.whitehouse.gov/presidential-actions/executive-order-advancing-american-kidney-health/),” _whitehouse.gov_, 2019.

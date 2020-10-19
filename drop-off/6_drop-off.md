@@ -17,7 +17,7 @@ OPOs use the UNOS organ offer technology to generate a match list between the or
 How often this happens varies depending on organ type and OPO practices. As reported to the OPTN in 2018, 19% of kidneys, 21% of pancreases, 8% of livers, 3% of intestines, 1% of hearts, and 7% of lungs were recovered for transplant but not transplanted.[^115] OPO experts we spoke to said they believe not placing the organ in time is the largest point of organ discard for the remaining drop off points.[^116] 
 
 
-### Causes
+### **CAUSES**
 
 
 ### Bad organ offer technology
@@ -43,7 +43,7 @@ One former OPO coordinator told us, _"When I was placing organs, I would have 3 
 Another OPO expert highlighted, _“The UNOS Organ Center is so bad at this [placing organs]. I'm fighting with them on the phone, tell them you made a mistake, call the transplant center back, while I have a doctor yelling in my other ear. It is horrendous. **There is no external check on the quality of UNOS' own internal allocation system**…Any miscommunication or loss of communication can add enough cold-ischemic time [for the organ to become non-viable]. **We have no visibility into how often this happens because only UNOS can report that to UNOS**.”_
 
 
-### Potential Fixes
+### **POTENTIAL FIXES**
 
 
 ### Better organ offer technology
@@ -77,13 +77,15 @@ As one OPO leader told us, _“Our philosophy has always been that there is a ho
 
 Since the organ offer match run technology is inefficient, OPOs with high placement metrics have surgeons available they can call to expedite an organ at risk of discard. Additionally, the UNOS Organ Center should be held accountable for their organ placement by a third-party that is not the OPTN, since UNOS runs the OPTN. Their metrics and outcome performance data should be made publicly available along with all other OPOs’ data.
 
-_“You are effectively incentivized to discard [the organ] or not pursue. Working hard to place the organ with a transplant center that will take it is not rewarded. The frustrating thing is you can spend hours justifying expedited placement, whereas just walking away is not questioned.” - OPO CEO_
+>“You are effectively incentivized to discard [the organ] or not pursue. Working hard to place the organ with a transplant center that will take it is not rewarded. The frustrating thing is you can spend hours justifying expedited placement, whereas just walking away is not questioned.” 
+>
+> __- OPO CEO__
 
 ---
 
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### **NOTES**
 
 [^113]:
     For kidneys and pancreases, OPOs are responsible for local and regional matches, for national matches it goes to the UNOS Organ Center. 

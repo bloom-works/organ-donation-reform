@@ -20,7 +20,7 @@ Along the organ recovery process there are several drop-off[^18] points where or
 While the exact number has not been captured, researchers and OPO experts we spoke to estimate that there is a large number of referrals that are never made. A referral for a potential donor is a crucial step[^21] because it kicks off the whole organ recovery process.[^22] There is a significant opportunity for OPOs to work more effectively with donor hospitals and ensure all viable patients are referred. A missed referral means a missed approach, which means a missed opportunity to save up to eight lives (as every donor may have up to 8 transplantable organs). 
 
 
-### Causes
+### **CAUSES**
 
 ### Lack of mandated standardization
 
@@ -44,7 +44,7 @@ We heard from an OPO leader that, _"Many OPOs have instructed hospitals to NOT c
 OPOs are supposed to find these missed referrals in their death record reviews, but we heard, _“There’s no incentive to find those missed referrals. If they [the hospital] missed making a referral, they [the OPO] have to report it. There are incentives in the chain to cover up everybody else in the chain.”_ - _OPO COO._ One example of this, shared with us by a researcher, is that an OPO said they were getting 100% of referrals based on the OPO's death record audits, but when the OPO adopted an electronic automated referral system, the number of referrals went up. Because of this, an OPO leader emphasized that the referral potential for a donor hospital should not be assumed based on previous history of referral.
 
 
-### Potential Fixes
+### **POTENTIAL FIXES**
 
 
 ### Standardize clinical triggers nationally
@@ -85,7 +85,7 @@ Some OPOs may already be surveying their donor hospitals, but that information i
 
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### **NOTES**
 
 [^18]:
     Clinically, these drop-off points are referred to as either “organ loss” if the organ was never procured or “organ discard” if the organ was procured but never transplanted.

@@ -15,7 +15,7 @@ sub: drop-off
 Between when an organ offer is accepted and when the organ is transplanted into a recipient candidate, there are still potential failure points that could result in the organ not being transplanted. While these drop-off points do not occur frequently, they could often be avoided altogether.
 
 
-### Causes
+### **CAUSES**
 
 
 ### Failure to secure OR and surgeon in time
@@ -28,7 +28,7 @@ OPOs may have difficulty securing an operating room and/or surgeon, so it takes 
 The recovery[^128] of the organs from a donor needs to be sequenced and may need to accommodate several different surgeons in one operating room.[^129] Currently, transplant center surgeons will often fly in to personally recover the organ that they will be transplanting. There is a lack of trust for the local team to do the recovery, less so because of surgical error, but because of the decision making that is needed to make the final determination of whether the organ is transplantable. Once the organ is surgically removed from the body, it can reveal certain information that cannot be determined by labs beforehand. 
 
 
-### Potential Fixes
+### **POTENTIAL FIXES**
 
 
 ### Hospital agreements and setting family expectations
@@ -46,7 +46,7 @@ Certain technology like Google Glass can give transplant surgeons good visuals i
 
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### **NOTES**
 
 [^127]:
     “[Lives Lost, Organs Wasted](https://www.washingtonpost.com/graphics/2018/national/organ-transplant-shortages/),” Washington Post, 2018.  
