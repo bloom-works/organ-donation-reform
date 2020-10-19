@@ -28,7 +28,7 @@ Below are recommended changes to current OPO conditions of coverage, not in exac
 *   All OPOs should recover organs from donors after cardiac death and have policies in place for their protocol on how to do so.
 
 
-**§ 486.326 Condition: Human resources.** CMS can clarify that:
+**§ 486.326 Condition: Human resources.** CMS can clarify:
 *   OPO should have staffing measures in place for when interacting with potential donors’ next of kin for donation authorization. To the extent possible, preference should be for staff to reflect the demographics (in terms of race and language) of the community in the OPO’s DSA. Additionally, staff should undergo cultural sensitivity training for the demographics represented in their regions.[^144] 
 *   Specifically for standards on qualifications,[^145] individuals involved in donor assessment, procurement, and placement should have clinical experience or documented clinical training. 
 *   For standards on staffing,[^146] rule out of medical suitability for organ donation must be done by individuals with a clinical background; and OPOs must have a sufficient number of qualified staff to respond to 100% of potential donor referrals within an hour, including by going onsite in all cases to the extent possible. 
