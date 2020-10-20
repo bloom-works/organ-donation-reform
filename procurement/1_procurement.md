@@ -16,7 +16,7 @@ The life-saving system of organ donation and transplantation in the U.S. is coor
 
 >“We don’t have the in-depth IT staff to have an understanding whether the things are being built are good.”
 >
-> _- HHS Official_
+> __- HHS Official__
 
 ---
 
@@ -26,7 +26,7 @@ The current procurement processes in place hamper the government's ability to tr
 
 >"The OPTN contractor has devolved into a hostage-taking situation, where it has convinced the government that no one else can do what it does, but it doesn’t perform its functions particularly well.”     
 >
->_-Transplant Surgeon_
+> __-Transplant Surgeon__
 
 ---
 

@@ -7,7 +7,7 @@ toc: true
 sub: drop-off
 ---
 
-## Drop-off Point #3: _When OPO does not obtain family authorization_
+## Drop-off Point #3: _When an OPO does not obtain family authorization_
 
 
 ### Frequency/Size of Drop-off: **MEDIUM/HIGH**
