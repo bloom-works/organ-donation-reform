@@ -242,7 +242,7 @@ Research was supported by Arnold Ventures and Schmidt Futures in partnership wit
 <!-- TODO - add better links here -->
 **Additional Information**
 
-1. [Download Summary of Findings (PDF)](#TODO)
+1. [Download Summary of Findings (PDF)](/assets/PDF/ODR_Summary.pdf)
 2. [Inequity in Organ Donation](/Inequity)
 3. [OPO Best Practices](/OPO-Best-Practices)
 4. [Technology Recommendations](/Technology)
