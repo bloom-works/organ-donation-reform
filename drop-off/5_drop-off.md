@@ -7,7 +7,7 @@ toc: true
 sub: drop-off
 ---
 
-## Drop-off Point #4: _When OPO finds after testing that organ is not viable_
+## Drop-off Point #4: _When an OPO finds after testing that organ is not viable_
 
 
 ### Frequency/Size of Drop-off: **LOW**

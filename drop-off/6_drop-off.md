@@ -7,7 +7,7 @@ toc: true
 sub: drop-off
 ---
 
-## Drop-off Point #5: _When OPO does not place an organ while it is still viable_
+## Drop-off Point #5: _When an OPO does not place an organ while it is still viable_
 
 
 ### Frequency/Size of Drop-off: **MEDIUM**

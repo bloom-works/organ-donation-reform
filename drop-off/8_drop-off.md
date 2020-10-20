@@ -7,7 +7,7 @@ toc: true
 sub: drop-off
 ---
 
-## Drop-off Point #7: _When OPO fails to transport an organ to its destination in a timely manner, or if on arrival the organ is unsuitable for the intended recipient_
+## Drop-off Point #7: _When an OPO fails to transport an organ to its destination in a timely manner, or if on arrival the organ is unsuitable for the intended recipient_
 
 
 ### Frequency/Size of Drop-off: **LOW**

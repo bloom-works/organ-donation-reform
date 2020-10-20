@@ -7,7 +7,7 @@ toc: true
 sub: drop-off
 ---
 
-## Drop-off Point #6: _When OPO fails to recover organs in a timely manner or an organ is found to be non-viable after recovery_
+## Drop-off Point #6: _When an OPO fails to recover organs in a timely manner or an organ is found to be non-viable after recovery_
 
 
 ### Frequency/Size of Drop-off: **LOW**
