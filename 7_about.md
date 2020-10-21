@@ -38,15 +38,16 @@ Bloom Works began the discovery sprint in July, 2020 and finalized the reports a
 Bloom Works’ research is supported by Arnold Ventures and Schmidt Futures in partnership with Organize and the Federation of American Scientists.
 
 **Contributors to the project include the following:**    
+
 Scott Haselton   
-Lauren Lockwood   
-Brent Maravilla   
-Adam Moorman  
+Lauren Lockwood
+Brent Maravilla
+Adam Moorman
 Lan Nguyen  
-Ari Perez 
+Ari Perez
 Greg Segal
-Malini Sekhar     
-Emily Wright-Moore  
+Malini Sekhar
+Emily Wright-Moore
 Megan Zehnder  
 
 Special thanks to everyone we interviewed who offered their invaluable time and insight into the inner workings of the organ donation system. 
