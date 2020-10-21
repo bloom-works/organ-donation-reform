@@ -43,9 +43,9 @@ Lauren Lockwood
 Brent Maravilla   
 Adam Moorman  
 Lan Nguyen  
-Ari Perez  
-Malini Sekhar  
-Greg Segal   
+Ari Perez 
+Greg Segal
+Malini Sekhar     
 Emily Wright-Moore  
 Megan Zehnder  
 
