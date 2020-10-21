@@ -18,7 +18,7 @@ Moving away from the previous contracting strategy, this procurement does not in
 The below reports provide more context about organ donation.
 <!-- TODO: fix links -->
 *   [Reforming Organ Donation in America, Bridgespan, 2019](https://www.bridgespan.org/bridgespan/Images/articles/reforming-organ-donation-in-america/reforming-organ-donation-in-america-01-2019.pdf)
-*   [The Costly Effects of An Outdated Organ Donation System: Summary of Findings](({{ site.url }}{{ site.baseurl }}/Summary) 
+*   [The Costly Effects of An Outdated Organ Donation System: Summary of Findings]({{ site.url }}{{ site.baseurl }}/Summary) 
 
 ### Introduction
 
