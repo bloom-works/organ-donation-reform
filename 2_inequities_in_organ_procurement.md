@@ -76,7 +76,7 @@ The chance of finding a match would be significantly higher for people of color 
 
 ## Potential Donors of Color Less Likely to be Referred
 
-OPOs are responsible for coordinating with hospitals to get donor referrals, identifying viable candidates, and talking to families of those candidates to obtain consent. There are 58 OPOs throughout the U.S., each responsible for a designated geographical area. (See [OPO Best Practices](/OPO-Best-Practices) for more information.)
+OPOs are responsible for coordinating with hospitals to get donor referrals, identifying viable candidates, and talking to families of those candidates to obtain consent. There are 58 OPOs throughout the U.S., each responsible for a designated geographical area. (See [OPO Best Practices]({{ site.baseurl }}/OPO-Best-Practices) for more information.)
 
 The first step in obtaining organs is for the hospital to call the OPO, but often the number of referrals is far lower than it should be. This is in part due to poor OPO and hospital relationships and even guidance by OPOs to not call on specific circumstances to avoid reporting on cases when the OPO believes donation is unlikely.[^28] 
 
@@ -84,7 +84,7 @@ Studies suggest that implicit bias and preconceptions of who is likely to donate
 
 ## OPOs Not Showing Up to Talk to Donor Families of Color
 
-If a hospital notifies an OPO about a potential donor, the OPO then has discretion to decide whether or not to follow up. (OPOs do not respond to all referrals; see [OPO Best Practices](/OPO-Best-Practices) for more information on this frequent organ loss point.) Again, implicit bias and preconceptions of who is likely to donate negatively impact people of color when it comes to OPOs following up. 
+If a hospital notifies an OPO about a potential donor, the OPO then has discretion to decide whether or not to follow up. (OPOs do not respond to all referrals; see [OPO Best Practices]({{ site.baseurl }}/OPO-Best-Practices) for more information on this frequent organ loss point.) Again, implicit bias and preconceptions of who is likely to donate negatively impact people of color when it comes to OPOs following up. 
 
 One comparison study that looked at differences in organ donor experiences found Black families were “less likely to have spoken to an organ procurement organization representative,”[^31] with previous research concluding "[t]he odds that a family of a White patient was approached for donation were nearly twice those for a family of an African American.”[^32]
 

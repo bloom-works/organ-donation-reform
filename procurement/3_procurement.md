@@ -18,7 +18,7 @@ Moving away from the previous contracting strategy, this procurement does not in
 The below reports provide more context about organ donation.
 <!-- TODO: fix links -->
 *   [Reforming Organ Donation in America, Bridgespan, 2019](https://www.bridgespan.org/bridgespan/Images/articles/reforming-organ-donation-in-america/reforming-organ-donation-in-america-01-2019.pdf)
-*   [The Costly Effects of An Outdated Organ Donation System: Summary of Findings](/Summary) 
+*   [The Costly Effects of An Outdated Organ Donation System: Summary of Findings]({{ site.baseurl }}/Summary) 
 
 ### Introduction
 
@@ -60,18 +60,18 @@ For donor hospital and transplant center clinicians, organ procurement organizat
 ### Process map
 
 **Figure 4**{:#figure-4}
-![Image detailing how an organ is managed throughout the organ donation process](/assets/images/organ-management.jpg)
+![Image detailing how an organ is managed throughout the organ donation process]({{ site.url }}/assets/images/organ-management.jpg)
 
-[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF](/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
+[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF]({{ site.url }}/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
 
 
 ### Current Technology
 
 **Figure 6**{:#figure-6}
-![An overview of technology used by the organ tranplant community](/assets/images/tech-current.jpg)
+![An overview of technology used by the organ tranplant community]({{ site.url }}/assets/images/tech-current.jpg)
 
 [Download the "An Overview of Technology Used By
-the Organ Transplant Community" PDF](/assets/PDF/ODR-Current_Tech_Final.pdf)
+the Organ Transplant Community" PDF]({{ site.url }}/assets/PDF/ODR-Current_Tech_Final.pdf)
 
 
 ### Statement of Objectives

@@ -24,11 +24,11 @@ Bloom Works investigated and analyzed the current organ donation system through 
 
 ## Where to start? 
 
-<img src="assets/images/odr-sum-cov.jpg" width="275" >
+<img src="{{ site.url }}/assets/images/odr-sum-cov.jpg" width="275" >
 
-We recommend reading through our Summary of Findings [here](https://organdonationreform.netlify.app/summary/) (or you can [read the printable PDF version here](/assets/PDF/ODR_Summary.pdf)).
+We recommend reading through our Summary of Findings [here](https://organdonationreform.netlify.app/summary/) (or you can [read the printable PDF version here]({{ site.url }}/assets/PDF/ODR_Summary.pdf)).
 
-You can also view our more comprehensive reports with specific areas of focus, such as [Inequity in Organ Donation](/Inequity), [OPO Best Practices](/OPO-Best-Practices), [Technology Recommendations](/Technology), and [Acquisition Strategy for OPTN Tech](/Acquisition-Strategy). If you want to see all the maps and charts to explain the process, they are all in one place in the [appendix](/appendix). 
+You can also view our more comprehensive reports with specific areas of focus, such as [Inequity in Organ Donation]({{ site.baseurl }}/Inequity), [OPO Best Practices]({{ site.baseurl }}/OPO-Best-Practices), [Technology Recommendations]({{ site.baseurl }}/Technology), and [Acquisition Strategy for OPTN Tech]({{ site.baseurl }}/Acquisition-Strategy). If you want to see all the maps and charts to explain the process, they are all in one place in the [appendix]({{ site.baseurl }}/appendix). 
 
 Introduction
 1. [Summary of Findings](https://organdonationreform.netlify.app/summary/)
