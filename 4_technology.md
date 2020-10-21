@@ -7,9 +7,9 @@ weight: 1
 toc: true
 ---
 
-## Driving Innovation in the Organ Transplant Ecosystem
+# Driving Innovation in the Organ Transplant Ecosystem
 
-### Executive Summary
+## Executive Summary
 
 While investigating organ donation coordination, we found there is a clear opportunity to modernize its technical operations to save both lives and taxpayer dollars. 
 
@@ -45,8 +45,7 @@ We have recommendations from both a top-down and bottom-up approach to fix the c
 By “top-down” change, we envision federal contracting reform for the OPTN, especially to create more competition and attract a larger, more dynamic, pool of bidders. This process will take time, at least 1–⁠2 years before any new vendor(s) will begin to release technical changes in the system. Under this approach, we recommend the following:
 
 
-<!-- TODO: check link -->
-*   Restructure contracts to focus on pieces of discrete domain business logic (see [Acquisition Strategy](#)).
+*   Restructure contracts to focus on pieces of discrete domain business logic (see [Strategy for Buying OPTN Tech]({{ site.url }}{{ site.baseurl }}/Buying-OPTN-Tech)).
 *   Ensure future OPTN contractors use open-sourced, cloud-based technology from a government approved cloud provider. 
 *   Ensure future OPTN contractors adopt modern digital strategy techniques, including iterative development.
 *   Create or require a central data warehouse under an OPTN caretaker that enables data-driven decision making, with standardized metrics. 
@@ -62,7 +61,7 @@ In the “bottom-up” approach, we see startup innovators working in the presen
 *   Allow third-party innovators to create more effective software that meets the needs of OPOs.
 *   Require UNOS to create robust application programming interfaces (APIs) that are accessible to a larger group of users. 
 *   Instruct OPTN, who owns the data that UNOS has control over, to require UNOS to share data access with third-party innovators who are bringing solutions to the organ transplant ecosystem via the private sector. 
-*   UNOS shall be instructed to provide said data at no cost to the qualified third party innovators as this data has been collected, maintained, and paid for under the current contract with OPTN (US Government).
+*   UNOS shall be instructed to provide said data at no cost to the qualified third party innovators as this data has been collected, maintained, and paid for under the current contract with OPTN (U.S. Government).
 
 ---
 
@@ -70,13 +69,13 @@ In the “bottom-up” approach, we see startup innovators working in the presen
 
 Every day, nearly 100 people on average are saved by organ transplants in the U.S. But another 33 people die while waiting for a new organ. There is a growing chorus of dedicated professionals who believe that the wait list could be reduced and even eliminated for certain organs with simple technological and process improvements. This paper focuses specifically on how technology impacts the organ transplant community and how it could be used to increase the number of successful transplants. 
 
-After examining and exploring the majority of the technical systems employed by the US organ transplant community, there is a clear sense that the ecosystem as a whole has a major opportunity to modernize its technical operations. In this paper, we will refer to any and all technical systems used by members of the organ transplant community as the organ transplant ecosystem. We emphasize the word “ecosystem” to highlight that there are numerous systems at play, rather than a singular overarching system. While there are a few key critical, taxpayer-funded technical systems , there are also many privately funded technical systems in differing stages of maturity. Currently there is no key decision maker that can control all technical aspects of every system from end to end, therefore the term “ecosystem” is the best way to describe all the disparate systems coming together to form a whole.   
+After examining and exploring the majority of the technical systems employed by the U.S. organ transplant community, there is a clear sense that the ecosystem as a whole has a major opportunity to modernize its technical operations. In this paper, we will refer to any and all technical systems used by members of the organ transplant community as the organ transplant ecosystem. We emphasize the word “ecosystem” to highlight that there are numerous systems at play, rather than a singular overarching system. While there are a few key critical, taxpayer-funded technical systems , there are also many privately funded technical systems in differing stages of maturity. Currently there is no key decision maker that can control all technical aspects of every system from end to end, therefore the term “ecosystem” is the best way to describe all the disparate systems coming together to form a whole.   
 
 
 
 ### Digital Services Revolution
 
-Major technological advancements in the last 5 to 10 years have led to breakthroughs in the private sector. These same technological advancements have slowly begun to enter into the U.S. government. Innovative and disruptive efforts have and continue to pioneer methods for procuring and implementing the latest technology from inside the U.S. Government. These new efforts all roughly fall under the banner of “digital services”. 
+Major technological advancements in the last 5 to 10 years have led to breakthroughs in the private sector. These same technological advancements have slowly begun to enter into the U.S. government. Innovative and disruptive efforts have and continue to pioneer methods for procuring and implementing the latest technology from inside the U.S. Government. These new efforts all roughly fall under the banner of “digital services.” 
 
 The failure of Healthcare.gov led to a revolution of how the government buys, builds, and maintains technology projects. These digital services efforts have led the effort to better serve the public through innovative technology. One of the key lessons that has come out of the digital services revolution is that we cannot simply spend more money on the processes and techniques that the U.S. Government is used to procuring if they are not working. Instead we must rethink technology ecosystems as a whole. Today's industry leaders build software that is open source and transparent to foster collaboration and innovation. They also keep the end-user central in determining and evaluating what success looks like. Some of these patterns are laid out extremely well in the [Digital Services Playbook](https://playbook.cio.gov), and will be frequently referred to throughout this paper.
 
@@ -88,9 +87,9 @@ The U.S. government has the opportunity to save thousands of lives and also bill
 ## Current State of the Ecosystem
 
 **Figure 1**{:#figure-1}
-![Detailed map of governance and oversight in the organ donation process](/assets/images/gov-oversight-map.jpg)
+![Detailed map of governance and oversight in the organ donation process]({{ site.asset_url }}/assets/images/gov-oversight-map.jpg)
 
-[Download the "Governance and Oversight in the Organ Donation Process" PDF](/assets/PDF/ODR-Governance_Map_Final.pdf)
+[Download the "Governance and Oversight in the Organ Donation Process" PDF]({{ site.asset_url }}/assets/PDF/ODR-Governance_Map_Final.pdf)
 
 Before diving further into suggestions for improving the organ transplant ecosystem, we will first consider the most common systems and actors in play. 
 
@@ -196,10 +195,10 @@ OPO technology varies greatly between each organization, but ultimately they all
 All the other systems suffer from similar shortcomings, leaving many users frustrated with the amount of work and training required to constantly shift between several technical systems to perform basic functions. As an example of how this surfaces, when a transplant center has to make a decision on an organ offer they have to look at multiple screens: the donor info in DonorNet, the candidate ranking info in Waitlist, and then candidate's clinical info in the transplant hospital's EMR. It would be much easier and quicker if they could look at one screen for this info to make the offer decision.
 
 **Figure 5**{:#figure-5}
-![An overview of technology used by the organ tranplant community](/assets/images/tech-current.jpg)
+![An overview of technology used by the organ tranplant community]({{ site.asset_url }}/assets/images/tech-current.jpg)
 
 [Download the "An Overview of Technology Used By
-the Organ Transplant Community" PDF](/assets/PDF/ODR-Current_Tech_Final.pdf)
+the Organ Transplant Community" PDF]({{ site.asset_url }}/assets/PDF/ODR-Current_Tech_Final.pdf)
 
 
 
@@ -219,7 +218,7 @@ The largest provider of OPO technology is Transplant Connect. The larger communi
 
 By law, donor hospitals are required to notify OPOs upon imminent death of a potential donor. Donor hospitals’ main tool for reporting is utilizing a phone call in a process called ‘referring’ wherein they contact the OPO, transmitting only limited information in order to allow the OPO to start the process of making a determination as to whether the patient is a viable donor candidate. 
 
-Across the community there is a consensus that this process would greatly benefit from automation between the Donor Hospital EMRs and OPO systems — if not directly into the OPTN tech system (see [OPO Best Practices](/OPO-Best-Practices)). **We believe as automation increases and systems begin communicating directly with each other, rather than relying on human interventions, the organ transplant ecosystem will have decreased “technical seams” and security risks.**
+Across the community there is a consensus that this process would greatly benefit from automation between the Donor Hospital EMRs and OPO systems — if not directly into the OPTN tech system (see [OPO Best Practices]({{ site.url }}{{ site.baseurl }}/OPO-Best-Practices)). **We believe as automation increases and systems begin communicating directly with each other, rather than relying on human interventions, the organ transplant ecosystem will have decreased “technical seams” and security risks.**
 
 ---
 
@@ -236,7 +235,7 @@ Transplant centers typically use custom-built solutions that work in conjunction
 
 ### Startup Funded Tech
 
-Particularly in the area of transportation, there is high interest, and private funding with proven logistical expertise focused on improving the challenge of transporting organs. We highlight these startup companies because they have a powerful potential for innovating and pushing the entire organ transplant community forward in terms of technology. Theoretically they can already do this now without having to wait for US Government contracting changes, but only if UNOS enables connectivity by providing startups API access to their government-held data, a proposition toward which UNOS has appeared unwilling. The private start-ups we interviewed are also extremely mission-driven and passionate about improving the state of the ecosystem, often taking it upon themselves to spend enormous amounts of money and time to improve outcomes. Third-party startups fill an important role in augmenting expertise and driving forward comprehensive technical solutions. 
+Particularly in the area of transportation, there is high interest, and private funding with proven logistical expertise focused on improving the challenge of transporting organs. We highlight these startup companies because they have a powerful potential for innovating and pushing the entire organ transplant community forward in terms of technology. Theoretically they can already do this now without having to wait for U.S. Government contracting changes, but only if UNOS enables connectivity by providing startups API access to their government-held data, a proposition toward which UNOS has appeared unwilling. The private start-ups we interviewed are also extremely mission-driven and passionate about improving the state of the ecosystem, often taking it upon themselves to spend enormous amounts of money and time to improve outcomes. Third-party startups fill an important role in augmenting expertise and driving forward comprehensive technical solutions. 
 
 It is important to point out that while these upstarts provide exciting new possibilities for increased efficacy and lower cost, they are still emerging and navigating difficult challenges, like gaining API access (computer-to-computer interfaces) to real time data in UNOS UNet℠. Without efforts to open up this data and break down barriers, innovation will continue to occur slowly within the organ transplant ecosystem, continuing to rely on the established players to deliver change.
 
@@ -312,19 +311,19 @@ It is impossible to predict the exact outcome of what will happen over the next 
 
 By “top-down” change, we are predicting a situation in which UNOS no longer holds responsibility for technical innovation and it is passed to a new digital services vendor. It is important to note that this process will take time, at least 1–⁠2 years before a new vendor will begin to release technical change in the system. During that bridge period, UNOS will still be the dominant system and have a choice on how much to innovate. 
 
-In the “bottom-up” approach, we see startup innovators working in the present ecosystem to move the needle forward on systems used to transport organs and assist the OPOs in modernizing. The “bottom-up” approach is highly dependent in the short term on whether UNOS begins to work with new startup technologies. Under the current circumstances, UNOS has little to no incentive to allow new technology companies into the space (see [Governance map, Figure 1](#figure-1) and the [Money Map](/Appendix/#Money-Map)); however, these changes can still have immediate and dramatically positive effects across the system as opposed to the “top-down” approach which will take time to achieve. 
+In the “bottom-up” approach, we see startup innovators working in the present ecosystem to move the needle forward on systems used to transport organs and assist the OPOs in modernizing. The “bottom-up” approach is highly dependent in the short term on whether UNOS begins to work with new startup technologies. Under the current circumstances, UNOS has little to no incentive to allow new technology companies into the space (see [Governance map, Figure 1](#figure-1) and the [Money Map]({{ site.url }}{{ site.baseurl }}/Appendix/#Money-Map)); however, these changes can still have immediate and dramatically positive effects across the system as opposed to the “top-down” approach which will take time to achieve. 
 <!-- TODO: check money map link-->
 
 ### Top-Down: Govt Digital Services Model
 
 
 **Figure 6**{:#figure-6}
-![Detailed map of how organ technology could be improved in the long term](/assets/images/tech-future.jpg)
+![Detailed map of how organ technology could be improved in the long term]({{ site.asset_url }}/assets/images/tech-future.jpg)
 
-[Download the "How Organ Technology Could be Improved in the Long Term" PDF](/assets/PDF/ODR-Far_Future_Tech_Final.pdf)
+[Download the "How Organ Technology Could be Improved in the Long Term" PDF]({{ site.asset_url }}/assets/PDF/ODR-Far_Future_Tech_Final.pdf)
 
 
-There is a consistent pattern employed by digital service companies in terms of effectively working with a government agency to build effective software and technology infrastructure. As referenced earlier, the [Digital Services Playbook](https://playbook.cio.gov/) pattern is the clearest published outline for how this process takes place. We emphasize that successfully implementing this playbook is highly dependent on the government selecting the right vendor which is covered in our [Strategy for Buying OPTN Tech](/Buying-OPTN-Tech). 
+There is a consistent pattern employed by digital service companies in terms of effectively working with a government agency to build effective software and technology infrastructure. As referenced earlier, the [Digital Services Playbook](https://playbook.cio.gov/) pattern is the clearest published outline for how this process takes place. We emphasize that successfully implementing this playbook is highly dependent on the government selecting the right vendor which is covered in our [Strategy for Buying OPTN Tech]({{ site.url }}{{ site.baseurl }}/Buying-OPTN-Tech). 
 
 Over the next few paragraphs we will analyze how a digital services team would begin working with the OPTN to start the process of iteratively building the key technical infrastructure the organ “technology ecosystem” deserves. 
 
@@ -356,7 +355,7 @@ The team will focus on developing a relationship with the government and existin
 
 
 ### Deliver a Minimum Viable Product (MVP)
-As outlined in the [Draft Acquisition Proposal](/Buying-OPTN-Tech#draft-request-for-proposal), the goal is to buy a repeatable process, not technical specifications. At the heart of this process is the goal of improving technology by developing iteratively over time. The team can and should focus on delivering a Minimum Viable Product (MVP). The MVP doesn’t solve the biggest problem or meet everyone’s needs. Instead, it may be a small project that delivers immediate value to the entire community in a matter of weeks, as opposed to the typical timeline of months that it takes UNOS to deliver a feature. 
+As outlined in the [Draft Acquisition Proposal]({{ site.url }}{{ site.baseurl }}/Buying-OPTN-Tech#draft-request-for-proposal), the goal is to buy a repeatable process, not technical specifications. At the heart of this process is the goal of improving technology by developing iteratively over time. The team can and should focus on delivering a Minimum Viable Product (MVP). The MVP doesn’t solve the biggest problem or meet everyone’s needs. Instead, it may be a small project that delivers immediate value to the entire community in a matter of weeks, as opposed to the typical timeline of months that it takes UNOS to deliver a feature. 
 
 What’s interesting about focusing on an MVP is that what’s delivered is typically not the most valuable outcome. While building the MVP, the digital services team will navigate several challenges like meeting all stakeholders and conducting user research, building the hosting infrastructure required to serve software, and working through team processes that enable it to move faster in the future. Therefore, the most important outcome is that the team has started the process of becoming good at delivering something of value quickly into the organ transplant ecosystem.
 
@@ -373,9 +372,9 @@ As opposed to achieving a fixed, contractually agreed upon end state, like the g
 ### Bottom-Up: Fostering Innovative Startups
 
 **Figure 7**{:#figure-7}
-![An overview of how organ technology could be improved in the short term](/assets/images/tech-shortterm.jpg)
+![An overview of how organ technology could be improved in the short term]({{ site.asset_url }}/assets/images/tech-shortterm.jpg)
 
-[Download the "How Organ Technology Could Be Improved in the Short Term" PDF](/assets/PDF/ODR-Near_Future_Tech_Final.pdf)
+[Download the "How Organ Technology Could Be Improved in the Short Term" PDF]({{ site.asset_url }}/assets/PDF/ODR-Near_Future_Tech_Final.pdf)
 
 
 Even if the above-described top-down strategy occurs at an extremely quick pace, it will take some time for changes to directly impact the system. Waiting for the changes to occur is not the only effective strategy for creating change across the system. 

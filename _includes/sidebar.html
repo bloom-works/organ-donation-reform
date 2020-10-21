@@ -1,12 +1,12 @@
 <nav class="nav">
   <ul>
     <li class="{% if page.title == 'Introduction' %}nav-active{% endif %}">
-      <a href="/">Introduction</a>
+      <a href="{{ site.url }}{{ site.baseurl }}">Introduction</a>
     </li>
     {% assign pages_list = site.pages | where: "layout","page" | where: "nav", true %}
     {% assign i = 1 %}
     {% for node in pages_list %}
-      <li class="{% if page.url == node.url %}nav-active{% endif %}"><a href="{{ node.url }}">{{ i }}. {{ node.title }}</a></li>
+      <li class="{% if page.url == node.url %}nav-active{% endif %}"><a href="{{ site.url }}{{ site.baseurl }}{{ node.url }}">{{ i }}. {{ node.title }}</a></li>
       {% assign i = i | plus:1 %}
     {% endfor %}
     <!-- <li>

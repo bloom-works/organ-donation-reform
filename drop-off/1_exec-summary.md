@@ -13,15 +13,11 @@ Each year, more than 28,000 viable organs never get the opportunity to be transp
 
 The 58 OPOs across the country are tasked with managing and coordinating an organ recovery process that broadly consists of three phases:
 
-
-
 *   **Phase 1: Procurement** - Coordinating with donor hospitals to procure organs from deceased donor patients who meet clinical criteria for donation. 
 *   **Phase 2: Match & Recovery** - Matching the procured organ(s) with a patient on the waiting list to receive that organ, and overseeing surgical recovery of the organ(s). 
 *   **Phase 3: Transport & Transplant** - Transporting the recovered organ to the transplant center in sufficient time so that it can be transplanted successfully. 
 
 We identified many issues specific to OPO practices that impede organ recovery efforts at every phase of the process, including: 
-
-
 
 *   Unmade referrals of a potential donor 
 *   OPOs not responding to a donor referral in time for the organ to be used successfully
@@ -42,8 +38,6 @@ There are some clinical reasons that cause these drop off points and others. But
 
 Many of these challenges have root causes that we believe can be addressed. In particular, there are critical opportunities related to: 
 
-
-
 *   **Accountability** - Holding OPOs (who are government contractors) to more rigorous standards around organ recovery, transportation and logistics, and urgency around donor matching.
 *   **Staffing & Training** - Addressing understaffing and poor training to improve coordination and communication among key stakeholders in the system.
 *   **Data & Technology** - Improving data and technology throughout the process so that it can be leveraged more efficiently to support organ recovery. 
@@ -54,7 +48,7 @@ The U.S. Department of Health and Human Services (HHS) has a critical window of 
 
 ---
 
-# INTRODUCTION
+## Introduction
 
 Problem: Currently, 58 Organ Procurement Organizations (OPOs) are designated across the US. They are each responsible for obtaining transplantable organs within their own territory of hospitals in their donation service area (DSA), without competition from any other organizations, which essentially renders each OPO as a monopoly for organ procurement for their DSA.[^1] Without strong performance guardrails, performance of OPOs across the nation has been variable — by as much as 470% in organ recovery.[^2] Despite this, no OPO has ever lost its government contract for poor performance. Research has shown that 28,000[^3] organs each year go unrecovered by OPOs and a December 2019 Notice of Public Rulemaking from the Department of Health and Human Services (HHS) flagged a majority of the nation’s OPOs as failing basic proposed outcome metrics.[^4] 
 
@@ -63,12 +57,12 @@ Opportunity: With the proposed rule change on outcome measures,[^5] OPOs may be 
 Discovery Sprint**:** Based on interviews with OPO, donor hospital, and transplant center staff, as well as researchers and other leaders[^7] in the organ transplant system, this report offers insight into the issues impeding organ recovery and the practices that could address these issues. Given that there have been limited studies that examine the effects of specific OPO practices, the findings in this report are reinforced with data when possible, though are largely case studies.
 
 
-# ORGAN RECOVERY PROCESS
+### Organ Recovery Process
 
 **Figure 4**{:#figure-4}
-![Image detailing how an organ is managed throughout the organ donation process](/assets/images/organ-management.jpg)
+![Image detailing how an organ is managed throughout the organ donation process]({{ site.asset_url }}/assets/images/organ-management.jpg)
 
-[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF](/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
+[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF]({{ site.asset_url }}/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
 
 
 As mentioned above, OPOs have the responsibility of procuring organs from deceased patients and placing them with transplant centers. To carry out this responsibility, OPO staff must coordinate with donor hospitals[^8] to procure organs from deceased donor patients who meet clinical criteria, and with transplant centers[^9] to match those organs with recipients on the organ waiting list. 
@@ -88,12 +82,12 @@ As mentioned above, OPOs have the responsibility of procuring organs from deceas
 ### Phase 2: Match & Recovery
 
 
-
 1. Once the organs are deemed transplantable, the OPO enters the donor’s clinical data into the organ offer technology to run a “match list.” This provides the OPO with an ordered list of the patients in line to receive that organ. 
 2. OPOs must work quickly to run down the match list to find an accepting transplant center and recipient.[^13]
 3. The surgical recovery of the organs is scheduled and usually takes place at the donor hospital.[^14] For some organs, surgeons from the transplant centers will travel to the donor hospital to perform the surgical removal of the organs and take the organs back with them. For other organs, local surgeons will perform the surgery[^15] and the organs must be shipped to the transplant center.  
-Phase 3: Transport & Transplant
 
+
+### Phase 3: Transport & Transplant
 
 
 1. Once organs are surgically removed, the OPO prepares them for transit, and arranges transportation.[^16] The transportation of the organ to the transplant center is time-sensitive since the organ degrades with increased cold-ischemia time (time outside the body).[^17]
@@ -102,7 +96,7 @@ Phase 3: Transport & Transplant
 ---
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### **NOTES**
 
 [^1]:
      Government officials have noted that because of this given monopoly and lack of market pressure, OPOs should be held to stricter standards and more transparency. 

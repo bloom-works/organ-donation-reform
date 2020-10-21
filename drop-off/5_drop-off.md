@@ -7,7 +7,7 @@ toc: true
 sub: drop-off
 ---
 
-## Drop-off Point #4: _When OPO finds after testing that organ is not viable_
+## Drop-off Point #4: _When an OPO finds after testing that organ is not viable_
 
 
 ### Frequency/Size of Drop-off: **LOW**
@@ -15,7 +15,7 @@ sub: drop-off
 Researchers and OPO staff we talked to estimated that this is a low drop-off point[^109] relative to other drop-off points. The important note here is that there is a lot of discretion afforded to OPOs at this point, which is problematic in the broader context of a lack of transparency, accountability, or regulatory pressure to improve. OPOs can each have their own definition of viability (suitability and transplantability) when they start this testing. 
 
 
-### Causes
+### **CAUSES**
 
 
 ### Primarily clinical reasons
@@ -28,7 +28,7 @@ Organs can be deemed non-viable for a number of clinical reasons. One interviewe
 Sometimes the condition of the organ is related to clinical donor management.[^110] Transition of care for deceased donor management can be messy and confusing if the OPO and hospital staff do not have a clear protocol. Previous research has stated, “a collaborative effort between the nurse and the procurement coordinator will help maintain the stability of the donor’s condition and contribute to timely completion of diagnostic studies.”[^111]
 
 
-### Potential Fixes
+### **POTENTIAL FIXES**
 
 
 ### Measures to make organs more transplantable
@@ -46,7 +46,7 @@ In addition to education for hospital staff, key OPO roles such as the medical d
 
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### **NOTES**
 
 [^109]:
      "I would say less than 5%, a lot of those big factors we're going to catch in the beginning." - OPO Coordinator

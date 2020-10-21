@@ -10,7 +10,7 @@ html {
 a[href$=".pdf"]:after {
   width: 14px;
   height: 18px;
-  margin-right: 0.35rem;
+  margin-left: 0.35rem;
   background: url('/assets/images/icons/pdf.svg');
   background-repeat: no-repeat;
   display:inline-block;
@@ -21,7 +21,7 @@ a[href$=".pdf"]:after {
   display: block;
   font-size: 1rem;
   line-height: 1.625;
-  padding: 1.375rem;
+  padding: 1rem;
   border-bottom: 1px solid #E5E5E5;
 }
 
@@ -94,7 +94,6 @@ a[href$=".pdf"]:after {
 .prose img {
   display: block;
   margin-bottom: 1.25rem;
-  width: 100%;
 }
 
 .prose img small {
@@ -250,6 +249,15 @@ a[href$=".pdf"]:after {
   text-decoration: none;
 }
 
+@media (max-width: 700px) {
+  .prose {
+    padding: 1rem;
+   }
+   table {
+    overflow-x:auto
+   }
+  }
+
 @media print {
   header, nav, footer {
     display: none;
@@ -271,13 +279,11 @@ a[href$=".pdf"]:after {
   }
 
   h1 {
-    page-break-before: always;
     font-size: 1.25rem;
     padding-bottom: 2rem;
 
   }
   h2 {
-    page-break-before: always;
     margin-top: 2rem;
   }
 

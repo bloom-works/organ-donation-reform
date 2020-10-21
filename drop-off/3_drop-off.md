@@ -20,7 +20,7 @@ When a referral does come in from donor hospital staff, it is evaluated and tria
 > 
 > __— OPO CEO__
 
-### Causes
+### **CAUSES**
 
 
 ### Third-party call center deficiencies
@@ -49,7 +49,7 @@ _"Where OPOs ‘determine’ eligibility is a huge gap in the system. Many OPOs 
 
 _“[OPO] Coordinators try to talk their Administrator on Call out of doing a lot of donors because they know if they move forward then they will have to work the case for the next X number of hours.” - OPO CEO_
 
-Similar to how preconceptions disproportionately affected families of color (see [Inequity in Organ Donation](/Inequity)) in regards to the initial referrals, these rule outs have resulted in health care providers (HCP)  “affording black families fewer opportunities than white families to consider the donation decision with HCP or OPO staff. Black families were more likely than white families to have not spoken with an OPO representative.”[^53] As another study noted, “The odds that a family of a White patient was approached for donation were nearly twice those for a family of an African American."[^54]
+Similar to how preconceptions disproportionately affected families of color (see [Inequity in Organ Donation]({{ site.url }}{{ site.baseurl }}/Inequity)) in regards to the initial referrals, these rule outs have resulted in health care providers (HCP)  “affording black families fewer opportunities than white families to consider the donation decision with HCP or OPO staff. Black families were more likely than white families to have not spoken with an OPO representative.”[^53] As another study noted, “The odds that a family of a White patient was approached for donation were nearly twice those for a family of an African American."[^54]
 
 When an organ is perceived to have some irregularities, OPO coordinators might do a "test match run" and decide the case is not worth pursuing because there are not a lot of recipients in the match list, so it may be harder to place the organ. The current technology fails to log these test match runs, which means that there is no record of the many viable referrals that never become donors. 
 
@@ -65,12 +65,12 @@ When inadequate staffing results in OPO coordinators not showing up onsite in a 
 An important note is that understaffing of frontline coordinators does not result from OPO resource constraint, but rather from resource misallocation. For example, audits and investigative journalism[^56] [^57] have found OPOs misspending taxpayer dollars on items such as retreats to 5-star hotels, private planes, and Rose Bowl tickets, as well as overly generous compensation packages for executives.[^58] 
 
 
-### Potential Fixes
+### **POTENTIAL FIXES**
 
 
 ### Improved technology and data on what happens to referrals
 
-Better technology could standardize how referrals are tracked to make that information more transparent for all cases, including when third-party call centers are used. Currently that data lives in OPO systems like iTransplant and are only selectively shared with CMS or OPTN auditors during infrequent audits. As part of an “OPTN tech stack” for the organ transplant technology ecosystem (see [Technology Recommendations](/Technology)), a function could be to track all referrals from end-to-end with indicators for which organs are viable for transplant and whether test match runs were done. This information would be housed in a central data warehouse under the OPTN technical system caretaker[^59] and be available to SRTR[^60] and CMS for auditing. This information should also have validation points for who is reporting the data and how it is being collected for full transparency, and should be publicly available to researchers for analysis. A mandate to automatically track end-to-end data on every referral will help track trends, determine best practices, and prevent inaccurate OPO reporting. 
+Better technology could standardize how referrals are tracked to make that information more transparent for all cases, including when third-party call centers are used. Currently that data lives in OPO systems like iTransplant and are only selectively shared with CMS or OPTN auditors during infrequent audits. As part of an “OPTN tech stack” for the organ transplant technology ecosystem (see [Technology Recommendations]({{ site.url }}{{ site.baseurl }}/Technology)), a function could be to track all referrals from end-to-end with indicators for which organs are viable for transplant and whether test match runs were done. This information would be housed in a central data warehouse under the OPTN technical system caretaker[^59] and be available to SRTR[^60] and CMS for auditing. This information should also have validation points for who is reporting the data and how it is being collected for full transparency, and should be publicly available to researchers for analysis. A mandate to automatically track end-to-end data on every referral will help track trends, determine best practices, and prevent inaccurate OPO reporting. 
 
 
 ### Limit discretionary rule outs
@@ -105,7 +105,7 @@ Additionally, OPOs should staff coordinators remotely outside of the main office
 
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### **NOTES**
 
 [^44]:
      “[OPTN/SRTR 2018 Annual Data Report: Deceased Organ Donation](https://onlinelibrary.wiley.com/doi/full/10.1111/ajt.15678),” _American Journal of Transplantation_, 2020. 

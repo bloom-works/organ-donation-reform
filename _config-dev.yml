@@ -3,9 +3,7 @@ title:            'The Costly Effects of an Outdated Organ Donation System'
 tagline:          ''
 description:      'This is the description'
 production_url:   'https://bloomworks.digital/organdonationreform'
-url:              'https://bloomworks.digital'
-baseurl:          '/organdonationreform'
-asset_url:        'https://organdonationreform.netlify.app'
+url:              'http://localhost:4000'
 
 author:
   name:           'Author'
