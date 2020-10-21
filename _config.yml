@@ -5,6 +5,7 @@ description:      'This is the description'
 production_url:   'https://bloomworks.digital/organdonationreform'
 url:              'https://bloomworks.digital'
 baseurl:          '/organdonationreform'
+asset_url:        'https://organdonationreform.netlify.app'
 
 author:
   name:           'Author'
