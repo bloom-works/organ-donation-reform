@@ -85,7 +85,7 @@ In terms of communication between surgeons, it should always be a practice for O
     “[Lost in transplantation](https://www.revealnews.org/episodes/lost-in-transplantation-2/),” _Reveal from the Center for Investigating Reporting_, 2020.   
 
 [^139]:
-     [Technology Recommendations]({{ site.baseurl }}/Technology)
+     [Technology Recommendations]({{ site.url }}/{{ site.baseurl }}//Technology)
 
 [^140]:
      [Transmedics.com](https://www.transmedics.com/) 
