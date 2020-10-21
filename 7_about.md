@@ -39,15 +39,24 @@ Bloom Works’ research is supported by Arnold Ventures and Schmidt Futures in p
 
 **Contributors to the project include the following:**    
 
-Scott Haselton   
+Scott Haselton
+<br />
 Lauren Lockwood
+<br />
 Brent Maravilla
+<br />
 Adam Moorman
-Lan Nguyen  
+<br />
+Lan Nguyen
+<br /> 
 Ari Perez
+<br />
 Greg Segal
+<br />
 Malini Sekhar
+<br />
 Emily Wright-Moore
+<br />
 Megan Zehnder  
 
 Special thanks to everyone we interviewed who offered their invaluable time and insight into the inner workings of the organ donation system. 
