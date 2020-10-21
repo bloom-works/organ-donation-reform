@@ -37,16 +37,15 @@ Bloom Works began the discovery sprint in July, 2020 and finalized the reports a
 
 Bloom Works’ research is supported by Arnold Ventures and Schmidt Futures in partnership with Organize and the Federation of American Scientists.
 
-**Contributors to the project include the following:**   
-Jennifer Erickson  
+**Contributors to the project include the following:**    
 Scott Haselton   
 Lauren Lockwood   
 Brent Maravilla   
 Adam Moorman  
 Lan Nguyen  
-Ari Perez  
-Malini Sekhar  
-Greg Segal   
+Ari Perez 
+Greg Segal
+Malini Sekhar     
 Emily Wright-Moore  
 Megan Zehnder  
 

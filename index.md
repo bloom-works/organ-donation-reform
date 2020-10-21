@@ -23,6 +23,6 @@ We recommend reading through our [Summary of Findings]({{ site.url }}{{ site.bas
 
 You can also view our more comprehensive reports with specific areas of focus, such as [Inequity in Organ Donation]({{ site.url }}{{ site.baseurl }}/Inequity), [OPO Best Practices]({{ site.url }}{{ site.baseurl }}/OPO-Best-Practices), [Technology Recommendations]({{ site.url }}{{ site.baseurl }}/Technology), and [Acquisition Strategy for OPTN Tech]({{ site.url }}{{ site.baseurl }}/Acquisition-Strategy). 
 
-[The appendix has all of the maps and charts explainig the process]({{ site.url }}{{ site.baseurl }}/appendix). 
+[The appendix has all of the maps and charts explaining the process]({{ site.url }}{{ site.baseurl }}/appendix). 
 
 [This entire report is on github](https://github.com/Bloom-Works/organ-donation-reform). You can read, download source files, and contribute.
