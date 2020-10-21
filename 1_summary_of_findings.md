@@ -45,9 +45,9 @@ After speaking with organ procurement organization (OPO) leaders, transplant cen
 Responsibilities around organ donation and transplantation in the U.S. are diffused across several different government agencies and contractors ([see “Governance and Oversight in the Organ Donation Process,” Figure 1](#figure-1)), leading to an unnecessarily complex — and conflicted — structure. 
 
 **Figure 1**{:#figure-1}
-![Detailed map of governance and oversight in the organ donation process]({{ site.url }}/assets/images/gov-oversight-map.jpg)
+![Detailed map of governance and oversight in the organ donation process]({{ site.assets_url }}/assets/images/gov-oversight-map.jpg)
 
-[Download the "Governance and Oversight in the Organ Donation Process" PDF]({{ site.url }}/assets/PDF/ODR-Governance_Map_Final.pdf)
+[Download the "Governance and Oversight in the Organ Donation Process" PDF]({{ site.assets_url }}/assets/PDF/ODR-Governance_Map_Final.pdf)
 
 ---
 
@@ -60,9 +60,9 @@ Responsibilities around organ donation and transplantation in the U.S. are diffu
 When Congress passed the National Organ Transplant Act (NOTA) of 1984, the government established the Organ Procurement and Transplantation Network (OPTN) and mandated that it be operated by a private contractor. The contract is currently overseen by the Health Resources and Services Administration (HRSA) under Health and Human Services  (HHS). The only contractor who has ever held the contract is the United Network for Organ Sharing (UNOS). ([See Organ Donation Policy, Figure 2.](#figure-2)) 
 
 **Figure 2**{:#figure-2} 
-![Image of organ donation policy hierarchy]({{ site.url }}/assets/images/policy-chart.jpg)
+![Image of organ donation policy hierarchy]({{ site.assets_url }}/assets/images/policy-chart.jpg)
 
-[Download the "Organ Donation Policy Chart" PDF]({{ site.url }}/assets/PDF/ODR-Policy_Chart_Final.pdf)
+[Download the "Organ Donation Policy Chart" PDF]({{ site.assets_url }}/assets/PDF/ODR-Policy_Chart_Final.pdf)
 
 ---
 
@@ -127,9 +127,9 @@ Even though OPOs are technically overseen by the OPTN and CMS, they largely act 
 The current flow of money and costs ([see “Organ Procurement Money Flow,” Figure 3](#figure-3)) between agencies and federal contractors overseeing organ procurement and placement does not incentivize getting patients transplants.
 
 **Figure 3**{:#figure-3}
-![Image of the organ donation process money flow]({{ site.url }}/assets/images/money-map.jpg)
+![Image of the organ donation process money flow]({{ site.assets_url }}/assets/images/money-map.jpg)
 
-[Download the "Organ Procurement Money Flow" PDF]({{ site.url }}/assets/PDF/ODR-Money_Map_Final.pdf)
+[Download the "Organ Procurement Money Flow" PDF]({{ site.assets_url }}/assets/PDF/ODR-Money_Map_Final.pdf)
 
 The federal contractor in charge of overseeing the U.S. organ procurement system, UNOS, earns about $58 million a year, with the bulk of their revenue coming from transplant centers paying to add patients to the organ waitlist. 
 
@@ -155,7 +155,7 @@ While not all patient referrals are clinically able to become donors, a study co
 
 ### **The Most Frequent Causes of Wasted Organs**: 
 
-![Image of a hospital worker carrying an organ in a cooler]({{ site.url }}/assets/images/wasted-organs.jpg)
+![Image of a hospital worker carrying an organ in a cooler]({{ site.assets_url }}/assets/images/wasted-organs.jpg)
 
 
 *   **Not all potential donor referrals are made.** A referral for a potential donor kicks off the whole organ donation process.[^24] Organ procurement organizations (OPOs) could work more effectively with donor hospitals to ensure all viable patients are referred. Some researchers, however, say OPOs avoid this to make their numbers look better. _“Many OPOs have instructed hospitals to NOT call on certain patients thus eliminating organ donors before they even get to the OPO.” - OPO Leader_
@@ -170,9 +170,9 @@ While not all patient referrals are clinically able to become donors, a study co
 
 
 **Figure 4**{:#figure-4}
-![Image detailing how an organ is managed throughout the organ donation process]({{ site.url }}/assets/images/organ-management.jpg)
+![Image detailing how an organ is managed throughout the organ donation process]({{ site.assets_url }}/assets/images/organ-management.jpg)
 
-[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF]({{ site.url }}/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
+[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF]({{ site.assets_url }}/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
 
 ---
 
@@ -231,7 +231,7 @@ Opportunities for improved technology in organ donation:
 *   Improve organ offer technology to ensure all organs find a suitable recipient. This improved technology should ensure no offers go to deceased patients. It could also include assisted clinical decision making[^28] to help transplant centers quickly decide whether to accept.
 Medical professionals save nearly 100 lives every day with organ transplants.[^29] People currently waiting for a heart, lung, kidney, liver, or pancreas face the painful reality that the science exists to save them, and yet it’s an outdated, bureaucratic system that’s getting in the way. Employing a few structural changes could have a massive impact on the number of lives saved.  
 
-![Woman looking off into the distance]({{ site.url }}/assets/images/go-from-here.jpg)
+![Woman looking off into the distance]({{ site.assets_url }}/assets/images/go-from-here.jpg)
 
 ## Methodology
 
@@ -242,7 +242,7 @@ Research was supported by Arnold Ventures and Schmidt Futures in partnership wit
 <!-- TODO - add better links here -->
 **Additional Information**
 
-1. [Download Summary of Findings (PDF)]({{ site.url }}/assets/PDF/ODR_Summary.pdf)
+1. [Download Summary of Findings (PDF)]({{ site.assets_url }}/assets/PDF/ODR_Summary.pdf)
 2. [Inequity in Organ Donation]({{ site.url }}{{ site.baseurl }}/Inequity)
 3. [OPO Best Practices]({{ site.url }}{{ site.baseurl }}/OPO-Best-Practices)
 4. [Technology Recommendations]({{ site.url }}{{ site.baseurl }}/Technology)

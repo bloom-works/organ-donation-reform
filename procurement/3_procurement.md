@@ -60,18 +60,18 @@ For donor hospital and transplant center clinicians, organ procurement organizat
 ### Process map
 
 **Figure 4**{:#figure-4}
-![Image detailing how an organ is managed throughout the organ donation process]({{ site.url }}/assets/images/organ-management.jpg)
+![Image detailing how an organ is managed throughout the organ donation process]({{ site.assets_url }}/assets/images/organ-management.jpg)
 
-[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF]({{ site.url }}/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
+[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF]({{ site.assets_url }}/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
 
 
 ### Current Technology
 
 **Figure 6**{:#figure-6}
-![An overview of technology used by the organ tranplant community]({{ site.url }}/assets/images/tech-current.jpg)
+![An overview of technology used by the organ tranplant community]({{ site.assets_url }}/assets/images/tech-current.jpg)
 
 [Download the "An Overview of Technology Used By
-the Organ Transplant Community" PDF]({{ site.url }}/assets/PDF/ODR-Current_Tech_Final.pdf)
+the Organ Transplant Community" PDF]({{ site.assets_url }}/assets/PDF/ODR-Current_Tech_Final.pdf)
 
 
 ### Statement of Objectives
