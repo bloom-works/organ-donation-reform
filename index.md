@@ -19,10 +19,10 @@ Bloom Works investigated and analyzed the current organ donation system through 
 <img src="{{ site.url }}/assets/images/odr-sum-cov.jpg" width="275" >
 <!-- ![Summary of Findings front cover](assets/images/odr-sum-cov.jpg)
  -->
-We recommend reading through our [Summary of Findings]({{ site.url }}/{{ site.baseurl }}//Summary) (or you can [read the printable summary version here]({{ site.url }}/assets/PDF/ODR_Summary.pdf)).
+We recommend reading through our [Summary of Findings](({{ site.url }}{{ site.baseurl }}/Summary) (or you can [read the printable summary version here]({{ site.url }}/assets/PDF/ODR_Summary.pdf)).
 
-You can also view our more comprehensive reports with specific areas of focus, such as [Inequity in Organ Donation]({{ site.url }}/{{ site.baseurl }}//Inequity), [OPO Best Practices]({{ site.url }}/{{ site.baseurl }}//OPO-Best-Practices), [Technology Recommendations]({{ site.url }}/{{ site.baseurl }}//Technology), and [Acquisition Strategy for OPTN Tech]({{ site.url }}/{{ site.baseurl }}//Acquisition-Strategy). 
+You can also view our more comprehensive reports with specific areas of focus, such as [Inequity in Organ Donation](({{ site.url }}{{ site.baseurl }}/Inequity), [OPO Best Practices](({{ site.url }}{{ site.baseurl }}/OPO-Best-Practices), [Technology Recommendations](({{ site.url }}{{ site.baseurl }}/Technology), and [Acquisition Strategy for OPTN Tech](({{ site.url }}{{ site.baseurl }}/Acquisition-Strategy). 
 
-[The appendix has all of the maps and charts explainig the process]({{ site.url }}/{{ site.baseurl }}//appendix). 
+[The appendix has all of the maps and charts explainig the process](({{ site.url }}{{ site.baseurl }}/appendix). 
 
 [This entire report is on github](https://github.com/Bloom-Works/organ-donation-reform). You can read, download source files, and contribute.

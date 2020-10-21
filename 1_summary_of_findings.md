@@ -212,7 +212,7 @@ Opportunities to modernize and remove conflicts from governance structure:
 
 *   Broaden options for HHS to more freely fulfill organ donation objectives without needing to designate as many functions to a contractor, and maximize competition for work done by the OPTN, so that HHS can access a much larger vendor pool.
 *   Centralize governance and oversight to contractors working on organ donation within one department, and staff it with a digital service team that can adequately manage and run technology services. 
-*   Use modern acquisition strategies for technologies related to the OPTN. (See [Strategy for Buying OPTN Tech]({{ site.url }}/{{ site.baseurl }}//Buying-OPTN-Tech).)
+*   Use modern acquisition strategies for technologies related to the OPTN. (See [Strategy for Buying OPTN Tech](({{ site.url }}{{ site.baseurl }}/Buying-OPTN-Tech).)
 
 Opportunities for CMS to improve accountability in organ recovery and placement: 
 
@@ -243,12 +243,12 @@ Research was supported by Arnold Ventures and Schmidt Futures in partnership wit
 **Additional Information**
 
 1. [Download Summary of Findings (PDF)]({{ site.url }}/assets/PDF/ODR_Summary.pdf)
-2. [Inequity in Organ Donation]({{ site.url }}/{{ site.baseurl }}//Inequity)
-3. [OPO Best Practices]({{ site.url }}/{{ site.baseurl }}//OPO-Best-Practices)
-4. [Technology Recommendations]({{ site.url }}/{{ site.baseurl }}//Technology)
-5. [Strategy for Buying OPTN Tech]({{ site.url }}/{{ site.baseurl }}//Buying-OPTN-Tech/)
-6. [About the Project]({{ site.url }}/{{ site.baseurl }}//about)
-7. [Appendix]({{ site.url }}/{{ site.baseurl }}//Appendix)
+2. [Inequity in Organ Donation](({{ site.url }}{{ site.baseurl }}/Inequity)
+3. [OPO Best Practices](({{ site.url }}{{ site.baseurl }}/OPO-Best-Practices)
+4. [Technology Recommendations](({{ site.url }}{{ site.baseurl }}/Technology)
+5. [Strategy for Buying OPTN Tech](({{ site.url }}{{ site.baseurl }}/Buying-OPTN-Tech/)
+6. [About the Project](({{ site.url }}{{ site.baseurl }}/about)
+7. [Appendix](({{ site.url }}{{ site.baseurl }}/Appendix)
 
 
 

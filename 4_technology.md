@@ -45,7 +45,7 @@ We have recommendations from both a top-down and bottom-up approach to fix the c
 By “top-down” change, we envision federal contracting reform for the OPTN, especially to create more competition and attract a larger, more dynamic, pool of bidders. This process will take time, at least 1–⁠2 years before any new vendor(s) will begin to release technical changes in the system. Under this approach, we recommend the following:
 
 
-*   Restructure contracts to focus on pieces of discrete domain business logic (see [Strategy for Buying OPTN Tech]({{ site.url }}/{{ site.baseurl }}//Buying-OPTN-Tech)).
+*   Restructure contracts to focus on pieces of discrete domain business logic (see [Strategy for Buying OPTN Tech](({{ site.url }}{{ site.baseurl }}/Buying-OPTN-Tech)).
 *   Ensure future OPTN contractors use open-sourced, cloud-based technology from a government approved cloud provider. 
 *   Ensure future OPTN contractors adopt modern digital strategy techniques, including iterative development.
 *   Create or require a central data warehouse under an OPTN caretaker that enables data-driven decision making, with standardized metrics. 
@@ -218,7 +218,7 @@ The largest provider of OPO technology is Transplant Connect. The larger communi
 
 By law, donor hospitals are required to notify OPOs upon imminent death of a potential donor. Donor hospitals’ main tool for reporting is utilizing a phone call in a process called ‘referring’ wherein they contact the OPO, transmitting only limited information in order to allow the OPO to start the process of making a determination as to whether the patient is a viable donor candidate. 
 
-Across the community there is a consensus that this process would greatly benefit from automation between the Donor Hospital EMRs and OPO systems — if not directly into the OPTN tech system (see [OPO Best Practices]({{ site.url }}/{{ site.baseurl }}//OPO-Best-Practices)). **We believe as automation increases and systems begin communicating directly with each other, rather than relying on human interventions, the organ transplant ecosystem will have decreased “technical seams” and security risks.**
+Across the community there is a consensus that this process would greatly benefit from automation between the Donor Hospital EMRs and OPO systems — if not directly into the OPTN tech system (see [OPO Best Practices](({{ site.url }}{{ site.baseurl }}/OPO-Best-Practices)). **We believe as automation increases and systems begin communicating directly with each other, rather than relying on human interventions, the organ transplant ecosystem will have decreased “technical seams” and security risks.**
 
 ---
 
@@ -311,7 +311,7 @@ It is impossible to predict the exact outcome of what will happen over the next 
 
 By “top-down” change, we are predicting a situation in which UNOS no longer holds responsibility for technical innovation and it is passed to a new digital services vendor. It is important to note that this process will take time, at least 1–⁠2 years before a new vendor will begin to release technical change in the system. During that bridge period, UNOS will still be the dominant system and have a choice on how much to innovate. 
 
-In the “bottom-up” approach, we see startup innovators working in the present ecosystem to move the needle forward on systems used to transport organs and assist the OPOs in modernizing. The “bottom-up” approach is highly dependent in the short term on whether UNOS begins to work with new startup technologies. Under the current circumstances, UNOS has little to no incentive to allow new technology companies into the space (see [Governance map, Figure 1](#figure-1) and the [Money Map]({{ site.url }}/{{ site.baseurl }}//Appendix/#Money-Map)); however, these changes can still have immediate and dramatically positive effects across the system as opposed to the “top-down” approach which will take time to achieve. 
+In the “bottom-up” approach, we see startup innovators working in the present ecosystem to move the needle forward on systems used to transport organs and assist the OPOs in modernizing. The “bottom-up” approach is highly dependent in the short term on whether UNOS begins to work with new startup technologies. Under the current circumstances, UNOS has little to no incentive to allow new technology companies into the space (see [Governance map, Figure 1](#figure-1) and the [Money Map](({{ site.url }}{{ site.baseurl }}/Appendix/#Money-Map)); however, these changes can still have immediate and dramatically positive effects across the system as opposed to the “top-down” approach which will take time to achieve. 
 <!-- TODO: check money map link-->
 
 ### Top-Down: Govt Digital Services Model
@@ -323,7 +323,7 @@ In the “bottom-up” approach, we see startup innovators working in the presen
 [Download the "How Organ Technology Could be Improved in the Long Term" PDF]({{ site.url }}/assets/PDF/ODR-Far_Future_Tech_Final.pdf)
 
 
-There is a consistent pattern employed by digital service companies in terms of effectively working with a government agency to build effective software and technology infrastructure. As referenced earlier, the [Digital Services Playbook](https://playbook.cio.gov/) pattern is the clearest published outline for how this process takes place. We emphasize that successfully implementing this playbook is highly dependent on the government selecting the right vendor which is covered in our [Strategy for Buying OPTN Tech]({{ site.url }}/{{ site.baseurl }}//Buying-OPTN-Tech). 
+There is a consistent pattern employed by digital service companies in terms of effectively working with a government agency to build effective software and technology infrastructure. As referenced earlier, the [Digital Services Playbook](https://playbook.cio.gov/) pattern is the clearest published outline for how this process takes place. We emphasize that successfully implementing this playbook is highly dependent on the government selecting the right vendor which is covered in our [Strategy for Buying OPTN Tech](({{ site.url }}{{ site.baseurl }}/Buying-OPTN-Tech). 
 
 Over the next few paragraphs we will analyze how a digital services team would begin working with the OPTN to start the process of iteratively building the key technical infrastructure the organ “technology ecosystem” deserves. 
 
@@ -355,7 +355,7 @@ The team will focus on developing a relationship with the government and existin
 
 
 ### Deliver a Minimum Viable Product (MVP)
-As outlined in the [Draft Acquisition Proposal]({{ site.url }}/{{ site.baseurl }}//Buying-OPTN-Tech#draft-request-for-proposal), the goal is to buy a repeatable process, not technical specifications. At the heart of this process is the goal of improving technology by developing iteratively over time. The team can and should focus on delivering a Minimum Viable Product (MVP). The MVP doesn’t solve the biggest problem or meet everyone’s needs. Instead, it may be a small project that delivers immediate value to the entire community in a matter of weeks, as opposed to the typical timeline of months that it takes UNOS to deliver a feature. 
+As outlined in the [Draft Acquisition Proposal](({{ site.url }}{{ site.baseurl }}/Buying-OPTN-Tech#draft-request-for-proposal), the goal is to buy a repeatable process, not technical specifications. At the heart of this process is the goal of improving technology by developing iteratively over time. The team can and should focus on delivering a Minimum Viable Product (MVP). The MVP doesn’t solve the biggest problem or meet everyone’s needs. Instead, it may be a small project that delivers immediate value to the entire community in a matter of weeks, as opposed to the typical timeline of months that it takes UNOS to deliver a feature. 
 
 What’s interesting about focusing on an MVP is that what’s delivered is typically not the most valuable outcome. While building the MVP, the digital services team will navigate several challenges like meeting all stakeholders and conducting user research, building the hosting infrastructure required to serve software, and working through team processes that enable it to move faster in the future. Therefore, the most important outcome is that the team has started the process of becoming good at delivering something of value quickly into the organ transplant ecosystem.
 
