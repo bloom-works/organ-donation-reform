@@ -24,7 +24,7 @@ Patients deserve accountability. Proposed reforms from HHS, once finalized, coup
 
 ### Todd Park  
 HHS Chief Technology Officer, 2009-2012  
-United States Chief Technology Officer 2012-2014  
+United States Chief Technology Officer, 2012-2014  
 
 ### Bryan Sivak  
 HHS Chief Technology Officer, 2012-2015  
