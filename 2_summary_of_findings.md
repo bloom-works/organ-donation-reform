@@ -204,7 +204,7 @@ Additionally, as mentioned above, in the past 40 years, none of the OPOs in the 
 
 The good news is that many of these problems are solvable. We believe it is within reach to create a system that is less complicated and saves more lives and taxpayer dollars in the short and long term. 
 
-Below are key opportunity areas to increase the effectiveness of the organ transplant system:
+Below are key opportunity areas to increase the effectiveness of the organ transplant system.
 
 Opportunities to modernize and remove conflicts from governance structure:
 
