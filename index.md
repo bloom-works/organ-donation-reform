@@ -1,28 +1,39 @@
 ---
 layout: page
-title: 
+title: Foreword
 home: true
 weight: 0
+---
+
+_The following was written by former Chief Technology Officers of the U.S. Department of Health and Human Services._
+
 
 ---
 
-# Introduction
 
-If the U.S. fixed its broken organ donation system, it could save thousands of lives and $40 billion in taxpayer money over the next decade.
+> As former Chief Technology Officers of the U.S. Department of Health and Human Services (HHS), we have seen first-hand the impact that thoughtful systems reforms can have on patient outcomes.  
 
-Despite scientific advancements, the organ donation system is held back by poor management and performance.
+We have also all worked on organ donation reform, one of the very few issues that is so bipartisan that it has been supported by both the Trump and Obama Administrations. We are strongly motivated by data that show organ donation reform can save thousands of lives every year - as well as billions of dollars to the taxpayer - and help address racial disparities in our healthcare system.  
 
-Bloom Works investigated and analyzed the current organ donation system through interviews, case studies, and existing research. These reports outline what we found, and what recommendations we have for improving the system.
+The results of this discovery sprint make clear that reforms to governance, process, and technology can help thousands more patients receive life-saving organ transplants each year. Patients deserve the very best both from their government and from the government contractors tasked with managing the organ donation system.  
 
-## Where to start? 
+To realize that basic errors in process (e.g., contractors never showing up to donor hospitals) and technology (e.g., organ offers going to deceased patients) are preventing tens of thousands of patients from receiving transplants, highlights exactly where we should focus.  
 
-<img src="{{ site.asset_url }}/assets/images/odr-sum-cov.jpg" width="275" >
-<!-- ![Summary of Findings front cover](assets/images/odr-sum-cov.jpg)
- -->
-We recommend reading through our [Summary of Findings]({{ site.url }}{{ site.baseurl }}/Summary) (or you can [read the printable summary version here]({{ site.asset_url }}/assets/PDF/ODR_Summary.pdf)).
+Patients deserve accountability. Proposed reforms from HHS, once finalized, coupled with Congressional oversight, can transform the system. As a patient care issue, an equity issue, and an issue of the best use of taxpayer dollars, policymakers have every reason to get this right. With this thoughtful set of recommendations, there is a clear path forward that will save lives.
 
-You can also view our more comprehensive reports with specific areas of focus, such as [Inequity in Organ Donation]({{ site.url }}{{ site.baseurl }}/Inequity), [OPO Best Practices]({{ site.url }}{{ site.baseurl }}/OPO-Best-Practices), [Technology Recommendations]({{ site.url }}{{ site.baseurl }}/Technology), and [Acquisition Strategy for OPTN Tech]({{ site.url }}{{ site.baseurl }}/Acquisition-Strategy). 
+### Todd Park  
+HHS Chief Technology Officer, 2009-2012  
+United States Chief Technology Officer, 2012-2014  
 
-[The appendix has all of the maps and charts explaining the process]({{ site.url }}{{ site.baseurl }}/appendix). 
+### Bryan Sivak  
+HHS Chief Technology Officer, 2012-2015  
 
-[This entire report is on github](https://github.com/Bloom-Works/organ-donation-reform). You can read, download source files, and contribute.
+### Susannah Fox  
+HHS Chief Technology Officer, 2015-2017  
+
+### Bruce Greenstein  
+HHS Chief Technology Officer, 2017-2018  
+
+### Ed Simcox  
+HHS Chief Technology Officer, 2018-2020  
+
