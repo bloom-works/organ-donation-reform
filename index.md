@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Foreward
+title: Foreword
 home: true
 weight: 0
 ---
