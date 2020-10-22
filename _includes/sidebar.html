@@ -1,7 +1,7 @@
 <nav class="nav">
   <ul>
-    <li class="{% if page.title == 'Introduction' %}nav-active{% endif %}">
-      <a href="{{ site.url }}{{ site.baseurl }}">Introduction</a>
+    <li class="{% if page.title == 'Foreward' %}nav-active{% endif %}">
+      <a href="{{ site.url }}{{ site.baseurl }}">Foreward</a>
     </li>
     {% assign pages_list = site.pages | where: "layout","page" | where: "nav", true %}
     {% assign i = 1 %}

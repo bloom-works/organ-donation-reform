@@ -1,8 +1,7 @@
 ---
 layout: page
-title: 
+title: Foreward
 home: true
-nav: true
 weight: 0
 ---
 
