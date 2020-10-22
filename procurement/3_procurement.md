@@ -536,7 +536,7 @@ For each proposed fully burdened direct labor rate, the basis for the proposed m
 
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### Notes
 
 [^1]:
 
