@@ -55,6 +55,7 @@
         for (let i = 0; i < links.length; i++) {
           const element = links[i];
           element.target = "_blank";
+          element.title = element.innerHTML + " - link opens in a new window";
         }
       }
 
