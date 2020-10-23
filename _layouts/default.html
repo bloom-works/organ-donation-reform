@@ -49,6 +49,15 @@
 
     <!-- Fades in the button when you scroll down -->
     <script>
+      var links = document.querySelectorAll("a[href$='.pdf']");
+      
+      if (links.length > 0) {
+        for (let i = 0; i < links.length; i++) {
+          const element = links[i];
+          element.target = "_blank";
+        }
+      }
+
       var link = document.getElementById("back-to-top");
       var amountScrolled = 250;
 
