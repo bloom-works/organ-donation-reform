@@ -54,8 +54,8 @@ toc: true
 
 [Download the "How Organ Technology Could Be Improved in the Short Term" PDF]({{ site.asset_url }}/assets/PDF/Near_Future_Tech.pdf)
 
-## A Recommended Organ Donation System Structure With Fewer Conflicts (PDF)
+## An Example Organ Donation System Structure With Fewer Conflicts (PDF)
 **Figure 8**{:#figure-8}
-![a recommended organ donation system structure with fewer conflicts]({{ site.asset_url }}/assets/images/ideal-governance-map.jpg)
+![An example organ donation system structure with fewer conflicts (PDF)]({{ site.asset_url }}/assets/images/ideal-governance-map.jpg)
 
 [Download the "A Recommended Organ Donation System Structure With Fewer Conflicts" PDF]({{ site.asset_url }}/assets/PDF/Ideal_Governance_Map.pdf)
