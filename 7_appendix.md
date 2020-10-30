@@ -58,4 +58,4 @@ toc: true
 **Figure 8**{:#figure-8}
 ![An example organ donation system structure with fewer conflicts (PDF)]({{ site.asset_url }}/assets/images/ideal-governance-map.jpg)
 
-[Download the "A Recommended Organ Donation System Structure With Fewer Conflicts" PDF]({{ site.asset_url }}/assets/PDF/Ideal_Governance_Map.pdf)
+[Download the "An Example Organ Donation System Structure With Fewer Conflicts" PDF]({{ site.asset_url }}/assets/PDF/Ideal_Governance_Map.pdf)
