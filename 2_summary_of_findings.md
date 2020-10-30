@@ -66,8 +66,6 @@ When Congress passed the National Organ Transplant Act (NOTA) of 1984, the gover
 
 [Download the "Organ Donation Policy Chart" PDF]({{ site.asset_url }}/assets/PDF/Policy_Chart.pdf)
 
----
-
 While HRSA is responsible for the regulation and oversight of the OPTN, another HHS agency, Centers for Medicare & Medicaid Services (CMS), is stuck footing the bill. Government contractors who coordinate organ recovery, known as organ procurement organizations (OPOs), are 100% reimbursed for all expenses, and OPOs’ failure to recover enough kidneys contributes to billions each year in taxpayer dialysis costs. CMS and the OPTN are also both responsible for overseeing OPOs, which we discuss more below. 
 
 Rather than working together to solve problems that arise, the existing governance structure enables each arm to pass accountability back and forth, resulting in issues falling through the cracks. As one interviewee explained, HRSA and CMS tend to pin problems on each other, and rely on the OPTN contractor, instead of working together to create a cross-HHS solution.  
