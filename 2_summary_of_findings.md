@@ -8,7 +8,7 @@ toc: true
 
 ---
 
-Around 28,000 organs go untransplanted every year. Despite scientific advancements, the organ donation system is held back  by poor management and performance. **The U.S. government could save tens of thousands of lives and billions of dollars by holding contractors to more rigorous standards and modernizing the technology** within the organ transplant ecosystem.
+Each year, more than 28,000 viable organs are wasted. Despite scientific advancements, the organ donation system is held back  by poor management and performance. **The U.S. government could save tens of thousands of lives and billions of dollars by holding contractors to more rigorous standards and modernizing the technology** within the organ transplant ecosystem.
 
 ______________
 
@@ -57,7 +57,7 @@ Responsibilities around organ donation and transplantation in the U.S. are diffu
 
 ---
 
-When Congress passed the National Organ Transplant Act (NOTA) of 1984, the government established the Organ Procurement and Transplantation Network (OPTN) and mandated that it be operated by a private contractor. The contract is currently overseen by the Health Resources and Services Administration (HRSA) under Health and Human Services  (HHS). The only contractor who has ever held the contract is the United Network for Organ Sharing (UNOS). ([See Organ Donation Policy, Figure 2.](#figure-2)) 
+When Congress passed the National Organ Transplant Act (NOTA) of 1984, the government established the Organ Procurement and Transplantation Network (OPTN) and mandated that it be operated by a private contractor. The contract is currently overseen by the Health Resources and Services Administration (HRSA) under Health and Human Services  (HHS). The only contractor who has ever held the contract is the United Network for Organ Sharing (UNOS). ([See "Organ Donation Policy," Figure 2.](#figure-2)) 
 
 **Figure 2**{:#figure-2} 
 ![Image of organ donation policy hierarchy]({{ site.asset_url }}/assets/images/policy-chart.jpg)
@@ -99,7 +99,7 @@ OPOs play the vital role of procuring organs, finding a matching recipient, and 
 
 ---
 
-A recent CMS proposed rule has shown that a majority of OPOs are failing basic proposed outcome metrics,[^18] resulting in many organs going unrecovered, mishandled, or even lost. (See [The Most Frequent Causes of Wasted Organs](#the-most-frequent-causes-of-wasted-organs))
+A recent CMS proposed rule has shown that a majority of OPOs are failing basic proposed outcome metrics,[^18] resulting in many organs going unrecovered, mishandled, or even lost. (See ["The Most Frequent Causes of Wasted Organs"](#the-most-frequent-causes-of-wasted-organs))
 
 ---
 
@@ -186,7 +186,7 @@ Further, the agency tasked with overseeing OPTN/UNOS has few tech staff to effec
 
 Another issue is the number of disparate software systems within the organ transplant tech community. Various contractors each handle their own system and data. This approach prevents a single overseer, like the OPTN, from collecting centralized data and making smarter, data-driven management decisions. 
 
-Most software used by UNOS is considered closed and proprietary, blocking any chance of innovation or competition from outside actors. **This strongly goes against modern day best tech practices**. (See Tech Recommendations.) And it has caused the organ donation system to miss the mark on moving the technology forward, blocking out a market of innovative technology options to tackle solvable problems. 
+Most software used by UNOS is considered closed and proprietary, blocking any chance of innovation or competition from outside actors. **This strongly goes against modern day best tech practices**. (See ["Tech Recommendations."]({{ site.url }}{{ site.baseurl }}/Technology)) And it has caused the organ donation system to miss the mark on moving the technology forward, blocking out a market of innovative technology options to tackle solvable problems. 
 
 A leading healthcare technology executive described the incumbent’s technology inner workings as “literally duct tape.”
 
@@ -195,7 +195,7 @@ With the current technology as an inhibitor, trying to implement a new policy ca
 
 ### The government’s current approach to contracting blocks progress 
 
-The government (HHS/HRSA) is extremely limited in its ability to select which vendors can be awarded the OPTN contract, due to overly prescriptive specifications within NOTA. Thus the same vendor, UNOS, has been awarded the contract during every recompete for the past 34 years. These constraints limit progress in developing digital products and services with modern best practices to truly support the system. (See Strategy for Buying OPTN Tech.) 
+The government (HHS/HRSA) is extremely limited in its ability to select which vendors can be awarded the OPTN contract, due to overly prescriptive specifications within NOTA. Thus the same vendor, UNOS, has been awarded the contract during every recompete for the past 34 years. These constraints limit progress in developing digital products and services with modern best practices to truly support the system. (See ["Strategy for Buying OPTN Tech."]({{ site.url }}{{ site.baseurl }}/Buying-OPTN-Tech/)) 
 
 Additionally, as mentioned above, in the past 40 years, none of the OPOs in the U.S. have lost their federally-funded positions, despite clear evidence of underperformance.[^27]
 
@@ -226,7 +226,7 @@ Opportunities for improved technology in organ donation:
 
 
 
-*   Ensure future OPTN contractors use open-sourced, cloud-based technology. Open-sourced is essential so the government has flexibility to access and refresh  all parts of the technology stack.
+*   Ensure future OPTN contractors use open-source, cloud-based technology. Open-source is essential so the government has flexibility to access and refresh  all parts of the technology stack.
 *   Create or require a central data warehouse that enables data-driven decision making and more transparent public-facing data, with standardized metrics. 
 *   Improve organ offer technology to ensure all organs find a suitable recipient. This improved technology should ensure no offers go to deceased patients. It could also include assisted clinical decision making[^28] to help transplant centers quickly decide whether to accept.
 Medical professionals save nearly 100 lives every day with organ transplants.[^29] People currently waiting for a heart, lung, kidney, liver, or pancreas face the painful reality that the science exists to save them, and yet it’s an outdated, bureaucratic system that’s getting in the way. Employing a few structural changes could have a massive impact on the number of lives saved.  
