@@ -89,7 +89,7 @@ The U.S. government has the opportunity to save thousands of lives and also bill
 **Figure 1**{:#figure-1}
 ![Detailed map of governance and oversight in the organ donation process]({{ site.asset_url }}/assets/images/gov-oversight-map.jpg)
 
-[Download the "Governance and Oversight in the Organ Donation Process" PDF]({{ site.asset_url }}/assets/PDF/ODR-Governance_Map_Final.pdf)
+[Download the "Governance and Oversight in the Organ Donation Process" PDF]({{ site.asset_url }}/assets/PDF/Governance_Map.pdf)
 
 Before diving further into suggestions for improving the organ transplant ecosystem, we will first consider the most common systems and actors in play. 
 
@@ -198,7 +198,7 @@ All the other systems suffer from similar shortcomings, leaving many users frust
 ![An overview of technology used by the organ tranplant community]({{ site.asset_url }}/assets/images/tech-current.jpg)
 
 [Download the "An Overview of Technology Used By
-the Organ Transplant Community" PDF]({{ site.asset_url }}/assets/PDF/ODR-Current_Tech_Final.pdf)
+the Organ Transplant Community" PDF]({{ site.asset_url }}/assets/PDF/Current_Tech.pdf)
 
 
 
@@ -320,7 +320,7 @@ In the “bottom-up” approach, we see startup innovators working in the presen
 **Figure 6**{:#figure-6}
 ![Detailed map of how organ technology could be improved in the long term]({{ site.asset_url }}/assets/images/tech-future.jpg)
 
-[Download the "How Organ Technology Could be Improved in the Long Term" PDF]({{ site.asset_url }}/assets/PDF/ODR-Far_Future_Tech_Final.pdf)
+[Download the "How Organ Technology Could be Improved in the Long Term" PDF]({{ site.asset_url }}/assets/PDF/Far_Future_Tech.pdf)
 
 
 There is a consistent pattern employed by digital service companies in terms of effectively working with a government agency to build effective software and technology infrastructure. As referenced earlier, the [Digital Services Playbook](https://playbook.cio.gov/) pattern is the clearest published outline for how this process takes place. We emphasize that successfully implementing this playbook is highly dependent on the government selecting the right vendor which is covered in our [Strategy for Buying OPTN Tech]({{ site.url }}{{ site.baseurl }}/Buying-OPTN-Tech). 
@@ -374,7 +374,7 @@ As opposed to achieving a fixed, contractually agreed upon end state, like the g
 **Figure 7**{:#figure-7}
 ![An overview of how organ technology could be improved in the short term]({{ site.asset_url }}/assets/images/tech-shortterm.jpg)
 
-[Download the "How Organ Technology Could Be Improved in the Short Term" PDF]({{ site.asset_url }}/assets/PDF/ODR-Near_Future_Tech_Final.pdf)
+[Download the "How Organ Technology Could Be Improved in the Short Term" PDF]({{ site.asset_url }}/assets/PDF/Near_Future_Tech.pdf)
 
 
 Even if the above-described top-down strategy occurs at an extremely quick pace, it will take some time for changes to directly impact the system. Waiting for the changes to occur is not the only effective strategy for creating change across the system. 
