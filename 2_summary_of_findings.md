@@ -31,7 +31,9 @@ Additionally, **taxpayers could save $40 billion in 10 years if more organs were
 
 ---
 
->Once a patient is over the hurdle of getting on the waitlist, they have only a 50% chance of receiving the organ they need within the next 5 years.
+>“[A]n astounding lack of accountability and oversight in the nation’s creaking, monopolistic organ transplant system is allowing hundreds of thousands of potential organ donations to fall through the cracks.” 
+>
+> __- New York Times Editorial Board__
 
 ---
 
@@ -63,12 +65,6 @@ When Congress passed the National Organ Transplant Act (NOTA) of 1984, the gover
 ![Image of organ donation policy hierarchy]({{ site.asset_url }}/assets/images/policy-chart.jpg)
 
 [Download the "Organ Donation Policy Chart" PDF]({{ site.asset_url }}/assets/PDF/Policy_Chart.pdf)
-
----
-
->“[A]n astounding lack of accountability and oversight in the nation’s creaking, monopolistic organ transplant system is allowing hundreds of thousands of potential organ donations to fall through the cracks.” 
->
-> __- New York Times Editorial Board__
 
 ---
 
