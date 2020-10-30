@@ -47,7 +47,7 @@ Responsibilities around organ donation and transplantation in the U.S. are diffu
 **Figure 1**{:#figure-1}
 ![Detailed map of governance and oversight in the organ donation process]({{ site.asset_url }}/assets/images/gov-oversight-map.jpg)
 
-[Download the "Governance and Oversight in the Organ Donation Process" PDF]({{ site.asset_url }}/assets/PDF/ODR-Governance_Map_Final.pdf)
+[Download the "Governance and Oversight in the Organ Donation Process" PDF]({{ site.asset_url }}/assets/PDF/Governance_Map.pdf)
 
 ---
 
@@ -62,7 +62,7 @@ When Congress passed the National Organ Transplant Act (NOTA) of 1984, the gover
 **Figure 2**{:#figure-2} 
 ![Image of organ donation policy hierarchy]({{ site.asset_url }}/assets/images/policy-chart.jpg)
 
-[Download the "Organ Donation Policy Chart" PDF]({{ site.asset_url }}/assets/PDF/ODR-Policy_Chart_Final.pdf)
+[Download the "Organ Donation Policy Chart" PDF]({{ site.asset_url }}/assets/PDF/Policy_Chart.pdf)
 
 ---
 
@@ -129,7 +129,7 @@ The current flow of money and costs ([see “Organ Procurement Money Flow,” Fi
 **Figure 3**{:#figure-3}
 ![Image of the organ donation process money flow]({{ site.asset_url }}/assets/images/money-map.jpg)
 
-[Download the "Organ Procurement Money Flow" PDF]({{ site.asset_url }}/assets/PDF/ODR-Money_Map_Final.pdf)
+[Download the "Organ Procurement Money Flow" PDF]({{ site.asset_url }}/assets/PDF/Money_Map.pdf)
 
 The federal contractor in charge of overseeing the U.S. organ procurement system, UNOS, earns about $58 million a year, with the bulk of their revenue coming from transplant centers paying to add patients to the organ waitlist. 
 
@@ -172,7 +172,7 @@ While not all patient referrals are clinically able to become donors, a study co
 **Figure 4**{:#figure-4}
 ![Image detailing how an organ is managed throughout the organ donation process]({{ site.asset_url }}/assets/images/organ-management.jpg)
 
-[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF]({{ site.asset_url }}/assets/PDF/ODR-Organ_Procurement_Process_Final.pdf)
+[Download the "How an Organ is Managed (Or Not) in the Current Organ Donation System" PDF]({{ site.asset_url }}/assets/PDF/Organ_Procurement_Process.pdf)
 
 ---
 
@@ -242,7 +242,7 @@ Research was supported by Arnold Ventures and Schmidt Futures in partnership wit
 <!-- TODO - add better links here -->
 **Additional Information**
 
-1. [Download Summary of Findings (PDF)]({{ site.asset_url }}/assets/PDF/ODR_Summary.pdf)
+1. [Download Summary of Findings (PDF)]({{ site.asset_url }}/assets/PDF/Summary.pdf)
 2. [Inequity in Organ Donation]({{ site.url }}{{ site.baseurl }}/Inequity)
 3. [OPO Best Practices]({{ site.url }}{{ site.baseurl }}/OPO-Best-Practices)
 4. [Technology Recommendations]({{ site.url }}{{ site.baseurl }}/Technology)
