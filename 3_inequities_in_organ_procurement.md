@@ -121,7 +121,7 @@ Once the surgeon and his team effectively addressed these issues, all 40 partici
 
 -------
 
->“I always hear that Black Americans don't donate. That’s not true. I was born here as a Black American. We have to keep in mind what Black Americans have gone through the decades. You need experts and people who look like me to talk to these families. There’s a lot of things that might lead to distrust or being offensive.”
+>“I always hear that Black Americans don't donate. That’s not true. I was born here as a Black American. We have to keep in mind what Black Americans have gone through [over] the decades. You need experts and people who look like me to talk to these families. There’s a lot of things that might lead to distrust or being offensive.”
 >
 > __- OPO Leader__
 
