@@ -223,6 +223,7 @@ Opportunities for improved technology in organ donation:
 *   Ensure future OPTN contractors use open-source, cloud-based technology. Open-source is essential so the government has flexibility to access and refresh  all parts of the technology stack.
 *   Create or require a central data warehouse that enables data-driven decision making and more transparent public-facing data, with standardized metrics. 
 *   Improve organ offer technology to ensure all organs find a suitable recipient. This improved technology should ensure no offers go to deceased patients. It could also include assisted clinical decision making[^28] to help transplant centers quickly decide whether to accept.
+
 Medical professionals save nearly 100 lives every day with organ transplants.[^29] People currently waiting for a heart, lung, kidney, liver, or pancreas face the painful reality that the science exists to save them, and yet it’s an outdated, bureaucratic system that’s getting in the way. Employing a few structural changes could have a massive impact on the number of lives saved.  
 
 ![Woman looking off into the distance]({{ site.asset_url }}/assets/images/go-from-here.jpg)
