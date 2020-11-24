@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Appendix
+title: Maps & Charts
 permalink: /Appendix/
 nav: true
 weight: 1
