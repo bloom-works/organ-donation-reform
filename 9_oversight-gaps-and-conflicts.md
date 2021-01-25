@@ -2,7 +2,7 @@
 layout: page
 title: Oversight Gaps & Conflicts
 permalink: /Oversight_Gaps_and_Conflicts/
-nav: true
+nav: false
 weight: 1
 toc: true
 
