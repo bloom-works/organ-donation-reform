@@ -21,7 +21,7 @@ Organ donation reform is more urgent now than ever before, given evidence that C
 
 ---
 
-None of the 58 Organ Procurement Organizations (OPOs) operating in the U.S. have ever been successfully decertified by the federal government, even OPOs with:
+None of the 57 Organ Procurement Organizations (OPOs) operating in the U.S. have ever been successfully decertified by the federal government, even OPOs with:
 *   a 1 in 4 recovery rate of potential donors; 
 *   leaders who went to federal prison for a tissue procurement kickback scheme; 
 *   a failure to report a fungus that nearly killed a recipient; and, separately, a supervisor who allegedly physically assaulted a nurse and doctor; and
@@ -43,21 +43,21 @@ In order to realize the potential impact of the new Final Rule for OPO performan
 
 Each year, as many as 28,000 viable organs fail to reach patients who critically need them.[^1] Because of the failure to recover and transplant those organs – and the continued pace of demand outstripping supply – nearly 33 people die every day because they don’t have access to an organ transplant.[^2] 
 
-Organ procurement organizations (OPOs) are responsible for working with hospitals to recover as many organs from deceased patients as possible and to find a suitable recipient while the organ is still viable. There are 57 such OPOs spread throughout the U.S., and their performance differs dramatically.[^3] 
+Organ procurement organizations (OPOs) are responsible for working with hospitals to recover as many organs from deceased patients as possible and to find a suitable recipient while the organ is still viable. There are 57[^3] such OPOs spread throughout the U.S., and their performance differs dramatically.[^4] 
 
-According to one analysis, some of the lowest performing OPOs – such as the federal contractors in Kentucky and South Carolina – recover organs from only 1 in 4 potential donors.[^4] This underperformance translates directly to patients dying unnecessarily on the organ waiting list, with the burdens of OPO failures falling disproportionately on people of color.[^5]
+According to one analysis, some of the lowest performing OPOs – such as the federal contractors in Kentucky and South Carolina – recover organs from only 1 in 4 potential donors.[^5] This underperformance translates directly to patients dying unnecessarily on the organ waiting list, with the burdens of OPO failures falling disproportionately on people of color.[^6]
 
-However, none of these OPOs has ever been successfully decertified by the federal government. OneLegacy, the country’s largest OPO, was deemed, “one of the worst performing OPOs in the country” by Rep. Katie Porter.[^6] [^7] The Los Angeles-based center recovered organs from only 31% of potential donors, according to an analysis from the University of Pennsylvania on OPO performance from 2012 to 2014.[^8] Despite the OPO’s underperformance, OneLegacy’s CEO Tom Mone is paid more than $904,000 per year[^9] and its Board Chair is paid $100,000 annually with taxpayer money.[^10] The group also misspent more than half a million taxpayer dollars on “unallowable or poorly documented items” – including football tickets, parade expenses, and lobbying costs – according to a government audit.[^11] [^12] [^13] Subsequently, a Los Angeles Times investigation found OneLegacy to have interfered with death investigations through improper tissue harvesting and then to have coordinated with coroners’ offices to cover it up.[^14] [^15] Even more recently, in December 2020, OneLegacy was the subject of a Congressional oversight inquiry from the House Committee on Oversight and Reform seeking information regarding potential conflicts of interest, executive and board compensation, anti-patient lobbying, and the OPO’s use of Paycheck Protection Program loans.[^16]
+However, none of these OPOs has ever been successfully decertified by the federal government. OneLegacy, the country’s largest OPO, was deemed, “one of the worst performing OPOs in the country” by Rep. Katie Porter.[^7] [^8] The Los Angeles-based center recovered organs from only 31% of potential donors, according to an analysis from the University of Pennsylvania on OPO performance from 2012 to 2014.[^9] Despite the OPO’s underperformance, OneLegacy’s CEO Tom Mone is paid more than $904,000 per year[^10] and its Board Chair is paid $100,000 annually with taxpayer money.[^11] The group also misspent more than half a million taxpayer dollars on “unallowable or poorly documented items” – including football tickets, parade expenses, and lobbying costs – according to a government audit.[^12] [^13] [^14] Subsequently, a Los Angeles Times investigation found OneLegacy to have interfered with death investigations through improper tissue harvesting and then to have coordinated with coroners’ offices to cover it up.[^15] [^16] Even more recently, in December 2020, OneLegacy was the subject of a Congressional oversight inquiry from the House Committee on Oversight and Reform seeking information regarding potential conflicts of interest, executive and board compensation, anti-patient lobbying, and the OPO’s use of Paycheck Protection Program loans.[^17]
 
-OneLegacy is far from the only OPO tainted by scandal. In Alabama, OPO leaders were sent to federal prison for participating in an illegal kickback scheme with a local funeral home.[^17] The former director and associate director of Alabama Organ Center (which has since re-branded to “Legacy of Hope”) pocketed nearly $500,000 in the plot involving lucrative tissue harvesting.[^18] 
+OneLegacy is far from the only OPO tainted by scandal. In Alabama, OPO leaders were sent to federal prison for participating in an illegal kickback scheme with a local funeral home.[^18] The former director and associate director of Alabama Organ Center (which has since re-branded to “Legacy of Hope”) pocketed nearly $500,000 in the plot involving lucrative tissue harvesting.[^19] 
 
-In South Florida, a doctor and nurse alleged being physically assaulted by a manager of an OPO for speaking up about personnel shortages and inadequate training.[^19] The two women were let go; one was fired, and the other’s contract was not renewed after 17 years of working there. Meanwhile, the supervisor kept his position of leadership.[^20] Four years later, the same OPO nearly killed a woman for failing to identify a fungus on a uterus before sending it out for transplantation — and did so during a period in which the OPO was already deemed a “member not in good standing” due to a “serious lapse in patient safety or quality of care.”[^21]
+In South Florida, a doctor and nurse alleged being physically assaulted by a manager of an OPO for speaking up about personnel shortages and inadequate training.[^20] The two women were let go; one was fired, and the other’s contract was not renewed after 17 years of working there. Meanwhile, the supervisor kept his position of leadership.[^21] Four years later, the same OPO nearly killed a woman for failing to identify a fungus on a uterus before sending it out for transplantation — and did so during a period in which the OPO was already deemed a “member not in good standing” due to a “serious lapse in patient safety or quality of care.”[^22]
 
-In South Carolina, the OPO We are Sharing Hope SC shipped lungs and a liver with an incorrectly identified blood type – killing the lung recipient and injuring the liver recipient.[^22] The Post and Courier, a South Carolina newspaper, noted that it was only after the news outlet started asking questions about We are Sharing Hope SC that oversight agencies said they would review the case. When investigators finally looked into the South Carolina OPO after the incident garnered news attention, they found problems with We are Sharing Hope SC’s blood-typing policies.[^23] 
+In South Carolina, the OPO We are Sharing Hope SC shipped lungs and a liver with an incorrectly identified blood type – killing the lung recipient and injuring the liver recipient.[^23] The Post and Courier, a South Carolina newspaper, noted that it was only after the news outlet started asking questions about We are Sharing Hope SC that oversight agencies said they would review the case. When investigators finally looked into the South Carolina OPO after the incident garnered news attention, they found problems with We are Sharing Hope SC’s blood-typing policies.[^24] 
 
 Despite systemic issues throughout the organ donation system, there has not been extensive scrutiny of OPOs by oversight agencies. Additionally, there’s a lack of competition to drive performance, since OPOs operate as monopolies in their respective regions. The Organ Procurement and Transplantation Network (OPTN) was created to oversee OPOs and coordinate organ allocation throughout the country. However, only one contractor has ever held this position, the United Network for Organ Sharing (UNOS), and they are also rarely held accountable by federal oversight agencies. Historically, all OPO data shown to public and regulatory bodies – including reports of patient safety issues and failures to recover viable organs – have been self-reported to UNOS, allowing OPOs to mask errors and poor performances. 
 
-A new rule proposed by CMS in 2019 and finalized in November, 2020, offers new objective measures to better assess OPO performance and provides a pathway to decertification for low performing OPOs.[^24] The new rule is a big step forward, and we strongly urge HHS to apply the new measures to the upcoming 2022 certification cycle to enact much-needed change as soon as possible.[^25] The new rule also highlights just how dire the current OPO situation is: 34 out of the 58 OPOs in the country are so sufficiently underperforming that they would either be decertified or their donation service area would be opened up for competition.[^26] [^27] 
+A new rule proposed by CMS in 2019 and finalized in November, 2020, offers new objective measures to better assess OPO performance and provides a pathway to decertification for low performing OPOs.[^25] The new rule is a big step forward, and we strongly urge HHS to apply the new measures to the upcoming 2022 certification cycle to enact much-needed change as soon as possible.[^26] The new rule also highlights just how dire the current OPO situation is: 34 out of the 57 OPOs in the country are so sufficiently underperforming that they would either be decertified or their donation service area would be opened up for competition.[^27] [^28] 
 
 For the many reasons discussed so far, it is essential to identify the oversight gaps that have allowed such egregious OPO misspending, underperformance, and patient safety issues to go unremediated. As one transplant center consultant explained, “I don’t think anything on the OPO side will improve until they feel like they can’t get away with hiding things.” 
 
@@ -69,14 +69,14 @@ Our research revealed oversight gaps or conflicts in the following 6 key areas:
 *   Financial incentives
 *   Technology and security
 
-The purpose of this report is to closely examine the current governance and oversight structure of the organ donation system to identify gaps, conflicts, and impotencies. We also provide recommendations for what can be done to save more lives through organ donation and transplantation. Organ donation reform is more urgent now than ever before, given evidence that COVID-19 increases the risk of organ failure and dialysis centers pose a major transmission risk to vulnerable patients.[^28] [^29]
+The purpose of this report is to closely examine the current governance and oversight structure of the organ donation system to identify gaps, conflicts, and impotencies. We also provide recommendations for what can be done to save more lives through organ donation and transplantation. Organ donation reform is more urgent now than ever before, given evidence that COVID-19 increases the risk of organ failure and dialysis centers pose a major transmission risk to vulnerable patients.[^29] [^30]
 
-While many of the entities and regulations in this report also pertain to transplant centers, we will be focusing primarily on the oversight of OPOs, given their monopoly government contractor status, clear documentation of their severe poor performance in organ recovery, and their financial opacity, as well as the failure of OPTN/UNOS to properly oversee them. Additionally, the oversight system for transplant centers appears to be working more effectively,[^30] while there is clear evidence that the oversight system for OPOs and UNOS is broken and in urgent need of addressing.
+While many of the entities and regulations in this report also pertain to transplant centers, we will be focusing primarily on the oversight of OPOs, given their monopoly government contractor status, clear documentation of their severe poor performance in organ recovery, and their financial opacity, as well as the failure of OPTN/UNOS to properly oversee them. Additionally, the oversight system for transplant centers appears to be working more effectively,[^31] while there is clear evidence that the oversight system for OPOs and UNOS is broken and in urgent need of addressing.
 
 
 ## Current Reliance on Media for Accountability 
 
-Many failures within the organ donation system have either been largely ignored by regulatory bodies, or weren’t given attention until after they garnered press. As one government official told us about the organ donation system, “sometimes the best way to file a complaint is to go to the news media.” This was the path Oregon resident Erika Zak and her family took after a policy change made it more difficult for her to receive the liver she needed.[^31] UNOS, the federal contractor tasked with overseeing OPOs, made the policy change that resulted in a lower “score” for Erika’s placement on the waitlist. The change led to a score that was “determined not by her doctors’ careful evaluations, but by an anonymous panel of five transplant professionals who reviewed a short application,” according to the New York Times.[^32] As Erika’s twin sister, Jenna, told us, “Erika and [her husband] Scott were cautious about speaking to the press, but at the time they felt like they had no other options than to call out UNOS.” Before going to the press, Erika and her family wrote letters, reached out to UNOS directly, reapplied for a new score, and had her doctors argue her case. But UNOS stayed quiet, according to Jenna. The effort of taking their plight to the media “felt like a full time job,” and was a drain on their family who was already going through so much. Jenna told us that, “[s]omeone said UNOS’ strategy was just to sit it out…thinking that we would give up or that Erika would die.” Erika’s story was covered by outlets such as CNN and the Washington Post. The New York Times editorial board even profiled her case, concluding that HHS should “fix the UNOS scoring system” and “revisit the UNOS monopoly” to help address the “astounding lack of accountability and oversight in the nation’s creaking, monopolistic organ transplant system [that] is allowing hundreds of thousands of potential organ donations to fall through the cracks.”[^33] 
+Many failures within the organ donation system have either been largely ignored by regulatory bodies, or weren’t given attention until after they garnered press. As one government official told us about the organ donation system, “sometimes the best way to file a complaint is to go to the news media.” This was the path Oregon resident Erika Zak and her family took after a policy change made it more difficult for her to receive the liver she needed.[^32] UNOS, the federal contractor tasked with overseeing OPOs, made the policy change that resulted in a lower “score” for Erika’s placement on the waitlist. The change led to a score that was “determined not by her doctors’ careful evaluations, but by an anonymous panel of five transplant professionals who reviewed a short application,” according to the New York Times.[^33] As Erika’s twin sister, Jenna, told us, “Erika and [her husband] Scott were cautious about speaking to the press, but at the time they felt like they had no other options than to call out UNOS.” Before going to the press, Erika and her family wrote letters, reached out to UNOS directly, reapplied for a new score, and had her doctors argue her case. But UNOS stayed quiet, according to Jenna. The effort of taking their plight to the media “felt like a full time job,” and was a drain on their family who was already going through so much. Jenna told us that, “[s]omeone said UNOS’ strategy was just to sit it out…thinking that we would give up or that Erika would die.” Erika’s story was covered by outlets such as CNN and the Washington Post. The New York Times editorial board even profiled her case, concluding that HHS should “fix the UNOS scoring system” and “revisit the UNOS monopoly” to help address the “astounding lack of accountability and oversight in the nation’s creaking, monopolistic organ transplant system [that] is allowing hundreds of thousands of potential organ donations to fall through the cracks.”[^34] 
 
 ---
 
@@ -86,16 +86,16 @@ Many failures within the organ donation system have either been largely ignored 
 
 ---
 
-While Erika’s story received national attention, there are thousands of organs that are lost and patients who subsequently die and never make it to the press. Relying on the media to catalyze change in this system is both insufficient and unfair. This approach leads to a reactive system of oversight, addressed by a patchwork of fixes.[^34] And it exacerbates inequity issues within the system. As Erika’s sister told us, “we were in a position where we were privileged to have those [media] connections. Other people don’t have those opportunities, even though they’re struggling with the same situations… it’s completely unfair. That’s not how this should work.”  
+While Erika’s story received national attention, there are thousands of organs that are lost and patients who subsequently die and never make it to the press. Relying on the media to catalyze change in this system is both insufficient and unfair. This approach leads to a reactive system of oversight, addressed by a patchwork of fixes.[^35] And it exacerbates inequity issues within the system. As Erika’s sister told us, “we were in a position where we were privileged to have those [media] connections. Other people don’t have those opportunities, even though they’re struggling with the same situations… it’s completely unfair. That’s not how this should work.”  
 
-While transplant centers have historically faced a wide range of scrutiny from the press,[^35] [^36] OPOs may miss a clear opportunity to recover a life-saving organ, and it’s very possible no one outside the OPO finds out or files a complaint. The scrutiny on transplant centers has led to more public inquiries from oversight agencies,[^37] and a wave of regulatory changes.[^38] However, no such wave has happened with OPOs yet.
+While transplant centers have historically faced a wide range of scrutiny from the press,[^36] [^37] OPOs may miss a clear opportunity to recover a life-saving organ, and it’s very possible no one outside the OPO finds out or files a complaint. The scrutiny on transplant centers has led to more public inquiries from oversight agencies,[^38] and a wave of regulatory changes.[^39] However, no such wave has happened with OPOs yet.
 
-Every organ that is not recovered because of OPO ineffective practices, transportation errors, or understaffing, results in another person dying while on the waitlist. For the purposes of this report, we have termed these “shadow deaths”; they are just as real and consequential as deaths resulting from errors that have brought higher profile media attention, but are less visible as they result from systemic rather than acute problems. This aligns with findings from our earlier research that, in the estimation of one leading researcher, “we don’t have an adequate way of expressing the harm of a non-approached donor. There are significant harms – the donor’s decision to donate may not be honored, the family may not get closure or comfort, patients on the waiting list die, and costs increase to the national health care system. And yet OPOs are able to keep these harms invisible.”[^39] A large oversight gap in the organ transplant system is in accounting for these “shadow deaths,” and the 110,000 people currently on the transplant waiting list deserve immediate action to address them.
+Every organ that is not recovered because of OPO ineffective practices, transportation errors, or understaffing, results in another person dying while on the waitlist. For the purposes of this report, we have termed these “shadow deaths”; they are just as real and consequential as deaths resulting from errors that have brought higher profile media attention, but are less visible as they result from systemic rather than acute problems. This aligns with findings from our earlier research that, in the estimation of one leading researcher, “we don’t have an adequate way of expressing the harm of a non-approached donor. There are significant harms – the donor’s decision to donate may not be honored, the family may not get closure or comfort, patients on the waiting list die, and costs increase to the national health care system. And yet OPOs are able to keep these harms invisible.”[^40] A large oversight gap in the organ transplant system is in accounting for these “shadow deaths,” and the 110,000 people currently on the transplant waiting list deserve immediate action to address them.
 
 
 ## Overview of How the Governance was Designed 
 
-The Department of Health and Human Services (HHS) currently oversees the organ donation system. Within HHS, Centers for Medicare and Medicaid Services (CMS) is responsible for overseeing OPOs. Historically, the Health Resources and Services Administration (HRSA) was responsible for overseeing the OPTN, however as of publication of this report (January 2021), this role is being shifted to the Office of the Assistant Secretary for Health (OASH).[^40] 
+The Department of Health and Human Services (HHS) currently oversees the organ donation system. Within HHS, Centers for Medicare and Medicaid Services (CMS) is responsible for overseeing OPOs. Historically, the Health Resources and Services Administration (HRSA) was responsible for overseeing the OPTN, however as of publication of this report (January 2021), this role is being shifted to the Office of the Assistant Secretary for Health (OASH).[^41] 
 
 ![Detailed map of governance and oversight in the organ donation process]({{ site.asset_url }}/assets/images/gov-oversight-map.jpg)
 
@@ -104,15 +104,15 @@ The Department of Health and Human Services (HHS) currently oversees the organ d
 
 ### CMS Oversight of OPOs 
 
-CMS is responsible for certifying OPOs and establishing the rules OPOs must follow – or the “conditions for coverage” – in order to be compensated for their organ recovery and placement work. CMS, specifically the Center for Clinical Standards and Quality (CCSQ) and the three sub-departments under CCSQ, are responsible for writing the conditions for coverage for OPOs, enforcing the conditions, and recertifying OPOs.[^41] The Center for Medicare (CM) within CMS pays the OPOs for organ recovery through reimbursements. 
+CMS is responsible for certifying OPOs and establishing the rules OPOs must follow – or the “conditions for coverage” – in order to be compensated for their organ recovery and placement work. CMS, specifically the Center for Clinical Standards and Quality (CCSQ) and the three sub-departments under CCSQ, are responsible for writing the conditions for coverage for OPOs, enforcing the conditions, and recertifying OPOs.[^42] The Center for Medicare (CM) within CMS pays the OPOs for organ recovery through reimbursements. 
 
-The 2020 Final Rule, which is projected to increase the recovery of life-saving organs by more than 7,000,[^42] notes that historically OPOs have not been held accountable for consistent low performance.[^43] CMS’ press release announcing the Final Rule stated, “[s]ome stakeholders have argued that many [OPOs] are underperformers and have faced few consequences for their poor performance. Current organ recovery and transplantation measure regulations are outdated and allow OPOs to subjectively report organ recovery rates.”[^44] 
+The 2020 Final Rule, which is projected to increase the recovery of life-saving organs by more than 7,000,[^43] notes that historically OPOs have not been held accountable for consistent low performance.[^44] CMS’ press release announcing the Final Rule stated, “[s]ome stakeholders have argued that many [OPOs] are underperformers and have faced few consequences for their poor performance. Current organ recovery and transplantation measure regulations are outdated and allow OPOs to subjectively report organ recovery rates.”[^45] 
 
-As one transplant surgeon explained, “there's been a tremendous amount of inefficiency and issues associated with the OPO system, [but it] has never crawled to the top of the CMS agenda.” Some within CMS perceive the overall cost of compensating OPOs as small compared to the total dollars spent elsewhere, and so therefore not worth much attention. As one senior government official told us, the historical lack of attention paid to OPOs is because “it’s such a small part of the total dollars that CMS uses and administers every year.” However, the relatively small reimbursement cost to OPOs shadows a much larger cost of OPO inefficiency; CMS currently pays $36 billion a year on dialysis and treatment for people who need a kidney transplant – more than the annual budget for NASA[^45] and the CDC[^46] combined.[^47] Each kidney transplant facilitated represents a lifetime cost savings of more than $350,000 per patient in avoided dialysis costs.[^48] [^49] Research estimates the U.S. could save $40 billion over 10 years by increasing kidney transplant via OPO reform.[^50] 
+As one transplant surgeon explained, “there's been a tremendous amount of inefficiency and issues associated with the OPO system, [but it] has never crawled to the top of the CMS agenda.” Some within CMS perceive the overall cost of compensating OPOs as small compared to the total dollars spent elsewhere, and so therefore not worth much attention. As one senior government official told us, the historical lack of attention paid to OPOs is because “it’s such a small part of the total dollars that CMS uses and administers every year.” However, the relatively small reimbursement cost to OPOs shadows a much larger cost of OPO inefficiency; CMS currently pays $36 billion a year on dialysis and treatment for people who need a kidney transplant – more than the annual budget for NASA[^46] and the CDC[^47] combined.[^48] Each kidney transplant facilitated represents a lifetime cost savings of more than $350,000 per patient in avoided dialysis costs.[^49] [^50] Research estimates the U.S. could save $40 billion over 10 years by increasing kidney transplant via OPO reform.[^51] 
 
 ---
 
->"Research estimates the U.S. could save $40 billion over 10 years by increasing kidney transplant via OPO reform."[^51]
+>"Research estimates the U.S. could save $40 billion over 10 years by increasing kidney transplant via OPO reform."
 >
 
 ---
@@ -143,7 +143,7 @@ In addition to the denial of responsibility for certain aspects of OPO oversight
 
 Part of the reason for this lack of enforcement is the rampant conflict of interests within the OPTN committees that are supposed to be monitoring OPO conduct. Within the OPTN, two key committees are tasked with improving OPO and other members’ performance: the Membership and Professional Standards Committee (MPSC) and the Operations and Safety Committee (OSC). 
 
-The MPSC serves to “maintain membership criteria and monitor OPTN member compliance with OPTN membership criteria, OPTN bylaws and policies, and the OPTN Final Rule.”[^59] And while the MPSC, in its entirety, includes a diverse set of stakeholders across the transplant community, complaints about OPOs are first routed through smaller subsets of the MPSC to which OPO professionals are preferentially assigned. This structure seems to undercut the spirit of the Final Rule, as well as to insulate OPOs from meaningful external oversight over OPOs.[^60]  
+The MPSC serves to “maintain membership criteria and monitor OPTN member compliance with OPTN membership criteria, OPTN bylaws and policies, and the OPTN Final Rule.”[^59] And while the MPSC, in its entirety, includes a diverse set of stakeholders across the transplant community, complaints about OPOs are first routed through smaller subsets of the MPSC to which OPO professionals are preferentially assigned. This structure seems to undercut the spirit of the Final Rule, as well as to insulate OPOs from meaningful external oversight over OPOs.[^60]
 
 One MPSC member we spoke with said, “my observation about participating on the MPSC is that the UNOS staff seem to persuade the committee members into taking specific actions based on how previous committee members have historically treated similar issues. Precedent seems to be the most important consideration,” and that “I will not pretend that the identity of the OPO and how well one knows the people at an OPO doesn't influence how serious an event is perceived.”
 
@@ -585,7 +585,7 @@ Reporting data on each organ should include what decisions were made by whom tha
 
 Every time a heart goes unrecovered because an OPO is understaffed or a kidney gets lost due to inadequate transportation processes, someone dies on the organ waitlist. These deaths rarely generate action from oversight bodies, but they are devastating to families and loved ones. There are 110,000 people currently languishing on the organ transplant waitlist, and they deserve an organ donation system that is optimized and held accountable. 
 
-We’ve seen promising evidence of OPOs turning around when they feel pressure from oversight bodies. For example, in 2019, Senators Chuck Grassley (R-IA) and Todd Young (R-IN) sent an inquiry to the Inspector General about an OPO in Indiana – specifically asking if Indiana Donor Network charged taxpayers for private jet travel unrelated to organ recovery.[^202] [^203] In apparent response to this oversight pressure, the OPO engaged external consultants to improve its organ recovery operations. In the subsequent 12 months, the OPO increased donation rates by 44%; and it increased its ranking from 51st to 18th among the nation’s 58 OPOs,[^204] underscoring vast underperformance at OPOs. Importantly, the increased donation rates seem to have resulted simply from the OPO exerting more effort; over this period of improvement, the OPO approached 57% more families for donation than it had over the previous 12 months. This suggests that, in the absence of oversight, the OPO seems to have flagrantly ignored its mandate to pursue all possible donation opportunities, and it is entirely likely that hundreds of additional lives have been saved over the past year as the direct result of Senators Grassley and Young simply _asking_ oversight questions.[^205] This is an encouraging example of how elected officials can best serve their constituents. However, without more and sustained Congressional oversight and regulatory pressure, shadow deaths will remain high, and even OPOs that have improved amidst heightened scrutiny could backslide into previous practices. For this reason, we implore the U.S. government to take steps to hold OPOs and UNOS more accountable and heed these important recommendations.
+We’ve seen promising evidence of OPOs turning around when they feel pressure from oversight bodies. For example, in 2019, Senators Chuck Grassley (R-IA) and Todd Young (R-IN) sent an inquiry to the Inspector General about an OPO in Indiana – specifically asking if Indiana Donor Network charged taxpayers for private jet travel unrelated to organ recovery.[^202] [^203] In apparent response to this oversight pressure, the OPO engaged external consultants to improve its organ recovery operations. In the subsequent 12 months, the OPO increased donation rates by 44%; and it increased its ranking from 51st to 18th among the nation’s 57 OPOs,[^204] underscoring vast underperformance at OPOs. Importantly, the increased donation rates seem to have resulted simply from the OPO exerting more effort; over this period of improvement, the OPO approached 57% more families for donation than it had over the previous 12 months. This suggests that, in the absence of oversight, the OPO seems to have flagrantly ignored its mandate to pursue all possible donation opportunities, and it is entirely likely that hundreds of additional lives have been saved over the past year as the direct result of Senators Grassley and Young simply _asking_ oversight questions.[^205] This is an encouraging example of how elected officials can best serve their constituents. However, without more and sustained Congressional oversight and regulatory pressure, shadow deaths will remain high, and even OPOs that have improved amidst heightened scrutiny could backslide into previous practices. For this reason, we implore the U.S. government to take steps to hold OPOs and UNOS more accountable and heed these important recommendations.
 
 ---
 
@@ -628,151 +628,151 @@ ______________
      "[Reforming Organ Donation in America: Saving $25,000 Lives per Year and $13 Billion in Taxpayer Funds over Five Years](https://www.bridgespan.org/bridgespan/Images/articles/reforming-organ-donation-in-america/reforming-organdonation-in-america-12-2018.pdf )," _The Bridgespan Group_, 2019.  
 
 [^2]:
-     "[Opinion: Many die waiting for organs. The Trump administration could help.](https://www.washingtonpost.com/opinions/many-die-waiting-for-organs-the-trump-administration-could-help/2020/07/31/77e3a102-dfd6-11e9-b199-f638bf2c340f_story.html)” _Washington Post_, 2020.  
+     “[Opinion · Many die waiting for organs. The Trump administration could help.](https://www.washingtonpost.com/opinions/many-die-waiting-for-organs-the-trump-administration-could-help/2020/07/31/77e3a102-dfd6-11e9-b199-f638bf2c340f_story.html)” _Washington Post_, 2020.  
 
 [^3]:
-     According to data from HHS, OPO performance varies by as much as 470%
+	As of 1/1/2021, LifeChoice Donor Services and New England Donor Bank have merged, changing the total number of OPOs from 58 to 57. [NEDS Successfully Merged OPOs](https://neds.org/neds-successfully-merged-opos/)
 
 [^4]:
-     "[Reforming Organ Donation in America: Saving $25,000 Lives per Year and $13 Billion in Taxpayer Funds over Five Years](https://www.bridgespan.org/bridgespan/Images/articles/reforming-organ-donation-in-america/reforming-organdonation-in-america-12-2018.pdf )," _The Bridgespan Group_, 2019.
+     According to data from HHS, OPO performance varies by as much as 470%
 
 [^5]:
-     “[Inequity in Organ Donation · The Costly Effects of an Outdated Organ Donation System](https://bloomworks.digital/organdonationreform/Inequity/),” _Bloom Works_, 2020.  
-
-[^6]:
-     [Congressional Letter from Katie Porter to HHS](https://porter.house.gov/sites/porter.house.gov/files/porter%20letter%20to%20hhs%20cms%20re%20opos.pdf), 2019.
-
-[^7]:
-     OPO claimed to CMS that they recovered 69% of potential donors in their self-reported data. [Congressional Letter from Katie Porter to HHS](https://porter.house.gov/sites/porter.house.gov/files/porter%20letter%20to%20hhs%20cms%20re%20opos.pdf), 2019. 
-
-[^8]:
      "[Reforming Organ Donation in America: Saving $25,000 Lives per Year and $13 Billion in Taxpayer Funds over Five Years](https://www.bridgespan.org/bridgespan/Images/articles/reforming-organ-donation-in-america/reforming-organdonation-in-america-12-2018.pdf )," _The Bridgespan Group_, 2019.
 
+[^6]:
+     “[Inequity in Organ Donation · The Costly Effects of an Outdated Organ Donation System](https://bloomworks.digital/organdonationreform/Inequity/),” _Bloom Works_, 2020.  
+
+[^7]:
+     [Congressional Letter from Katie Porter to HHS](https://porter.house.gov/sites/porter.house.gov/files/porter%20letter%20to%20hhs%20cms%20re%20opos.pdf), 2019.
+
+[^8]:
+     OPO claimed to CMS that they recovered 69% of potential donors in their self-reported data. [Congressional Letter from Katie Porter to HHS](https://porter.house.gov/sites/porter.house.gov/files/porter%20letter%20to%20hhs%20cms%20re%20opos.pdf), 2019. 
+
 [^9]:
-     “[Heartless: Organ Donation Contractors Lobby Against a Popular Health Care Initiative While Pocketing Pandemic Relief Loans](https://www.pogo.org/investigation/2020/10/heartless-organ-donation-contractors-lobby-against-a-popular-health-care-initiative-while-pocketing-pandemic-relief-loans/),” _Project on Government Oversight_, 2020.  
+     "[Reforming Organ Donation in America: Saving $25,000 Lives per Year and $13 Billion in Taxpayer Funds over Five Years](https://www.bridgespan.org/bridgespan/Images/articles/reforming-organ-donation-in-america/reforming-organdonation-in-america-12-2018.pdf )," _The Bridgespan Group_, 2019.
 
 [^10]:
-     OneLegacy 990, 2017. Retrieved at [CauseIQ](https://www.causeiq.com/organizations/view_990/953138799/1ae469c62e5bd30ce353e98fad67d165); Cited in [Congressional Letter from Katie Porter and Karen Bass to HHS](https://porter.house.gov/uploadedfiles/cms_hhs_opo_oversight_final_7.9.20.pdf), 2020. 
-
-[^11]:
-     “[Review of OneLegacy's Reported Fiscal Year 2006 Organ Acquisition Overhead Costs and Administrative and General Costs](https://oig.hhs.gov/oas/reports/region9/90800033.pdf),” _HHS, Office of Inspector General, _2010._
-
-[^12]:
-     “[Taxpayers help pay for organ donor groups’ parties, Rose Parade expenses](https://archive.triblive.com/local/pittsburgh-allegheny/taxpayers-help-pay-for-organ-donor-groups-parties-rose-parade-expenses/),” _Trib Live_, 2013.  
-
-[^13]:
-     “Following the audit, rather than take steps to boost its clinical performance or strengthen its financial mismanagement and controls, OneLegacy established a foundation in order to use private donations to pay for the majority of the costs related to the Rose Bowl.” From [Congressional Letter from Katie Porter to HHS](https://porter.house.gov/sites/porter.house.gov/files/porter%20letter%20to%20hhs%20cms%20re%20opos.pdf), 2019. 
-
-[^14]:
-     “[In the rush to harvest body parts, death investigations have been upended](https://www.latimes.com/business/story/2019-10-13/body-parts-harvesting-hinders-coroner-autopsies),” _LA Times_, 2019.  
-
-[^15]:
-     “[Executives coached coroners on how to keep body parts harvesting records secret](https://www.latimes.com/business/la-fi-executives-coroners-body-part-harvesting-secret-20190408-story.html),” _LA Times_, 2019.  
-
-[^16]:
      “[Heartless: Organ Donation Contractors Lobby Against a Popular Health Care Initiative While Pocketing Pandemic Relief Loans](https://www.pogo.org/investigation/2020/10/heartless-organ-donation-contractors-lobby-against-a-popular-health-care-initiative-while-pocketing-pandemic-relief-loans/),” _Project on Government Oversight_, 2020.  
 
+[^11]:
+     OneLegacy 990, 2017. Retrieved at [CauseIQ](https://www.causeiq.com/organizations/view_990/953138799/1ae469c62e5bd30ce353e98fad67d165); Cited in [Congressional Letter from Katie Porter and Karen Bass to HHS](https://porter.house.gov/uploadedfiles/cms_hhs_opo_oversight_final_7.9.20.pdf), 2020. 
+
+[^12]:
+     “[Review of OneLegacy's Reported Fiscal Year 2006 Organ Acquisition Overhead Costs and Administrative and General Costs](https://oig.hhs.gov/oas/reports/region9/90800033.pdf),” _HHS, Office of Inspector General,_ 2010.
+
+[^13]:
+     “[Taxpayers help pay for organ donor groups’ parties, Rose Parade expenses](https://archive.triblive.com/local/pittsburgh-allegheny/taxpayers-help-pay-for-organ-donor-groups-parties-rose-parade-expenses/),” _Trib Live_, 2013.  
+
+[^14]:
+     “Following the audit, rather than take steps to boost its clinical performance or strengthen its financial mismanagement and controls, OneLegacy established a foundation in order to use private donations to pay for the majority of the costs related to the Rose Bowl.” From [Congressional Letter from Katie Porter to HHS](https://porter.house.gov/sites/porter.house.gov/files/porter%20letter%20to%20hhs%20cms%20re%20opos.pdf), 2019. 
+
+[^15]:
+     “[In the rush to harvest body parts, death investigations have been upended](https://www.latimes.com/business/story/2019-10-13/body-parts-harvesting-hinders-coroner-autopsies),” _LA Times_, 2019.  
+
+[^16]:
+     “[Executives coached coroners on how to keep body parts harvesting records secret](https://www.latimes.com/business/la-fi-executives-coroners-body-part-harvesting-secret-20190408-story.html),” _LA Times_, 2019.  
+
 [^17]:
-     “[Alabama Organ Center kickbacks detailed](https://www.al.com/spotnews/2012/05/alabama_organ_center_kickbacks.html),” _AL.com_, 2012. 
+     “[Heartless: Organ Donation Contractors Lobby Against a Popular Health Care Initiative While Pocketing Pandemic Relief Loans](https://www.pogo.org/investigation/2020/10/heartless-organ-donation-contractors-lobby-against-a-popular-health-care-initiative-while-pocketing-pandemic-relief-loans/),” _Project on Government Oversight_, 2020.  
 
 [^18]:
-     [Former Alabama Organ Center Associate Director Sentenced for Fraud](https://archives.fbi.gov/archives/birmingham/press-releases/2012/former-alabama-organ-center-associate-director-sentenced-for-fraud), _Federal Bureau of Investigations,_ 2012. 
+     “[Alabama Organ Center kickbacks detailed](https://www.al.com/spotnews/2012/05/alabama_organ_center_kickbacks.html),” _AL.com_, 2012. 
 
 [^19]:
-     “[Doctor, nurse: UM administrator assaulted us](https://www.miamiherald.com/news/local/community/miami-dade/article8081760.html),” _Miami Herald_, 2015. 
+     [Former Alabama Organ Center Associate Director Sentenced for Fraud](https://archives.fbi.gov/archives/birmingham/press-releases/2012/former-alabama-organ-center-associate-director-sentenced-for-fraud), _Federal Bureau of Investigations,_ 2012. 
 
 [^20]:
-     “[Doctor, nurse: UM administrator assaulted us](https://www.miamiherald.com/news/local/community/miami-dade/article8081760.html),” _Miami Herald_, 2015.
+     “[Doctor, nurse: UM administrator assaulted us](https://www.miamiherald.com/news/local/community/miami-dade/article8081760.html),” _Miami Herald_, 2015. 
 
 [^21]:
-     “[Why did the first US uterine transplant fail?](https://www.washingtonpost.com/national/health-science/behind-the-failure-of-the-first-us-uterine-transplant/2019/02/13/6345f018-07c0-11e9-85b6-41c0fe0c5b8f_story.html)” _Washington Post_, 2019.
+     “[Doctor, nurse: UM administrator assaulted us](https://www.miamiherald.com/news/local/community/miami-dade/article8081760.html),” _Miami Herald_, 2015.
 
 [^22]:
-     “[He died when he got the wrong lungs. It wasn't the only organ error in SC that day.](https://www.postandcourier.com/health/he-died-when-he-got-the-wrong-lungs-it-wasnt-the-only-organ-error-in/article_c6a6e386-e704-11ea-91ce-2783df6c6f2d.html)” _Post and Courier_, 2020. 
+     “[Why did the first US uterine transplant fail?](https://www.washingtonpost.com/national/health-science/behind-the-failure-of-the-first-us-uterine-transplant/2019/02/13/6345f018-07c0-11e9-85b6-41c0fe0c5b8f_story.html)” _Washington Post_, 2019.
 
 [^23]:
-     [He died when he got the wrong lungs. It wasn't the only organ error in SC that day.](https://www.postandcourier.com/health/he-died-when-he-got-the-wrong-lungs-it-wasnt-the-only-organ-error-in/article_c6a6e386-e704-11ea-91ce-2783df6c6f2d.html)” _Post and Courier_, 2020.
+     “[He died when he got the wrong lungs. It wasn't the only organ error in SC that day.](https://www.postandcourier.com/health/he-died-when-he-got-the-wrong-lungs-it-wasnt-the-only-organ-error-in/article_c6a6e386-e704-11ea-91ce-2783df6c6f2d.html)” _Post and Courier_, 2020. 
 
 [^24]:
-     “[Organ Procurement Organization (OPO) Conditions for Coverage Final Rule: Revisions to Outcome Measures for OPOs](https://www.cms.gov/newsroom/fact-sheets/organ-procurement-organization-opo-conditions-coverage-final-rule-revisions-outcome-measures-opos),” _CMS_, 2020.  
+     [He died when he got the wrong lungs. It wasn't the only organ error in SC that day.](https://www.postandcourier.com/health/he-died-when-he-got-the-wrong-lungs-it-wasnt-the-only-organ-error-in/article_c6a6e386-e704-11ea-91ce-2783df6c6f2d.html)” _Post and Courier_, 2020.
 
 [^25]:
-     The November 2020 Final Rule stated that failing OPOs would not be decertified until 2026, but many advocates and elected officials have called on HHS to accelerate this timeline. As U.S. Representatives Katie Porter and Karen Bass noted in their letter to HHS, “We cannot consign 20,000 or more patients to die waiting for organ transplants while federal contractors are not held accountable, and therefore urge you to use the new standards in the next recertification cycle.” From “[Congressional Letter from Katie Porter and Karen Bass to HHS](https://porter.house.gov/uploadedfiles/cms_hhs_opo_oversight_final_7.9.20.pdf),” _Congress of the United States_, 2020. In December 2020 the [White House Office of Information and Regulatory Affairs](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202010&RIN=0938-AU54) published its 2021 rulemaking agenda, including “Amendments to Rules Governing Organ Procurement Organizations,” which would provide the opportunity to address the decertification timeline.
+     “[Organ Procurement Organization (OPO) Conditions for Coverage Final Rule: Revisions to Outcome Measures for OPOs](https://www.cms.gov/newsroom/fact-sheets/organ-procurement-organization-opo-conditions-coverage-final-rule-revisions-outcome-measures-opos),” _CMS_, 2020.  
 
 [^26]:
-     Based on 2018 data, 12 OPOs are classed as “Tier 2,” which opens them to competition from other OPOs, and 22 OPOs are classed as “Tier 3,” which opens them to decertification. From “[OPO Final Rule](https://www.cms.gov/files/document/112020-opo-final-rule-cms-3380-f.pdf),” _CMS_, 2020. 
+     The November 2020 Final Rule stated that failing OPOs would not be decertified until 2026, but many advocates and elected officials have called on HHS to accelerate this timeline. As U.S. Representatives Katie Porter and Karen Bass noted in their letter to HHS, “We cannot consign 20,000 or more patients to die waiting for organ transplants while federal contractors are not held accountable, and therefore urge you to use the new standards in the next recertification cycle.” From “[Congressional Letter from Katie Porter and Karen Bass to HHS](https://porter.house.gov/uploadedfiles/cms_hhs_opo_oversight_final_7.9.20.pdf),” _Congress of the United States_, 2020. In December 2020 the [White House Office of Information and Regulatory Affairs](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202010&RIN=0938-AU54) published its 2021 rulemaking agenda, including “Amendments to Rules Governing Organ Procurement Organizations,” which would provide the opportunity to address the decertification timeline.
 
 [^27]:
-     [“Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for Coverage: Revisions to the Outcome Measure Requirements for Organ Procurement Organization,](https://www.federalregister.gov/documents/2019/12/23/2019-27418/medicare-and-medicaid-programs-organ-procurement-organizations-conditions-for-coverage-revisions-to)” _CMS NPRM_, 2019. 
+     Based on 2018 data, 12 OPOs are classed as “Tier 2,” which opens them to competition from other OPOs, and 22 OPOs are classed as “Tier 3,” which opens them to decertification. From “[OPO Final Rule](https://www.cms.gov/files/document/112020-opo-final-rule-cms-3380-f.pdf),” _CMS_, 2020. 
 
 [^28]:
-     “[Coronavirus destroys lungs. But doctors are finding its damage in kidneys, hearts, and elsewhere.](https://www.washingtonpost.com/health/coronavirus-destroys-lungs-but-doctors-are-finding-its-damage-in-kidneys-hearts-and-elsewhere/2020/04/14/7ff71ee0-7db1-11ea-a3ee-13e1ae0a3571_story.html)” _Washington Post_, 2020. 
+     [“Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for Coverage: Revisions to the Outcome Measure Requirements for Organ Procurement Organization,](https://www.federalregister.gov/documents/2019/12/23/2019-27418/medicare-and-medicaid-programs-organ-procurement-organizations-conditions-for-coverage-revisions-to)” _CMS NPRM_, 2019. 
 
 [^29]:
-     “[Dialysis patients are at high risk during COVID-19 outbreak](https://www.washingtonpost.com/health/dialysis-patients-are-at-high-risk-during-covid-19-outbreak/2020/03/24/6e69f908-6aa7-11ea-b313-df458622c2cc_story.html),” _Washington Post_, 2020.
+     “[Coronavirus destroys lungs. But doctors are finding its damage in kidneys, hearts, and elsewhere.](https://www.washingtonpost.com/health/coronavirus-destroys-lungs-but-doctors-are-finding-its-damage-in-kidneys-hearts-and-elsewhere/2020/04/14/7ff71ee0-7db1-11ea-a3ee-13e1ae0a3571_story.html)” _Washington Post_, 2020. 
 
 [^30]:
-     Note: In September 2019 CMS issued a Final Rule to remove outcome measures for transplant centers, which we will continue to monitor, including whether and how this impacts transplant center oversight.
+     “[Dialysis patients are at high risk during COVID-19 outbreak](https://www.washingtonpost.com/health/dialysis-patients-are-at-high-risk-during-covid-19-outbreak/2020/03/24/6e69f908-6aa7-11ea-b313-df458622c2cc_story.html),” _Washington Post_, 2020.
 
 [^31]:
-     In 2019, UNOS made changes to the way a patient’s MELD score is calculated. [“MELD exception scores during NLRB transition,”](https://optn.transplant.hrsa.gov/governance/public-comment/meld-exception-scores-during-nlrb-transition/) OPTN.  
+     Note: In September 2019 CMS issued a Final Rule to remove outcome measures for transplant centers, which we will continue to monitor, including whether and how this impacts transplant center oversight.
 
 [^32]:
-     “[She beat cancer. Now she’s in another fight for her life](https://www.nytimes.com/2019/08/20/opinion/erika-zak-organ-donor.html),” _New York Times_, 2019. 
+     In 2019, UNOS made changes to the way a patient’s MELD score is calculated. [“MELD exception scores during NLRB transition,”](https://optn.transplant.hrsa.gov/governance/public-comment/meld-exception-scores-during-nlrb-transition/) OPTN.  
 
 [^33]:
-     “[She Beat Cancer. Now She’s in Another Fight for her Life](https://www.nytimes.com/2019/08/20/opinion/erika-zak-organ-donor.html),” _NY Times_, 2019.  
+     “[She beat cancer. Now she’s in another fight for her life](https://www.nytimes.com/2019/08/20/opinion/erika-zak-organ-donor.html),” _New York Times_, 2019. 
 
 [^34]:
-     For example, in 2003, there was a very highly publicized case at Duke that ended with a young girl, Jesica Santillan, dying from a blood typing error after a transplant. If the OPTN instituted an automated organ offer process when the technology first became available, this error could have been prevented.  It wasn't until the event occurred in 2003 and HRSA wrote the automated organ offer system into the 2005 contract that DonorNet -- the automated matching system -- finally came into existence. Similarly, it was only after a case became publicized of rabies getting transmitted through a transplant that HRSA started requiring the OPTN/UNOS to collect data around disease transmission cases. Data collection of specimen and organ labeling errors led to the OPTN creating TransNet, which is UNOS' software for organ packaging and labeling. As one OPO leader told us, "The community functioned for years completely unaware there was a problem waiting to happen."
+     “[She Beat Cancer. Now She’s in Another Fight for her Life](https://www.nytimes.com/2019/08/20/opinion/erika-zak-organ-donor.html),” _NY Times_, 2019.  
 
 [^35]:
-     “[20% of U.S. Transplant Centers Are Found to Be Substandard](https://www.latimes.com/news/la-me-transplant29jun29-story.html),” _LA Times_, 2006. 
+     For example, in 2003, there was a very highly publicized case at Duke that ended with a young girl, Jesica Santillan, dying from a blood typing error after a transplant. If the OPTN instituted an automated organ offer process when the technology first became available, this error could have been prevented.  It wasn't until the event occurred in 2003 and HRSA wrote the automated organ offer system into the 2005 contract that DonorNet -- the automated matching system -- finally came into existence. Similarly, it was only after a case became publicized of rabies getting transmitted through a transplant that HRSA started requiring the OPTN/UNOS to collect data around disease transmission cases. Data collection of specimen and organ labeling errors led to the OPTN creating TransNet, which is UNOS' software for organ packaging and labeling. As one OPO leader told us, "The community functioned for years completely unaware there was a problem waiting to happen."
 
 [^36]:
-     “[US transplant overseer sets guidelines](https://www.latimes.com/archives/la-xpm-2007-mar-24-na-transplant24-story.html),” _LA Times_, 2007.  
+     “[20% of U.S. Transplant Centers Are Found to Be Substandard](https://www.latimes.com/news/la-me-transplant29jun29-story.html),” _LA Times_, 2006. 
 
 [^37]:
-     “[Hospital Is Rebuked in Organ Case](https://www.latimes.com/archives/la-xpm-2006-mar-03-me-stvincent3-story.html),” _LA Times_, 2006. 
+     “[US transplant overseer sets guidelines](https://www.latimes.com/archives/la-xpm-2007-mar-24-na-transplant24-story.html),” _LA Times_, 2007.  
 
 [^38]:
-     “[Transplant Center Regulations—A Mixed Blessing? An ASTS Council Viewpoint](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-6143.2008.02434.x),” _American Journal of Transplantation_, 2008. 
+     “[Hospital Is Rebuked in Organ Case](https://www.latimes.com/archives/la-xpm-2006-mar-03-me-stvincent3-story.html),” _LA Times_, 2006. 
 
 [^39]:
-     “[OPO Best Practices · The Costly Effects of an Outdated Organ Donation System](https://bloomworks.digital/organdonationreform/OPO-Best-Practices/),” _Bloom Works_, 2020.  
+     “[Transplant Center Regulations—A Mixed Blessing? An ASTS Council Viewpoint](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-6143.2008.02434.x),” _American Journal of Transplantation_, 2008. 
 
 [^40]:
-     A Congressional notification released stated, “HHS also moves the Division of Transplantation from the Healthcare Systems Bureau in HRSA to OASH, and abolishes the Healthcare Systems Bureau. The reorganization is effective today, Friday, January 15, 2021. We anticipate that most activities will transition within 4 to 6 weeks, but others, including the transfer of the Division of Transplantation from HRSA to OASH will take longer to transition.” [Statement of Organization, Functions, and Delegations of Authority ](https://public-inspection.federalregister.gov/2021-01227.pdf)
+     “[OPO Best Practices · The Costly Effects of an Outdated Organ Donation System](https://bloomworks.digital/organdonationreform/OPO-Best-Practices/),” _Bloom Works_, 2020.  
 
 [^41]:
-     See full governance map from [Governance and Oversight in the Organ Donation Process](https://organdonationreform.netlify.app/assets/PDF/Governance_Map.pdf),” _Bloom Works_, 2020.   
+     A Congressional notification released stated, “HHS also moves the Division of Transplantation from the Healthcare Systems Bureau in HRSA to OASH, and abolishes the Healthcare Systems Bureau. The reorganization is effective today, Friday, January 15, 2021. We anticipate that most activities will transition within 4 to 6 weeks, but others, including the transfer of the Division of Transplantation from HRSA to OASH will take longer to transition.” [Statement of Organization, Functions, and Delegations of Authority ](https://public-inspection.federalregister.gov/2021-01227.pdf)
 
 [^42]:
-     [Revisions to the Outcome Measure Requirements for Organ Procurement Organizations; Final Rule](https://www.cms.gov/files/document/112020-opo-final-rule-cms-3380-f.pdf ), _CMS_, 2020. Table 5, pg 136. 
+     See full governance map from [Governance and Oversight in the Organ Donation Process](https://organdonationreform.netlify.app/assets/PDF/Governance_Map.pdf),” _Bloom Works_, 2020.   
 
 [^43]:
-     “It is clear that our historical approach to measuring OPO performance has resulted in a wide range of performances. This variability is unacceptable to patients and CMS. Thus, CMS intends to hold these entities to revised and higher standards. These revised metrics are necessary in light that over the past 14 years, the sharing of best practices, if it has occurred, has not resulted in consistent improvements throughout the industry.” [Revisions to the Outcome Measure Requirements for Organ Procurement Organizations; Final Rule](https://www.cms.gov/files/document/112020-opo-final-rule-cms-3380-f.pdf ), _CMS_, 2020. 
+     [Revisions to the Outcome Measure Requirements for Organ Procurement Organizations; Final Rule](https://www.cms.gov/files/document/112020-opo-final-rule-cms-3380-f.pdf ), _CMS_, 2020. Table 5, pg 136. 
 
 [^44]:
-     “[CMS Finalizes Policy that will Increase the Number of Available Lifesaving Organs by Holding Organ Procurement Organizations Accountable through Transparency and Competition](https://www.cms.gov/newsroom/press-releases/cms-finalizes-policy-will-increase-number-available-lifesavings-organs-holding-organ-procurement)” _CMS_, 2020.  
+     “It is clear that our historical approach to measuring OPO performance has resulted in a wide range of performances. This variability is unacceptable to patients and CMS. Thus, CMS intends to hold these entities to revised and higher standards. These revised metrics are necessary in light that over the past 14 years, the sharing of best practices, if it has occurred, has not resulted in consistent improvements throughout the industry.” [Revisions to the Outcome Measure Requirements for Organ Procurement Organizations; Final Rule](https://www.cms.gov/files/document/112020-opo-final-rule-cms-3380-f.pdf ), _CMS_, 2020. 
 
 [^45]:
-     NASA’s FY 2020 Budget is $22.629 billion 
+     “[CMS Finalizes Policy that will Increase the Number of Available Lifesaving Organs by Holding Organ Procurement Organizations Accountable through Transparency and Competition](https://www.cms.gov/newsroom/press-releases/cms-finalizes-policy-will-increase-number-available-lifesavings-organs-holding-organ-procurement)” _CMS_, 2020.  
 
 [^46]:
-     [CDC’s FY 2020 Budget Request is $6.594 billion](https://www.cdc.gov/budget/documents/fy2020/cdc-overview-factsheet.pdf)
+     NASA’s FY 2020 Budget is $22.629 billion 
 
 [^47]:
-     “[Organ Donation Reform Money Flow Map](https://organdonationreform.netlify.app/assets/PDF/Money_Map.pdf),” _Bloom Works_, 2020.  
+     [CDC’s FY 2020 Budget Request is $6.594 billion](https://www.cdc.gov/budget/documents/fy2020/cdc-overview-factsheet.pdf)
 
 [^48]:
-     “Reforming Organ Donation in America,” _Bridgespan_, 2019. Updated projections, _Bridgespan_, 2020.
+     “[Organ Donation Reform Money Flow Map](https://organdonationreform.netlify.app/assets/PDF/Money_Map.pdf),” _Bloom Works_, 2020.  
 
 [^49]:
-     “[A Cost-Benefit Analysis of Government Compensation of Kidney Donors](https://pubmed.ncbi.nlm.nih.gov/26474298/),” _Am J Transplant_, 2019.  
+     “Reforming Organ Donation in America,” _Bridgespan_, 2019. Updated projections, _Bridgespan_, 2020.
 
 [^50]:
-      “Reforming Organ Donation in America,” _Bridgespan_, 2019. Updated projections, _Bridgespan_, 2020. 
+     “[A Cost-Benefit Analysis of Government Compensation of Kidney Donors](https://pubmed.ncbi.nlm.nih.gov/26474298/),” _Am J Transplant_, 2019.  
 
 [^51]:
       “Reforming Organ Donation in America,” _Bridgespan_, 2019. Updated projections, _Bridgespan_, 2020. 
@@ -811,7 +811,7 @@ ______________
      “[Transforming Organ Donation in America](https://www.bridgespan.org/bridgespan/Images/articles/transforming-organ-donation-in-america/transforming-organ-donation-in-america-november2020.pdf),” Table A, page 46. _Bridgespan_, 2020. 
 
 [^63]:
-     Indeed, while the data HHS released in the Final Rule shows more than half of all OPOs to be underperforming, all 58 OPOs are in compliance per the OPTN, calling into question the rigor of these OPTN standards.
+     Indeed, while the data HHS released in the Final Rule shows more than half of all OPOs to be underperforming, all 57 OPOs are in compliance per the OPTN, calling into question the rigor of these OPTN standards.
 
 [^64]:
      [See Appendix B]({{ site.asset_url }}/assets/PDF/appendix_b-sfc_letter_and_unos_response.pdf), response to question 3a. 
@@ -823,7 +823,7 @@ ______________
      [See Appendix A]({{ site.asset_url }}/assets/PDF/appendix_a-opo_oversight_cases.pdf)
 
 [^67]:
-     [December 18, 2019 VIA ELECTRONIC TRANSMISSION Ms. Joanne M. Chiedi Acting Inspector General Office of Inspector Genera](https://www.finance.senate.gov/imo/media/doc/CEG.Young%20to%20HHSOIG%20(OPO%20Oversight)%20Dec.18.2019.pdf)l
+     [December 18, 2019 VIA ELECTRONIC TRANSMISSION Ms. Joanne M. Chiedi Acting Inspector General Office of Inspector Genera](https://www.finance.senate.gov/imo/media/doc/CEG.Young%20to%20HHSOIG%20(OPO%20Oversight)%20Dec.18.2019.pdf)
 
 [^68]:
      NOTA’s structure allows UNOS to operate as a monopoly. In fact, more than twenty years ago, Forbes referred to UNOS as a “cartel” and “the federal monopoly that's chilling the supply of transplantable organs and letting Americans who need them die needlessly.” From [“The Organ King,”](https://www.forbes.com/forbes/1999/1101/6411164a.html?sh=445f1f80659f) Forbes, 1999. As one transplant surgeon noted: “The OPTN contractor has devolved into a hostage-taking situation, where it has convinced the government that no one else can do what it does, but it doesn’t perform its functions particularly well.”
@@ -986,7 +986,6 @@ ______________
 
 [^120]:
      Language in the OPTN Final Rule, which supersedes OPTN Bylaws, shows that peer-review protections are not nearly as broad as UNOS makes them out to be. Section 121.11, note that the HHS Secretary has the ability to view any documentation necessary, “All OPOs... shall maintain such records pertaining to... transplantation-related matters as the Secretary deems necessary to carry out her/his responsibilities under the Act.” [OPTN Final Rule Language](https://www.ecfr.gov/cgi-bin/text-idx?SID=bb60e0a7222f4086a88c31211cac77d1&mc=true&node=pt42.1.121&rgn=div5#se42.1.121_111) 
-
 [^121]:
      "The medical peer review privilege will not be extended to withhold any document from the Secretary of HHS, or the Secretary’s designee." Pg 198, [OPTN Bylaws effective Aug 17 2020 WORD [Updating Appendix D-7-B]](https://optn.transplant.hrsa.gov/media/1201/optn_bylaws.pdf) 
 
@@ -1058,7 +1057,7 @@ ______________
      “[Tissue donation turns into nightmare for three sisters](https://www.reviewjournal.com/local/local-las-vegas/tissue-donation-turns-into-nightmare-for-three-sisters/),” _Review Journal_, 2016.  
 
 [^142]:
-     [Organ procurement improvements: Getting to yes](https://unos.org/news/getting-to-yes/), _UNOS_.  
+     [Organ procurement improvements • Getting to yes](https://unos.org/news/getting-to-yes/), _UNOS_.  
 
 [^143]:
      [Donatelife.net](https://www.donatelife.net/statistics/#:~:text=110%2C000%20men%2C%20women%20and%20children,the%20national%20transplant%20waiting%20list.), Waiting list statistic.  
