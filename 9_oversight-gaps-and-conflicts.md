@@ -595,13 +595,13 @@ We’ve seen promising evidence of OPOs turning around when they feel pressure f
 
 ### A. Documented Cases of OPO Misconduct
 
-![Thumbnail of Appendix A — Documented Cases of OPO Misconduct]({{ site.asset_url }}/assets/images/app-a.jpg)
+![Thumbnail of Appendix A — Documented Cases of OPO Misconduct]({{ site.asset_url }}/assets/images/app-a.png)
 [View the Documented Cases of OPO Misconduct PDF]({{ site.asset_url }}/assets/PDF/appendix_a-opo_oversight_cases.pdf)
 
 
 ### B. UNOS Response to Senate Finance Committee Inquiry Letter
 
-![Thumbnail of Appendix B — UNOS Response to Senate Finance Committee Inquiry Letter]({{ site.asset_url }}/assets/images/app-b.jpg)
+![Thumbnail of Appendix B — UNOS Response to Senate Finance Committee Inquiry Letter]({{ site.asset_url }}/assets/images/app-b.png)
 [View the UNOS Response to Senate Finance Committee Inquiry Letter PDF]({{ site.asset_url }}/assets/PDF/appendix_b-sfc_letter_and_unos_response.pdf)
 
 Additional information on how UNOS changed their website after SFC inquired about their oversight practices:
@@ -616,7 +616,7 @@ Updated UNOS website, as of March 2020, upon responding to the Senate Finance Co
 
 ### C. Glossary of Terms
 
-![Thumbnail of Appendix C — Glossary of Terms]({{ site.asset_url }}/assets/images/app-c.jpg)
+![Thumbnail of Appendix C — Glossary of Terms]({{ site.asset_url }}/assets/images/app-c.png)
 [View the Glossary of Terms PDF]({{ site.asset_url }}/assets/PDF/appendix_c-glossary.pdf)
 
 ______________
