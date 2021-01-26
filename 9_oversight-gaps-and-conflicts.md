@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Oversight Gaps & Conflicts
-permalink: /Oversight_Gaps_and_Conflicts/
-nav: false
+title: Oversight Gaps and Conflicts
+permalink: /oversight_gaps_and_conflicts/
+nav: true
 weight: 1
 toc: true
 
@@ -27,13 +27,14 @@ None of the 58 Organ Procurement Organizations (OPOs) operating in the U.S. have
 *   a failure to report a fungus that nearly killed a recipient; and, separately, a supervisor who allegedly physically assaulted a nurse and doctor; and
 *   countless other issues that have led to unrecovered, mishandled, lost, or damaged organs; patient deaths; and inappropriate use of taxpayer money, sparking Congressional investigations into fraud, waste and abuse.   
 
+
 We found oversight gaps or conflicts in 6 key areas:
 *   **OPO failure to recover enough organs**: OPOs can easily hide or manipulate their outcome measures in the current system, leading to thousands of organs going unrecovered and/or untransplated, and patients needlessly dying on the waitlist. This compromises not only oversight and regulation, but also academic research, which would ideally function as a means to inform ongoing policy considerations.
 *   **Complaints process:** OPOs are expected to self-report patient safety issues to the federal contractor tasked with optimizing their performance, the United Network for Organ Sharing (UNOS). But, even in UNOS’ determination, the voluntary nature makes these reports “subject to underreporting.” We found that few complaints are ever lodged against OPOs due to a lack of confidence that change will occur, fear of retribution if someone makes their concerns known, and unawareness of the reporting process.
 *   **Conflicts of interest:** Committees and boards within UNOS, as well as reviewers at academic journals, are often filled with OPO leaders, board members, and/or other member representatives. This leads to situations such as leaders from underperforming OPOs deciding their own performance review process or suppressing unfavorable research. 
-*   **Communication across a diffuse government structure: **The groups within the Department of Health and Human Services (HHS) that ultimately oversee the organ donation system are reported to have a lack of communication and collaboration. 
-*   **Financial incentives: **The large gap in oversight of financial incentives and resource allocation has led to issues such as OPOs spending a disproportionate amount of resources on lucrative tissue procurement, and OPOs spending taxpayer money on things like football tickets and lobbying expenses, while under-resourcing key programming more likely to lead to life-saving organ recoveries, such as hiring and supporting frontline staff.
-*   **Technology and security: **UNOS technology is outdated, inadequate, and insecure, yet government oversight arms are not auditing it, managing it in any meaningful capacity, or otherwise holding it to an appropriate standard.**  
+*   **Communication across a diffuse government structure:** The groups within the Department of Health and Human Services (HHS) that ultimately oversee the organ donation system are reported to have a lack of communication and collaboration. 
+*   **Financial incentives:** The large gap in oversight of financial incentives and resource allocation has led to issues such as OPOs spending a disproportionate amount of resources on lucrative tissue procurement, and OPOs spending taxpayer money on things like football tickets and lobbying expenses, while under-resourcing key programming more likely to lead to life-saving organ recoveries, such as hiring and supporting frontline staff.
+*   **Technology and security:** UNOS technology is outdated, inadequate, and insecure, yet government oversight arms are not auditing it, managing it in any meaningful capacity, or otherwise holding it to an appropriate standard.  
 
 In order to realize the potential impact of the new Final Rule for OPO performance evaluation that HHS published in November 2020 — which is projected to result in more than 7,000 more lives saved every year, while saving $1 billion annually to Medicare — we believe it is necessary for HHS to make parallel reforms to oversight and governance. We believe a new, empowered Office of Organ Policy (OOP) could be the ideal structure to oversee implementation of HHS’ new accountability measures and other crucial reforms. We also recommend decreasing conflicts of interest, improving the existing survey and complaint process, and increasing transparency and data visibility to monitor stakeholder compliance with federal regulations as well as foster more competition and innovation. In parallel, Congress should play an essential role in OPO and UNOS oversight to support and inform actions taken by the OOP.
 
@@ -50,7 +51,7 @@ However, none of these OPOs has ever been successfully decertified by the federa
 
 OneLegacy is far from the only OPO tainted by scandal. In Alabama, OPO leaders were sent to federal prison for participating in an illegal kickback scheme with a local funeral home.[^17] The former director and associate director of Alabama Organ Center (which has since re-branded to “Legacy of Hope”) pocketed nearly $500,000 in the plot involving lucrative tissue harvesting.[^18] 
 
-In South Florida, a doctor and nurse alleged being physically assaulted by a manager of an OPO for speaking up about personnel shortages and inadequate training.[^19] The two women were let go; one was fired, and the other’s contract was not renewed after 17 years of working there. Meanwhile, the supervisor kept his position of leadership.[^20] Four years later, the same OPO nearly killed a woman for failing to identify a fungus on a uterus before sending it out for transplantation – and did so during a period in which the OPO was already deemed a “member not in good standing” due to a “serious lapse in patient safety or quality of care.”[^21]
+In South Florida, a doctor and nurse alleged being physically assaulted by a manager of an OPO for speaking up about personnel shortages and inadequate training.[^19] The two women were let go; one was fired, and the other’s contract was not renewed after 17 years of working there. Meanwhile, the supervisor kept his position of leadership.[^20] Four years later, the same OPO nearly killed a woman for failing to identify a fungus on a uterus before sending it out for transplantation — and did so during a period in which the OPO was already deemed a “member not in good standing” due to a “serious lapse in patient safety or quality of care.”[^21]
 
 In South Carolina, the OPO We are Sharing Hope SC shipped lungs and a liver with an incorrectly identified blood type – killing the lung recipient and injuring the liver recipient.[^22] The Post and Courier, a South Carolina newspaper, noted that it was only after the news outlet started asking questions about We are Sharing Hope SC that oversight agencies said they would review the case. When investigators finally looked into the South Carolina OPO after the incident garnered news attention, they found problems with We are Sharing Hope SC’s blood-typing policies.[^23] 
 
@@ -318,9 +319,9 @@ One interviewee we spoke with witnessed UNOS’ Organ Center dangerously advise 
 Even though many complaints are never made for the reasons explained above, formal complaint processes do exist through UNOS and CMS. However, the effectiveness of these processes are highly questionable given the dearth of substantial change that has resulted from either process. If an OPO experiences a patient safety issue or deviates from an established policy, it is expected to self-report the issue to UNOS through the Improving Patient Safety (IPS) portal.[^117] 
 
 As we heard from OPO leaders, these deviations may include:
-*   a “miss” – when a procured organ does not make it to a transplant surgeon while it is still viable;
-*   a “near miss” – when transportation delays cause an organ to nearly miss the window of a viable transplant; 
-*   And an “out of sequence placement” – if an OPO bypasses the UNOS matching algorithm and places an organ to someone further down the list. 
+*   a **“miss”** – when a procured organ does not make it to a transplant surgeon while it is still viable;
+*   a **“near miss”** – when transportation delays cause an organ to nearly miss the window of a viable transplant; 
+*   And an **“out of sequence placement”** – if an OPO bypasses the UNOS matching algorithm and places an organ to someone further down the list. 
 
 ---
 
@@ -589,25 +590,25 @@ We’ve seen promising evidence of OPOs turning around when they feel pressure f
 ---
 
 
-## APPENDIX
+## Appendix
 
 
 ### A. Documented Cases of OPO Misconduct
 
-See spreadsheet here: [https://docs.google.com/spreadsheets/d/1xW2ascLmPWVMsHnSGgwdtpPJqFheu4Btj2eJaILQMPc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1xW2ascLmPWVMsHnSGgwdtpPJqFheu4Btj2eJaILQMPc/edit?usp=sharing) 
+![Thumbnail of Appendix A — Documented Cases of OPO Misconduct]({{ site.asset_url }}/assets/images/app-a.jpg)
+[View the Documented Cases of OPO Misconduct PDF]({{ site.asset_url }}/assets/PDF/appendix_a-opo_oversight_cases.pdf)
 
 
 ### B. UNOS Response to Senate Finance Committee Inquiry Letter
 
-See chart here: [https://docs.google.com/document/d/1fFdhOPSwC0_BnwSef99h3FNSBXZsLyUI9DhFj-nPUzQ/edit?usp=sharing](https://docs.google.com/document/d/1fFdhOPSwC0_BnwSef99h3FNSBXZsLyUI9DhFj-nPUzQ/edit?usp=sharing) 
+![Thumbnail of Appendix B — UNOS Response to Senate Finance Committee Inquiry Letter]({{ site.asset_url }}/assets/images/app-b.jpg)
+[View the UNOS Response to Senate Finance Committee Inquiry Letter PDF]({{ site.asset_url }}/assets/PDF/appendix_b-sfc_letter_and_unos_response.pdf)
 
 Additional information on how UNOS changed their website after SFC inquired about their oversight practices:
-
 
 1. UNOS website as of February, 2020, before receiving oversight inquiry from Senate Finance Committee:
 
 ![Screenshot of a UNOS.org FAQ question "What is the role of CMS and UNOS in transplant center and OPO oversight?"]({{ site.asset_url }}/assets/images/unos-oversight.png)
-
 
 Updated UNOS website, as of March 2020, upon responding to the Senate Finance Committee that UNOS is not responsible for the oversight functions about which SFC inquired:
 ![Screenshot of a UNOS.org FAQ question "What is UNOS' role in the broader transplant system and community?"]({{ site.asset_url }}/assets/images/unos-role.png)
@@ -615,7 +616,8 @@ Updated UNOS website, as of March 2020, upon responding to the Senate Finance Co
 
 ### C. Glossary of Terms
 
-See chart here: [https://docs.google.com/document/d/1tlbmxfwTxUm5VjP3rAGE8xe4O7tVvGum6TdPDgQmpJ4/edit?usp=sharing](https://docs.google.com/document/d/1tlbmxfwTxUm5VjP3rAGE8xe4O7tVvGum6TdPDgQmpJ4/edit?usp=sharing) 
+![Thumbnail of Appendix C — Glossary of Terms]({{ site.asset_url }}/assets/images/app-c.jpg)
+[View the Glossary of Terms PDF]({{ site.asset_url }}/assets/PDF/appendix_c-glossary.pdf)
 
 ______________
 
@@ -626,7 +628,7 @@ ______________
      "[Reforming Organ Donation in America: Saving $25,000 Lives per Year and $13 Billion in Taxpayer Funds over Five Years](https://www.bridgespan.org/bridgespan/Images/articles/reforming-organ-donation-in-america/reforming-organdonation-in-america-12-2018.pdf )," _The Bridgespan Group_, 2019.  
 
 [^2]:
-     “[Opinion | Many die waiting for organs. The Trump administration could help.](https://www.washingtonpost.com/opinions/many-die-waiting-for-organs-the-trump-administration-could-help/2020/07/31/77e3a102-dfd6-11e9-b199-f638bf2c340f_story.html)” _Washington Post_, 2020.  
+     "[Opinion: Many die waiting for organs. The Trump administration could help.](https://www.washingtonpost.com/opinions/many-die-waiting-for-organs-the-trump-administration-could-help/2020/07/31/77e3a102-dfd6-11e9-b199-f638bf2c340f_story.html)” _Washington Post_, 2020.  
 
 [^3]:
      According to data from HHS, OPO performance varies by as much as 470%
@@ -797,7 +799,7 @@ ______________
      “[UNOS Response to 2.10.20 Letter from Sens Grassley Wyden Young and Cardin](https://www.grassley.senate.gov/sites/default/files/Response%20to%202.10.20%20Letter%20from%20Sens%20Grassley%20Wyden%20Young%20and%20Cardin.pdf),” 2020. 
 
 [^59]:
-     “<span style="text-decoration:underline;">Membership and Professional Standards Committee - OPTN” </span> 
+     “Membership and Professional Standards Committee - OPTN”
 
 [^60]:
      As UNOS explains, “[t]he MPSC’s work to define the process for OPO Performance review involved a work group consisting of all the MPSC members who worked at an OPO.” UNOS Response to 2.10.20 Letter from Sens Grassley Wyden Young and Cardin, 2020. 
@@ -812,13 +814,13 @@ ______________
      Indeed, while the data HHS released in the Final Rule shows more than half of all OPOs to be underperforming, all 58 OPOs are in compliance per the OPTN, calling into question the rigor of these OPTN standards.
 
 [^64]:
-     See Appendix B, response to question 3a. 
+     [See Appendix B]({{ site.asset_url }}/assets/PDF/appendix_b-sfc_letter_and_unos_response.pdf), response to question 3a. 
 
 [^65]:
      [Operations and Safety Committee, OPTN](https://optn.transplant.hrsa.gov/members/committees/operations-and-safety-committee/)<span style="text-decoration:underline;">.</span> 
 
 [^66]:
-     See Appendix A
+     [See Appendix A]({{ site.asset_url }}/assets/PDF/appendix_a-opo_oversight_cases.pdf)
 
 [^67]:
      [December 18, 2019 VIA ELECTRONIC TRANSMISSION Ms. Joanne M. Chiedi Acting Inspector General Office of Inspector Genera](https://www.finance.senate.gov/imo/media/doc/CEG.Young%20to%20HHSOIG%20(OPO%20Oversight)%20Dec.18.2019.pdf)l
@@ -983,7 +985,7 @@ ______________
      [UNOS Response to 2.10.20 Letter from Sens Grassley Wyden Young and Cardin](https://www.grassley.senate.gov/sites/default/files/Response%20to%202.10.20%20Letter%20from%20Sens%20Grassley%20Wyden%20Young%20and%20Cardin.pdf), 2020.
 
 [^120]:
-     Language in the OPTN Final Rule, which supersedes OPTN Bylaws, shows that peer-review protections are not nearly as broad as UNOS makes them out to be. Section 121.11, note that the HHS Secretary has the ability to view any documentation necessary,** **“All OPOs... shall maintain such records pertaining to... transplantation-related matters as the Secretary deems necessary to carry out her/his responsibilities under the Act.” [OPTN Final Rule Language](https://www.ecfr.gov/cgi-bin/text-idx?SID=bb60e0a7222f4086a88c31211cac77d1&mc=true&node=pt42.1.121&rgn=div5#se42.1.121_111)** 
+     Language in the OPTN Final Rule, which supersedes OPTN Bylaws, shows that peer-review protections are not nearly as broad as UNOS makes them out to be. Section 121.11, note that the HHS Secretary has the ability to view any documentation necessary, “All OPOs... shall maintain such records pertaining to... transplantation-related matters as the Secretary deems necessary to carry out her/his responsibilities under the Act.” [OPTN Final Rule Language](https://www.ecfr.gov/cgi-bin/text-idx?SID=bb60e0a7222f4086a88c31211cac77d1&mc=true&node=pt42.1.121&rgn=div5#se42.1.121_111) 
 
 [^121]:
      "The medical peer review privilege will not be extended to withhold any document from the Secretary of HHS, or the Secretary’s designee." Pg 198, [OPTN Bylaws effective Aug 17 2020 WORD [Updating Appendix D-7-B]](https://optn.transplant.hrsa.gov/media/1201/optn_bylaws.pdf) 
@@ -1056,7 +1058,7 @@ ______________
      “[Tissue donation turns into nightmare for three sisters](https://www.reviewjournal.com/local/local-las-vegas/tissue-donation-turns-into-nightmare-for-three-sisters/),” _Review Journal_, 2016.  
 
 [^142]:
-     [Organ procurement improvements | Getting to yes](https://unos.org/news/getting-to-yes/),_ UNOS_.  
+     [Organ procurement improvements: Getting to yes](https://unos.org/news/getting-to-yes/), _UNOS_.  
 
 [^143]:
      [Donatelife.net](https://www.donatelife.net/statistics/#:~:text=110%2C000%20men%2C%20women%20and%20children,the%20national%20transplant%20waiting%20list.), Waiting list statistic.  
