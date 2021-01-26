@@ -2,7 +2,7 @@
 layout: page
 title: Oversight Gaps and Conflicts
 permalink: /oversight_gaps_and_conflicts/
-nav: true
+nav: false
 weight: 1
 toc: true
 
@@ -43,7 +43,7 @@ In order to realize the potential impact of the new Final Rule for OPO performan
 
 Each year, as many as 28,000 viable organs fail to reach patients who critically need them.[^1] Because of the failure to recover and transplant those organs – and the continued pace of demand outstripping supply – nearly 33 people die every day because they don’t have access to an organ transplant.[^2] 
 
-Organ procurement organizations (OPOs) are responsible for working with hospitals to recover as many organs from deceased patients as possible and to find a suitable recipient while the organ is still viable. There are 58 such OPOs spread throughout the U.S., and their performance differs dramatically.[^3] 
+Organ procurement organizations (OPOs) are responsible for working with hospitals to recover as many organs from deceased patients as possible and to find a suitable recipient while the organ is still viable. There are 57 such OPOs spread throughout the U.S., and their performance differs dramatically.[^3] 
 
 According to one analysis, some of the lowest performing OPOs – such as the federal contractors in Kentucky and South Carolina – recover organs from only 1 in 4 potential donors.[^4] This underperformance translates directly to patients dying unnecessarily on the organ waiting list, with the burdens of OPO failures falling disproportionately on people of color.[^5]
 
@@ -112,7 +112,7 @@ As one transplant surgeon explained, “there's been a tremendous amount of inef
 
 ---
 
->"Research estimates the U.S. could save $40 billion over 10 years by increasing kidney transplant via OPO reform.[^51]"
+>"Research estimates the U.S. could save $40 billion over 10 years by increasing kidney transplant via OPO reform."[^51]
 >
 
 ---
@@ -276,7 +276,7 @@ Each of these instances results in a patient’s death, given that one fewer org
 
 One of the biggest gaps with the OPO oversight is that HHS does not evaluate key process metrics, such as: hospital referral trigger criteria; triaged referral responses by OPO; response time to referral; adherence to donor management guidelines; discard rates; organ acceptance rate; consent rates; adherence to consent process; consent not recovered; or adherence to organ/tissue labeling. According to a former CMS official, “there are no real process measures that measure their effectiveness. And [those process measures are] all over the map depending on the OPO.”
 
-The metrics evaluated by CMS are all for outcomes, which are currently fraught for reasons discussed earlier, and even HHS’ new Final Rule for OPOs does not take effect until the next OPO contracting cycle in 2022 (with failing OPOs possibly not being decertified until 2026). Not only is this bad for evaluating and overseeing OPO performance, but it also gives OPO a false sense of confidence in their performance when the data is not aggregated and shown in the context of all 58 OPOs. As one OPO CEO told us, “the number one thing is, we think we're doing fine. That's the irony of all this. All of the evaluation tools that we have from CMS, OPTN, tell us we're doing fine.... Nobody in an oversight capacity, nobody at CMS, no one at HRSA, no one at HHS knows enough to tell us anything differently…That's the big problem." One transplant surgeon reinforced this assessment, noting that "there's a big gap between the organs available and where we start reporting." 
+The metrics evaluated by CMS are all for outcomes, which are currently fraught for reasons discussed earlier, and even HHS’ new Final Rule for OPOs does not take effect until the next OPO contracting cycle in 2022 (with failing OPOs possibly not being decertified until 2026). Not only is this bad for evaluating and overseeing OPO performance, but it also gives OPO a false sense of confidence in their performance when the data is not aggregated and shown in the context of all 57 OPOs. As one OPO CEO told us, “the number one thing is, we think we're doing fine. That's the irony of all this. All of the evaluation tools that we have from CMS, OPTN, tell us we're doing fine.... Nobody in an oversight capacity, nobody at CMS, no one at HRSA, no one at HHS knows enough to tell us anything differently…That's the big problem." One transplant surgeon reinforced this assessment, noting that "there's a big gap between the organs available and where we start reporting." 
 
 ---
 
@@ -386,7 +386,7 @@ Nearly every person we spoke with alluded to conflicts of interest within the cu
 
 ---
 
->“The entire UNOS is a conflict of interest,”
+>“The entire UNOS is a conflict of interest”
 >
 >__- Senior Government Official__
 
