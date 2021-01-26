@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oversight Gaps and Conflicts
-permalink: /oversight_gaps_and_conflicts/
+permalink: /Oversight/
 nav: false
 weight: 1
 toc: true
