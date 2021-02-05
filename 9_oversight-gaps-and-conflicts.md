@@ -990,7 +990,7 @@ ______________
      "The medical peer review privilege will not be extended to withhold any document from the Secretary of HHS, or the Secretary’s designee." Pg 198, [OPTN Bylaws effective Aug 17 2020 WORD [Updating Appendix D-7-B]](https://optn.transplant.hrsa.gov/media/1201/optn_bylaws.pdf) 
 
 [^122]:
-     [https://www.casemine.com/judgement/us/59147b44add7b04934419d5c](https://www.casemine.com/judgement/us/59147b44add7b04934419d5c)  [and can we also add a note here that, in 2001, UNOS said that turning over these files would undermine trust in their process and no one would participate anymore, but then after they did in fact hand over the files, there is zero evidence that people stopped participating?]
+     [https://www.casemine.com/judgement/us/59147b44add7b04934419d5c](https://www.casemine.com/judgement/us/59147b44add7b04934419d5c)  In 2001, UNOS said that turning over these files would undermine trust in their process and no one would participate anymore, but after they handed over the files, there is no evidence that people stopped participating.
 
 [^123]:
      Nevada Donor Network and Life Alliance Organ Recovery Agency (Miami) are the two OPOs that have received “member not in good standing” designations, according to [UNOS Response to 2.10.20 Letter from Sens Grassley Wyden Young and Cardin](https://www.grassley.senate.gov/sites/default/files/Response%20to%202.10.20%20Letter%20from%20Sens%20Grassley%20Wyden%20Young%20and%20Cardin.pdf), 2020.
