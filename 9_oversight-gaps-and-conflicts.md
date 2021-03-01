@@ -4,7 +4,6 @@ title: Oversight Gaps and Conflicts
 permalink: /Oversight/
 nav: true
 weight: 1
-toc: true
 
 ---
 
@@ -423,7 +422,7 @@ Previously she advised HHS on OPO policy and until recently was involved in sett
 Additionally, senior staffers and board members at Glazier’s OPO serve as: 
 *   Chairperson for the American Association of Tissue Banks (AATB) Board of Governors[^164]
 *   Member of the the AATB Quality Council
-*   Chair of the Donate LIfe America Data and Research Committee
+*   Chair of the Donate Life America Data and Research Committee
 *   Member of UNOS OPO Committee
 *   UNOS President, previously[^165]
 *   Advisor to a current National Academy of Medicine study to, in part, “Consider the development of a new, standardized, objective, and verifiable donation metric to permit the transplant community to evaluate DSAs and OPOs and establish best practice.”[^166]
