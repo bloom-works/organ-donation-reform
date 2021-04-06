@@ -83,7 +83,7 @@ Technological and medical advancements also account for increases in organ recov
 
 ![Detailed map of organ donation increase over time]({{ site.asset_url }}/assets/images/donation-increase.jpg)
 
-[Download the "Organ Donation Increase Map" PDF]({{ site.asset_url }}/assets/PDF/Donation_Increase.pdf)
+[Download the "Organ Donation Increase Map" PDF]({{ site.asset_url }}/assets/PDF/donation-increase.pdf)
 
 A closer look at the data suggests that OPOs are not even keeping pace with population growth after controlling for scientific advances, transplant center behavior, and opioid deaths.[^78] In some cases, OPOs are actually having worse performance in other types of donations, such as older donors, even while their overall donor numbers go up.[^79] "OPOs are the bottleneck in the process,” explained one researcher, while acknowledging that there needs to be a continuum of improvements along the process; “the OPO is the one absolute rate limit[ing] point.” As an OPO leader described, there are a finite number of organ procurement coordinators at each OPO, so if donor referrals dramatically increase because of drug-related deaths and the OPO has not staffed for the potential, coordinators cannot keep up and will only go after donation cases that are “easier” to place. “If an OPO is maximizing donor potential, they’re converting older and DCD donors at a higher rate, and not just relying on drug-related deaths to keep going,” said another researcher. 
 
