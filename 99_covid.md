@@ -2,7 +2,7 @@
 layout: page
 title: COVID-19 Impact on Organs
 permalink: /COVID-19/
-nav: true
+nav: false
 weight: 11
 toc: true
 ---
