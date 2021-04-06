@@ -134,7 +134,7 @@ As part of its COVID-19 response, we encourage CMS and Congress to implement bet
 ## Notes
 
 [^1]:
-	 “[Opinion | Many die waiting for organs. The Trump administration could help.](https://www.washingtonpost.com/opinions/many-die-waiting-for-organs-the-trump-administration-could-help/2020/07/31/77e3a102-dfd6-11e9-b199-f638bf2c340f_story.html)” _Washington Post_, 2020. 
+	 “[Many die waiting for organs. The Trump administration could help.](https://www.washingtonpost.com/opinions/many-die-waiting-for-organs-the-trump-administration-could-help/2020/07/31/77e3a102-dfd6-11e9-b199-f638bf2c340f_story.html)” _Washington Post_, 2020. 
 
 [^2]:
 	 “[How coronavirus attacks organs: Doctors find damage in lungs, kidneys, hearts](https://www.washingtonpost.com/health/coronavirus-destroys-lungs-but-doctors-are-finding-its-damage-in-kidneys-hearts-and-elsewhere/2020/04/14/7ff71ee0-7db1-11ea-a3ee-13e1ae0a3571_story.html),” _Washington Post_, 2020. 
