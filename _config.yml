@@ -1,21 +1,20 @@
 # Setup
-title:            'The Costly Effects of an Outdated Organ Donation System'
-tagline:          ''
-description:      'This is the description'
-production_url:   'https://bloomworks.digital/organdonationreform'
-url:              'https://bloomworks.digital'
-baseurl:          '/organdonationreform'
-asset_url:        'https://organdonationreform.netlify.app'
+title: 'The Costly Effects of an Outdated Organ Donation System'
+tagline: ''
+description: 'This is the description'
+production_url: 'https://bloomworks.digital/organdonationreform'
+url: 'https://bloomworks.digital'
+baseurl: '/organdonationreform'
 
 author:
-  name:           'Author'
-  url:            https://github.com/CTOpenData/data-sharing-playbook
+  name: 'Author'
+  url: https://github.com/CTOpenData/data-sharing-playbook
 
 # Custom vars
-version:          1.0.0
+version: 1.0.0
 
 github:
-  repo:           https://github.com/Bloom-Works/organ-donation-reform
+  repo: https://github.com/Bloom-Works/organ-donation-reform
 
 # Google Analytics
 google_analytics: UA-XXXXXXXXXX-X
