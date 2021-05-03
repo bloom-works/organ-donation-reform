@@ -149,7 +149,7 @@ The table also includes the number of patients waiting for organs in each state 
       <td>New England Organ Bank</td>
       <td class="tier"><span class="passing">1</span> Passing</td>
       <td>CT<br/>MA<br/>ME<br/>NH<br/>RI<br/>VT</td>
-      <td>CT - 1,202<br/>MA - 4,617<br/>ME - 193<br/>NH - 104<br/>RI - 273<br/>VT - 53</td>
+      <td>CT - 1,202<br/>MA - 4,617<br/>ME - 193<br/>NH - 105<br/>RI - 273<br/>VT - 53</td>
       <td>-</td>
       <td>-</td>
       <td>Alexandra Glazier<br/>$554,529</td>
@@ -176,7 +176,7 @@ The table also includes the number of patients waiting for organs in each state 
       <td>-</td>
       <td>Ginny McBride<br/>N/A</td>
       <td>N/A</td>
-      <td><a href="https://morningconsult.com/opinions/organ-donation-can-save-more-lives-through-reform/">CEO supportive</a> of OPO reform</td>
+      <td><a href="https://morningconsult.com/opinions/organ-donation-can-save-more-lives-through-reform/">CEO published support</a> for new OPO rule</td>
     </tr>
     <tr>
       <td>LifeQuest Organ Recovery Services</td>
@@ -198,7 +198,7 @@ The table also includes the number of patients waiting for organs in each state 
       <td>211</td>
       <td>Sam Salama<br/>N/A</td>
       <td>N/A</td>
-      <td>Subject of investigative reporting for quality control issues and workplace violence (see Washington Postand Miami Herald); included in <a href="https://oversight.house.gov/news/press-releases/oversight-subcommittee-launches-investigation-into-poor-performance-waste-and">House Committee on Oversight and Reform investigation</a></td>
+      <td>Subject of investigative reporting for quality control issues and workplace violence (see <a href="https://www.washingtonpost.com/national/health-science/behind-the-failure-of-the-first-us-uterine-transplant/2019/02/13/6345f018-07c0-11e9-85b6-41c0fe0c5b8f_story.html">Washington Post</a> and <a href="https://www.miamiherald.com/news/health-care/article47968670.html">Miami Herald</a>); included in <a href="https://oversight.house.gov/news/press-releases/oversight-subcommittee-launches-investigation-into-poor-performance-waste-and">House Committee on Oversight and Reform investigation</a></td>
     </tr>
     <tr>
       <td>Lifelink of Florida</td>
@@ -215,7 +215,7 @@ The table also includes the number of patients waiting for organs in each state 
       <td>Lifelink of Georgia</td>
       <td class="tier"><span class="underperforming">2</span> Underperforming</td>
       <td>GA<br/>SC - Catoosa, Dade, and Walker Counties</td>
-      <td>GA - 4,274<br/>SC - 1,369</td>
+      <td>GA - 4,213<br/>SC - 1,369</td>
       <td>6</td>
       <td>75</td>
       <td>Dustin Diggs<br/>N/A</td>
@@ -339,9 +339,9 @@ The table also includes the number of patients waiting for organs in each state 
       <td>MO -1,662<br/>AR - 243<br/>IL - 3,881</td>
       <td>-</td>
       <td>-</td>
-      <td>Dianne Brockmeier<br/>$574,635</td>
+      <td>Diane Brockmeier<br/>$574,635</td>
       <td>Yes</td>
-      <td><a href="https://morningconsult.com/opinions/organ-donation-can-save-more-lives-through-reform/">CEO supportive</a> of OPO reform</td>
+      <td><a href="https://morningconsult.com/opinions/organ-donation-can-save-more-lives-through-reform/">CEO published support</a> for new OPO rule; <a href="https://projects.propublica.org/nonprofits/display_990/237426306/02_2021_prefixes_23-25%2F237426306_201912_990_2021021817717361/">$25 million</a> investment in tissue processor Allosource</td>
     </tr>
     <tr>
       <td>Mississippi Organ Recovery Agency</td>
@@ -396,7 +396,7 @@ The table also includes the number of patients waiting for organs in each state 
       <td>15</td>
       <td>Joseph Roth<br/>$565,713</td>
       <td>No</td>
-      <td><a href="https://www.pogo.org/investigation/2021/04/americas-transformative-new-organ-donation-rule-goes-into-effect-over-objections-from-monopolistic-contractors/">OPO’s lobbyists</a> created a website that questions the motives of philanthropists and patient organizations that have supported reforms.</td>
+      <td><a href="https://www.pogo.org/investigation/2021/04/americas-transformative-new-organ-donation-rule-goes-into-effect-over-objections-from-monopolistic-contractors/">Investigative reporting</a> re. “A lobbyist for the [OPO] created a website that questions the motives of philanthropist and patient organizations that have supported reforms”</td>
     </tr>
     <tr>
       <td>New Mexico Donor Services</td>
@@ -451,7 +451,7 @@ The table also includes the number of patients waiting for organs in each state 
       <td>-</td>
       <td>Helen Irving<br/>$768,024</td>
       <td>No</td>
-      <td><a href="https://58425eca-649a-42d4-b265-d1e1743b6c48.filesusr.com/ugd/581bc3_ad2bfdb091974d62bc52596e06f8d848.pdf">Board Chair supportive</a> of rule</td>
+      <td><a href="https://58425eca-649a-42d4-b265-d1e1743b6c48.filesusr.com/ugd/581bc3_ad2bfdb091974d62bc52596e06f8d848.pdf">Board Chair published support</a> for new OPO rule</td>
     </tr>
     <tr>
       <td>ConnectLife</td>
@@ -578,7 +578,7 @@ The table also includes the number of patients waiting for organs in each state 
       <td>Tennessee Donor Services</td>
       <td class="tier"><span class="underperforming">2</span> Underperforming</td>
       <td>TN - Central and Eastern<br/>GA - Northern<br/>KY - Christian County<br/>VA - Southwest</td>
-      <td>TN - 3,090<br/>GA - 4,274<br/>KY - 938<br/>VA - 2,473</td>
+      <td>TN - 3,090<br/>GA - 4,213<br/>KY - 938<br/>VA - 2,473</td>
       <td>4</td>
       <td>2</td>
       <td>Jill Grandas<br/>$318,193</td>
@@ -605,7 +605,7 @@ The table also includes the number of patients waiting for organs in each state 
       <td>-</td>
       <td>Patricia Niles<br/>$705,285</td>
       <td>No</td>
-      <td><a href="https://www.dallasnews.com/opinion/commentary/2021/02/12/the-us-organ-donation-system-needs-transparency-and-accountability/">CEO supportive</a> of new OPO rule</td>
+      <td><a href="https://www.dallasnews.com/opinion/commentary/2021/02/12/the-us-organ-donation-system-needs-transparency-and-accountability/">CEO published support</a> of new OPO rule</td>
     </tr>
     <tr>
       <td>LifeGift Organ Donation Center</td>
