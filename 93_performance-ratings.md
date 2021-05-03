@@ -493,7 +493,7 @@ The table also includes the number of patients waiting for organs in each state 
       <td>3,056</td>
       <td>2</td>
       <td>50</td>
-      <td>Ron Apswich<br/>$276,372</td>
+      <td>Ron Apswich*<br/>$276,372</td>
       <td>Yes</td>
       <td><a href="https://blog.petrieflom.law.harvard.edu/2021/02/05/recent-organ-procurement-organization-regulations-will-save-lives/">CEO supportive</a> of reform, <a href="https://www.bridgespan.org/bridgespan/Images/articles/transforming-organ-donation-in-america/transforming-organ-donation-in-america-dec2020-update.pdf">led 34% growth in donors in one year</a> when he took over as leader</td>
     </tr>
