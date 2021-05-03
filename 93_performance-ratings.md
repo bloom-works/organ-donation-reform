@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Performance Ratings
+title: OPO Performance Ratings
 permalink: /Performance/
 nav: true
 weight: 1
-toc: true
 ---
 
 ## OPO Performance Ratings Based on Final Rule
@@ -21,6 +20,8 @@ The table also includes the number of patients waiting for organs in each state 
 
 ### Highest & Lowest Performing OPOs by Location
 
+<br/>
+
 ![A map of states, colors by performance]({{ site.asset_url }}/assets/images/state_opo_performance.png)
 
 ### OPO Performance Ratings Based on Final Rule
@@ -33,15 +34,15 @@ The table also includes the number of patients waiting for organs in each state 
       <th colspan="1"></th>
     </tr>
     <tr>
-      <th>OPO</th>
+      <th style="min-width: 135px;">OPO</th>
       <th>Tier</th>
       <th>State(s)</th>
       <th>State waitlist</th>
       <th>Donors needed</th>
       <th>Organs needed</th>
-      <th>CEO and compensation</th>
+      <th style="min-width: 135px;">CEO and compensation</th>
       <th>Board compensation</th>
-      <th>Notes</th>
+      <th style="min-width: 250px;">Notes</th>
     </tr>
   </thead>
   <tbody>
@@ -162,7 +163,7 @@ The table also includes the number of patients waiting for organs in each state 
       <td>DC - 1,553<br/>MD - 2,766<br/>VA - 2,473</td>
       <td>-</td>
       <td>-</td>
-      <td>Lori Brigham<br/>$514,979</td>
+      <td>Lori Brigham<br/>$533,289</td>
       <td>No</td>
       <td></td>
     </tr>
@@ -688,7 +689,7 @@ The table also includes the number of patients waiting for organs in each state 
 _\* indicates CEO from most recent 990 filing no longer serving in role; <sup>+</sup> indicates CEO runs a parent organization, such as a hospital system or tissue processor, in which the OPO is housed._
 
 _Sources: Tiers from CMS OPO final rule published 2020. Organ waitlists as of May 3rd 2021. Financials from most recent available 990s below._
-_2019: Donor Network Arizona, OneLegacy, Donor Network West, Donor Alliance, LifeChoice Donor Services, New England Organ Bank, Iowa Donor Network, Gift of Hope Organ & Tissue Donor Network, Indiana Donor Network, Midwest Transplant Network, Kentucky Organ Donor Affiliates, The Living Legacy Foundation, Gift of Life Michigan, Lifesource MN, Mid-America Transplant Services, Mississippi Organ Recovery Agency, New Jersey Sharing Network, Nevada Donor Network, LiveOnNY, ConnectLife, Lifeline of Ohio, LifeBanc, Life Connection of Ohio, LifeCenter Organ Donor Network, Center for Organ Recovery and Education, We Are Sharing Hope SC, Tennessee Donor Services, Mid-South Transplant Services, Texas Organ Sharing Alliance, Intermountain Donor Services (DonorConnect), LifeCenter Northwest, Versiti_
-_2018: Arkansas Regional Organ Recovery Agency, Washington Regional Transplant Community, Legacy of Life Hawaii, Louisiana Organ Procurement Agency, Carolina Donor Services, Nebraska Organ Recovery, Center for Donation and Transplant, Lifeshare Transplant Donor Services of Oklahoma, Gift of Life, Southwest Transplant Alliance, LifeGift, LifeNet_
+_2019: Donor Network Arizona, OneLegacy, Donor Network West, Donor Alliance, LifeChoice Donor Services, New England Organ Bank, Washington Regional Transplant Community, Iowa Donor Network, Gift of Hope Organ & Tissue Donor Network, Indiana Donor Network, Midwest Transplant Network, Kentucky Organ Donor Affiliates, The Living Legacy Foundation, Gift of Life Michigan, Lifesource MN, Mid-America Transplant Services, Mississippi Organ Recovery Agency, New Jersey Sharing Network, Nevada Donor Network, LiveOnNY, ConnectLife, Lifeline of Ohio, LifeBanc, Life Connection of Ohio, LifeCenter Organ Donor Network, Center for Organ Recovery and Education, We Are Sharing Hope SC, Tennessee Donor Services, Mid-South Transplant Services, Texas Organ Sharing Alliance, Intermountain Donor Services (DonorConnect), LifeCenter Northwest, Versiti_
+_2018: Arkansas Regional Organ Recovery Agency, Legacy of Life Hawaii, Louisiana Organ Procurement Agency, Carolina Donor Services, Nebraska Organ Recovery, Center for Donation and Transplant, Lifeshare Transplant Donor Services of Oklahoma, Gift of Life, Southwest Transplant Alliance, LifeGift, LifeNet_
 
 _Notes: On January 1st 2021, LifeChoice Donor Services and New England Organ Bank merged; taking the total number of OPOs across the U.S. from 58 to 57._
