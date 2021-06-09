@@ -7,7 +7,7 @@ weight: 1
 toc: true
 ---
 
-## Goal
+## Goals
 
 Thousands of lifesaving organs are wasted every year. Our goal is to highlight underlying causes that can be addressed. We investigated and analyzed the current organ donation system, looking specifically at common practices by OPOs, technology managed by government contractors, and the governance structure within the organ donation system. These reports outline what we found, and what recommendations we have for improving the system. 
 
