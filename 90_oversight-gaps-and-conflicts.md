@@ -462,7 +462,7 @@ The current OPO compensation model does little to incentivize OPOs to procure mo
 **OPO Financial Compensation Model**{:#opo-financial}
 ![A model explaining the OPO financial compensation process: Donor Hospital charges OPO fees related to donor management, OPOs  incorporate hospital charges along with operating costs, etc. into SAC fees, Transplant Centers are charged SAC fees per organ and organ type, then CMS and private insurers reimburse Transplant Centers for fees related to transplantation.]({{ site.asset_url }}/assets/images/opo-financial.jpg)
 
-[Download the "OPO Financial Compensastional Model" PDF]({{ site.asset_url }}/assets/PDF/opo-financial.pdf)
+[Download the "OPO Financial Compensation Model" PDF]({{ site.asset_url }}/assets/PDF/opo-financial.pdf)
 
 
 Between 1996 and 2014, the cost to Medicare for acquiring organs increased by 253 percent, according to an analysis.[^174] However, in that same time frame, the volume of donors increased by only 57 percent, and the volume of transplants increased by only 45 percent. Throughout the country, total organ acquisition costs are about $3 billion annually.[^175]   
