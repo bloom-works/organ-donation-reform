@@ -1,0 +1,23 @@
+name: Create bucket for preview
+on:
+  pull_request:
+    types: [opened, reopened]
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: create-json
+        uses: jsdaniell/create-json@1.1.2
+        with:
+          name: 'bucket-policy.json'
+          json: '{"Statement": [{"Sid": "PublicRead","Effect": "Allow","Principal": "*", "Action": ["s3:GetObject", "s3:GetObjectVersion"],"Resource": ["arn:aws:s3:::${{ secrets.S3_BUCKET_NAME }}-preview-${{ github.event.number }}/*"]}]}'
+      - name: Create bucket
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'us-east-1'
+        run: |
+          aws s3api create-bucket --bucket ${{ secrets.S3_BUCKET_NAME }}-preview-${{ github.event.number }} --acl public-read-write
+          aws s3 website s3://${{ secrets.S3_BUCKET_NAME }}-preview-${{ github.event.number }}/ --index-document index.html --error-document 404.html
+          aws s3api put-bucket-policy --bucket ${{ secrets.S3_BUCKET_NAME }}-preview-${{ github.event.number }} --policy file://bucket-policy.json
