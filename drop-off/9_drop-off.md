@@ -78,8 +78,8 @@ Below are recommended changes to current OPO conditions of coverage, not in exac
 
 
 ### OPTN (HRSA)
-*   Update organ offer technology to meet modern software standards and address baseline usability concerns, as described in drop-off point #1 above and in Driving Innovation in the Organ Transplant Technology “Ecosystem” _(link to tech doc)_. 
-*   CMS currently requires OPOs to retain records of donors which creates duplicative systems in OPO databases. HRSA should instead require that this data be captured, managed, and centralized in an OPTN database as part of the Organ Transplant Technology “ecosystem” _(link to tech doc)_. If able to take effect, this would require changes to OPO Condition of Coverage § 486.330 as well.
+*   Update organ offer technology to meet modern software standards and address baseline usability concerns, as described in drop-off point #1 above and in Driving Innovation in the Organ Transplant Technology “Ecosystem”. 
+*   CMS currently requires OPOs to retain records of donors which creates duplicative systems in OPO databases. HRSA should instead require that this data be captured, managed, and centralized in an OPTN database as part of the Organ Transplant Technology “ecosystem”. If able to take effect, this would require changes to OPO Condition of Coverage § 486.330 as well.
 *   HRSA should make available to all transplant centers and OPOs the data dashboards of organ procurement and transplant information as a service of the OPTN. Transplant centers and OPOs should not have to pay additional money individually for this information.
 
 
