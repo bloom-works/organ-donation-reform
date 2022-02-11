@@ -2,10 +2,10 @@
 title: 'The Costly Effects of an Outdated Organ Donation System'
 tagline: ''
 description: 'This is the description'
-production_url: 'https://d26suhmbb20qg0.cloudfront.net/organdonationreform'
-url: 'https://d26suhmbb20qg0.cloudfront.net'
-baseurl: '/organdonationreform'
-asset_url: 'https://d26suhmbb20qg0.cloudfront.net/organdonationreform'
+production_url: ENV_PROD_URL
+url: ENV_URL
+baseurl: ENV_BASE_URL
+asset_url: ENV_PROD_URL
 
 author:
   name: 'Author'
