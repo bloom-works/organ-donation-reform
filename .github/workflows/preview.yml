@@ -6,6 +6,9 @@ env:
   AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
   AWS_REGION: 'us-east-1'
   S3_BUCKET_NAME: ${{ secrets.S3_BUCKET_NAME }}-preview-${{ github.event.number }}
+  PROD_URL: https://${{ secrets.S3_BUCKET_NAME }}-preview-${{ github.event.number }}.s3-website-us-east-1.amazonaws.com/organdonationreform
+  BASE_URL: https://${{ secrets.S3_BUCKET_NAME }}-preview-${{ github.event.number }}.s3-website-us-east-1.amazonaws.com
+  URL: ${{ secrets.S3_BUCKET_NAME }}
 jobs:
   preview:
     runs-on: ubuntu-latest
@@ -47,6 +50,10 @@ jobs:
         if: success()
         run: |
           bundle config path vendor/bundle
+          sed -i -e "s|ENV_PROD_URL|$PROD_URL|" _config_aws.yml
+          sed -i -e "s|ENV_BASE_URL|$BASE_URL|" _config_aws.yml
+          sed -i -e "s|ENV_URL|$URL|" _config_aws.yml
+          cat _config_aws.yml
           bundle install --jobs 4 --retry 3
           yarn postcss:build
           bundle exec jekyll build --config _config_aws.yml
