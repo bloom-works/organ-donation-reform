@@ -50,10 +50,10 @@ jobs:
       - name: Build
         if: success()
         run: |
+          bundle config path vendor/bundle
           sed -i '' -e 's|ENV_PROD_URL|${{secrets.PROD_URL}}|' _config_aws.yml
           sed -i '' -e 's|ENV_BASE_URL|${{secrets.BASE_URL}}|' _config_aws.yml
           sed -i '' -e 's|ENV_URL|${{secrets.URL}}|' _config_aws.yml
-          bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
           yarn postcss:build
           bundle exec jekyll build --config _config_aws.yml
