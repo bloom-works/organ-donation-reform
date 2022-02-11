@@ -2,7 +2,7 @@
 # the environment variables AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY or
 # ~/.aws/credentials.
 s3_bucket: <%= ENV['S3_BUCKET_NAME'] %>
-cloudfront_distribution_id: E1Z3X7RMKIA9Z3
+cloudfront_distribution_id: <%= ENV['CLOUDFRONT_ID'] %>
 s3_key_prefix: organdonationreform
 
 # set session_token if using temporary credentials with a session token (eg: when assuming a role)
