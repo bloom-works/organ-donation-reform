@@ -36,7 +36,7 @@ The OPTN contract has been re-awarded, since its beginning, to the same vendor.[
 
 ### Problems to Solve In Buying OPTN Technology
 
-Our research uncovered a number of problems with the current and previous OPTN procurements, which are listed immediately below. The team developed an approach that aims to solve these problems. The list below is not intended to be comprehensive of all issues addressed within this strategyy but it highlights some of the prominent challenges we have identified.
+Our research uncovered a number of problems with the current and previous OPTN procurements, which are listed immediately below. The team developed an approach that aims to solve these problems. The list below is not intended to be comprehensive of all issues addressed within this strategy but it highlights some of the prominent challenges we have identified.
 
 
 
