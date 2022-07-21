@@ -819,7 +819,7 @@ ______________
      [Operations and Safety Committee, OPTN](https://optn.transplant.hrsa.gov/members/committees/operations-and-safety-committee/)<span style="text-decoration:underline;">.</span> 
 
 [^66]:
-     [See Appendix A]({{ site.asset_url }}/assets/PDF/appendix_a-opo_oversight_cases.pdf)
+     [See Appendix B]({{ site.asset_url }}/assets/PDF/appendix_b-sfc_letter_and_unos_response.pdf)
 
 [^67]:
      [December 18, 2019 VIA ELECTRONIC TRANSMISSION Ms. Joanne M. Chiedi Acting Inspector General Office of Inspector Genera](https://www.finance.senate.gov/imo/media/doc/CEG.Young%20to%20HHSOIG%20(OPO%20Oversight)%20Dec.18.2019.pdf)
