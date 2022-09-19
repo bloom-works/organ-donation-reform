@@ -20,9 +20,9 @@ Bloom Works investigated and analyzed the current organ donation system through 
  -->
 We recommend reading through our [Summary of Findings]({{ site.url }}{{ site.baseurl }}/Summary). You can also [read the PDF version here]({{ site.asset_url }}/assets/PDF/Summary.pdf)), or [download a printable version]({{ site.asset_url }}/assets/PDF/Summary_Print.pdf).
 
-You can also view our more comprehensive reports with specific areas of focus, such as [Inequity in Organ Donation]({{ site.url }}{{ site.baseurl }}/Inequity), [OPO Best Practices]({{ site.url }}{{ site.baseurl }}/OPO-Best-Practices), [Technology Recommendations]({{ site.url }}{{ site.baseurl }}/Technology), and [Acquisition Strategy for OPTN Tech]({{ site.url }}{{ site.baseurl }}/Acquisition-Strategy). 
+You can also view our more comprehensive reports with specific areas of focus, such as [Inequity in Organ Donation]({{ site.url }}{{ site.baseurl }}/Inequity), [OPO Best Practices]({{ site.url }}{{ site.baseurl }}/OPO-Best-Practices), [Technology Recommendations]({{ site.url }}{{ site.baseurl }}/Technology), and [Acquisition Strategy for OPTN Tech]({{ site.url }}{{ site.baseurl }}/Buying-OPTN-Tech). 
 
-[The appendix has all of the maps and charts explaining the process]({{ site.url }}{{ site.baseurl }}/appendix). 
+[The appendix has all of the maps and charts explaining the process]({{ site.url }}{{ site.baseurl }}/Appendix). 
 
 [This entire report is on github](https://github.com/Bloom-Works/organ-donation-reform). You can read, download source files, and contribute.
 
