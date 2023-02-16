@@ -44,10 +44,10 @@ used in many different procedures, including:
   is the only type of living tissue donation.
 - **Heart Valves **are used in two main procedures: heart valve replacement
   surgery and reconstructive cardiac surgery.
-- **Cornea** is the transparent, dome-shaped surface of the eye.\*\* \*\*A
-  cornea transplant is most often used to restore vision to a person with a
-  damaged cornea, though can also relieve pain or other symptoms associated with
-  cornea diseases.
+- **Cornea** is the transparent, dome-shaped surface of the eye. A cornea
+  transplant is most often used to restore vision to a person with a damaged
+  cornea, though can also relieve pain or other symptoms associated with cornea
+  diseases.
 
 Safety and ethical issues within the tissue industry have been written about and
 investigated for decades, with few changes to practice or policy produced; over
@@ -277,10 +277,10 @@ and tendons being distributed from donors who were not adequately tested to
 possible contamination of amniotic fluid.[^25]
 
 Previous issues identified by FDA inspectors have included such quality control
-failures as tissue materials contaminated by \_Clostridium \_and
-\_Staphylococcus \_bacteria, dirty cleaning materials left out in areas where
-tissues were stored,[^26] and tissue processors failing to maintain adequate
-screening procedures to prevent the spread of infectious disease.[^27]
+failures as tissue materials contaminated by _Clostridium_ and _Staphylococcus_
+bacteria, dirty cleaning materials left out in areas where tissues were
+stored,[^26] and tissue processors failing to maintain adequate screening
+procedures to prevent the spread of infectious disease.[^27]
 
 **Safety issues such as these have proved fatal to patients.** In 2020, Azyio
 Biologics recalled a bone-based product after four patients who received
@@ -328,7 +328,7 @@ after contracting an infection from a contaminated tissue transplant. A Centers
 for Disease Control and Prevention (CDC) investigation found that CryoLife, one
 of the country’s largest tissue processors, had processed and shipped tissues
 from a donor whose body had not been refrigerated for over 19 hours and was
-infected with \_Clostridium \_bacteria. In addition to Mr. Lykins, 27 other
+infected with _Clostridium_ bacteria. In addition to Mr. Lykins, 27 other
 patients contracted severe infections from tissues processed by CryoLife during
 this time.[^34] An FDA inspection the following year found numerous process
 failures, including a “failure to adequately inspect or test incoming product.”
@@ -337,8 +337,8 @@ failures, including a “failure to adequately inspect or test incoming product.
 This was neither the first nor the last time a patient would become seriously
 ill or die because of CryoLife’s failure to adhere to safety protocols. Just two
 years after Mr. Lykins’ death, another teenager became seriously ill after
-receiving a knee ligament transplant that was infected with \_Staphylococcus
-\_bacteria.[^36]
+receiving a knee ligament transplant that was infected with _Staphylococcus_
+bacteria.[^36]
 
 Between 1996 and 2002, 33 patients became ill and four patients died from fungal
 infections contracted from CryoLife-processed heart valves.[^37] At the time,
@@ -511,13 +511,13 @@ Kentucky Organ Donor Affiliates up to $411.9 million at LifeNet
 report these numbers publicly.)**
 
 Massive tissue revenues led experts we spoke with to describe some OPOs as
-“**tissue banks with an organ procurement side business.**”\*\* **One expert
-Bloom spoke with saw several cases of “serious leadership issues” at OPOs while
+“**tissue banks with an organ procurement side business.**” One expert Bloom
+spoke with saw several cases of “serious leadership issues” at OPOs while
 working with the OPTN Membership and Professional Standards Committee. At these
 OPOs, executives were “taking money out of OPO operations to support tissue
-[procurement], to the detriment of organ procurement.”** \*\*These were
-described as the “sloppy, extreme cases,” which only came to light because of
-serious safety issues at the OPO.
+[procurement], to the detriment of organ procurement.” These were described as
+the “sloppy, extreme cases,” which only came to light because of serious safety
+issues at the OPO.
 
 LifeNet, one of the largest OPO tissue processors, was described as treating
 organ procurement as their “side hustle,” while they made “tons of money” on
@@ -536,8 +536,8 @@ data about donors who might have become organ donors but who instead only
 donated tissue. Interviewees we spoke to routinely talked about staffing
 discrepancies at some OPOs between organ procurement and tissue procurement. One
 former transplant nurse coordinator described how her organ procurement team had
-three staff members, while the tissue procurement team had eight.\*\* \*\*While
-her staff were working 24 hour shifts because the OPO refused to pay for the
+three staff members, while the tissue procurement team had eight. While her
+staff were working 24 hour shifts because the OPO refused to pay for the
 additional staff necessary to cut shifts to a safer 12 hours, the tissue
 procurement teams had enough staff to be “stumbling over each other.”
 
@@ -1074,8 +1074,8 @@ patient safety, public trust in the system, and equity in transplantation.
 ## Notes
 
 [^1]:
-    “[Despite low performance, organ collection group gets new federal contract.](https://www.washingtonpost.com/national/despite-low-performance-organ-collection-group-gets-new-federal-contract/2019/02/04/9b9ba2aa-2895-11e9-b2fc-721718903bfc_story.html)<span style="text-decoration:underline;">”\*\*
-    \*\*</span>Washington Post, 2019.
+    “[Despite low performance, organ collection group gets new federal contract.](https://www.washingtonpost.com/national/despite-low-performance-organ-collection-group-gets-new-federal-contract/2019/02/04/9b9ba2aa-2895-11e9-b2fc-721718903bfc_story.html)
+    <span style="text-decoration:underline;">”</span>Washington Post, 2019.
 
 [^2]:
     _[“Transforming Organ Donation in America Appendix A.” ](https://www.bridgespan.org/bridgespan/Images/articles/transforming-organ-donation-in-america/Bridgespan-OPO-Report-FINAL-Appendix-A.pdf)The
@@ -1114,7 +1114,7 @@ patient safety, public trust in the system, and equity in transplantation.
 
 [^8]:
     [“Access to human tissue for research and development.”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4428037/#:~:text=The%20tissues%20they%20stored%E2%80%94heart,human%20tissues%20has%20increased%20dramatically.)
-    \_EMBO Reports, \_2015.
+    _EMBO Reports_, 2015.
 
 [^9]:
     [“Recovery Partners and Services.”](https://www.mtfbiologics.org/who-we-serve/donors-community/recovery-partners-services)
@@ -1201,7 +1201,7 @@ patient safety, public trust in the system, and equity in transplantation.
 
 [^29]:
     [“Nationwide tuberculosis outbreak in the U.S. linked to a bone graft product: an outbreak report.”](<https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00425-X/fulltext>)
-    \_The Lancet, \_2022.
+    _The Lancet_, 2022.
 
 [^30]:
     [“Empires of the Flesh: Tissue and Organ Taboos.”](https://deliverypdf.ssrn.com/delivery.php?ID=141119082090099116067119077025078007050013055041044089022119072091085016072107030096036063025103104037062104004076126084126064015075086034086113068087071100007006089028003085103069083107125125086082114113087080010007110015079075093003024070095118066&EXT=pdf&INDEX=TRUE)
@@ -1228,8 +1228,8 @@ patient safety, public trust in the system, and equity in transplantation.
     Food and Drug Administration, 2002.
 
 [^36]:
-    [“Knee Ligament In a Transplant Leads to Illness.” ](https://www.nytimes.com/2003/12/05/us/knee-ligament-in-a-transplant-leads-to-illness.html)\_The
-    New York Times, \_2003.
+    [“Knee Ligament In a Transplant Leads to Illness.” ](https://www.nytimes.com/2003/12/05/us/knee-ligament-in-a-transplant-leads-to-illness.html)
+    _The New York Times_, 2003.
 
 [^37]:
     [“CryoLife Heart Valve Patients Cry Foul.”](https://www.cbsnews.com/news/cryolife-heart-valve-patients-cry-foul/)
@@ -1253,15 +1253,15 @@ patient safety, public trust in the system, and equity in transplantation.
 
 [^42]:
     [“Determinants of family consent to tissue donation.”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530615/)
-    \_Journal of Trauma and Acute Care Surgery, \_2012.
+    _Journal of Trauma and Acute Care Surgery_, 2012.
 
 [^43]:
     [“Summary of findings: What can go wrong when firms harvest tissue before autopsies.”](https://www.latimes.com/business/story/2019-10-13/findings-from-the-times-investigation-bodies-of-evidence)
-    \_Los Angeles Times, \_2019.
+    _Los Angeles Times_, 2019.
 
 [^44]:
-    [“Consenting to donation: an examination of current practices in informed consent for tissue donation in the US.” ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3568202/)\_Cell
-    and Tissue Banking, \_2013.
+    [“Consenting to donation: an examination of current practices in informed consent for tissue donation in the US.” ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3568202/)
+    _Cell and Tissue Banking_, 2013.
 
 [^45]:
     [“The 2012 and 2015 National Tissue Recovery Through Utilization Survey Report.”](https://www.hhs.gov/sites/default/files/ntrus-report-2015.pdf)
@@ -1277,11 +1277,11 @@ patient safety, public trust in the system, and equity in transplantation.
 
 [^48]:
     [“Doctor who helped create Nevada organ donor service has doubts about program.”](https://www.reviewjournal.com/local/local-las-vegas/doctor-who-helped-create-nevada-organ-donor-service-has-doubts-about-program/)
-    \_Las Vegas Review Journal, \_2016.
+    _Las Vegas Review Journal_, 2016.
 
 [^49]:
-    [“Judge dismisses 2015 fraud lawsuit against Nevada Donor Network.”](https://www.reviewjournal.com/crime/courts/judge-dismisses-2015-fraud-lawsuit-against-nevada-donor-network-1597540/)_
-    Las Vegas Review Journal_, 2019.
+    [“Judge dismisses 2015 fraud lawsuit against Nevada Donor Network.”](https://www.reviewjournal.com/crime/courts/judge-dismisses-2015-fraud-lawsuit-against-nevada-donor-network-1597540/)
+    _Las Vegas Review Journal_, 2019.
 
 [^50]:
     “Guidance Document: Providing Service to Tissue Donor Families.” American
@@ -1405,7 +1405,7 @@ patient safety, public trust in the system, and equity in transplantation.
 
 [^80]:
     [“The Interplay of Socioeconomic Status, Distance to Center, and Interdonor Service Area Travel on Kidney Transplant Access and Outcomes.”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2994090/)
-    \_Clinical Journal of the American Society of Nephrology, \_2010.
+    _Clinical Journal of the American Society of Nephrology_, 2010.
 
 [^81]:
     [“Inequity in Organ Donation.”](https://bloomworks.digital/organdonationreform/Inequity/)
@@ -1425,7 +1425,7 @@ patient safety, public trust in the system, and equity in transplantation.
 
 [^85]:
     [“Cost of Outpatient Arthroscopic Anterior Cruciate Ligament Reconstruction Among Commercially Insured Patients in the United States, 2005-2013.”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5302102/)
-    \_Orthopedic Journal of Sports Medicine, \_2017.
+    _Orthopedic Journal of Sports Medicine_, 2017.
 
 [^86]:
     [“Arthroscopy, knee, surgical; with meniscus repair (medial or lateral).”](https://www.medicare.gov/procedure-price-lookup/cost/29882/)
