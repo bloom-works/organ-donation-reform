@@ -42,7 +42,7 @@ used in many different procedures, including:
 - **Birth tissue** is material from the placenta, umbilical cord, or amniotic
   fluid. Most commonly, these materials are used to create wound coverings. This
   is the only type of living tissue donation.
-- **Heart Valves **are used in two main procedures: heart valve replacement
+- **Heart Valves** are used in two main procedures: heart valve replacement
   surgery and reconstructive cardiac surgery.
 - **Cornea** is the transparent, dome-shaped surface of the eye. A cornea
   transplant is most often used to restore vision to a person with a damaged
@@ -72,32 +72,29 @@ system.
   ‘crude shelf life’ that limits their viability outside the body, and when
   they’re transplanted a recipient needs to be on immunosuppressants. Tissues
   are generally not vascularized.”
-- **Clinical requirements: **Many more people can become tissue donors than
+- **Clinical requirements:** Many more people can become tissue donors than
   organ donors because tissue donation lacks the strict clinical requirements
   that apply to organ donors.
-- **Scope: **One person can donate organs for up to eight other people, while
+- **Scope:** One person can donate organs for up to eight other people, while
   one tissue donation can help anywhere from 50 to 100 other people.[^3]
-
-- **Processing: **The breadth of tissue products is reflected in the list of
+- **Processing:** The breadth of tissue products is reflected in the list of
   example processing actions the FDA offers, from preparation and sterilization
   to “cutting, grinding, shaping, culturing, enzymatic digestion, and
   decellularization.”[^4] One tissue processing company, MTF Biologics, lists 75
   pages of orthopedic tissue products.[^5]
-
-- **Allocation: **Allocation decisions about where OPOs should send tissues are
+- **Allocation:** Allocation decisions about where OPOs should send tissues are
   at the discretion of the OPO, because—unlike for organs—allocation is not
   prescribed by an oversight body.
 - **Financial incentives:** Current OPO reimbursement structures do not provide
   meaningful financial incentive for OPOs to increase organ volume, while there
   is tremendous financial incentive to recover more tissue.[^6]
-
-- **Legal structure: **While OPOs are technically structured as 501(c)3
+- **Legal structure:** While OPOs are technically structured as 501(c)3
   non-profits, tissue processors are often for-profit, and therefore without any
   meaningful transparency related to their financials.
-- **Industry demand: **Organ transplants are often lifesaving, but tissue
+- **Industry demand:** Organ transplants are often lifesaving, but tissue
   transplants can be used for lifesaving, life-enhancing, or cosmetic purposes.
   As one expert noted, **“while there are things like bone grafts, the truth is
-  we as a society have used more body parts for cosmetic enhancements,” **rather
+  we as a society have used more body parts for cosmetic enhancements,”** rather
   than lifesaving procedures.
 
 ### The tissue procurement process {#the-tissue-procurement-process}
@@ -286,7 +283,7 @@ procedures to prevent the spread of infectious disease.[^27]
 Biologics recalled a bone-based product after four patients who received
 transplants tested positive for tuberculosis.[^28] Subsequently, CDC found that
 113 people received transplants from a single donor who had undetected
-tuberculosis. **Three people died from tuberculosis as a result. **For all other
+tuberculosis. **Three people died from tuberculosis as a result.** For all other
 transplant recipients, treatment for tuberculosis did not start until an average
 of 69 days after the transplant—a dangerously long delay.[^29]
 
@@ -495,8 +492,8 @@ benefit for higher procurement/performance.[^54]
 There are organizational benefits to maintaining status as an OPO, because it
 creates access to hospitals and ensures the OPO will receive patient
 referrals—which are highly lucrative for tissue procurement. However, as one
-expert noted, “**underperformance as an OPO has zero impact on the bottom line.”
-**Issues found on the organ procurement side—up to and including
+expert noted, **“underperformance as an OPO has zero impact on the bottom
+line.”** Issues found on the organ procurement side—up to and including
 decertification—would not keep an OPO from continuing tissue procurement (though
 it could make it more difficult by impacting hospital access). For many OPOs,
 this means “tissue becomes the safety net,” as we heard from one expert, in the
@@ -507,8 +504,8 @@ tissue.
 
 **OPO annual revenues from tissue procurement vary widely, from $4.5 million at
 Kentucky Organ Donor Affiliates up to $411.9 million at LifeNet
-(Virginia).**[^55]<sup><strong>,</strong></sup>[^56]** (Note: not all OPOs
-report these numbers publicly.)**
+(Virginia).**[^55]<sup>,</sup>[^56] **(Note: not all OPOs report these numbers
+publicly.)**
 
 Massive tissue revenues led experts we spoke with to describe some OPOs as
 “**tissue banks with an organ procurement side business.**” One expert Bloom
@@ -582,13 +579,14 @@ Other overlaps between OPOs and tissue processing companies include:
   Committee.[^67]
 
 - LifeLink of Georgia has paid almost $2 million in fees to TransLife Tissue
-  Bank, a tissue bank run by a LifeLink Board Member.[^68] **Some OPOs have
-  multiple subsidiaries and a global presence. LifeNet, for instance, spends
-  nearly $1 million on global sales representation, while LifeLink of Georgia
-  owns a $250,000 stake in HCT Regenerative (a tissue processing company based
-  in Hong Kong).**[^69]<sup><strong>,</strong></sup>[^70]** LifeLink sells this
-  company tissue and bone material, and receives a royalty on any allografts
-  sold.**
+  Bank, a tissue bank run by a LifeLink Board Member.[^68]
+
+**Some OPOs have multiple subsidiaries and a global presence. LifeNet, for
+instance, spends nearly $1 million on global sales representation, while
+LifeLink of Georgia owns a $250,000 stake in HCT Regenerative (a tissue
+processing company based in Hong Kong).**[^69]<sup>,</sup>[^70] **LifeLink sells
+this company tissue and bone material, and receives a royalty on any allografts
+sold.**
 
 ### Instances of corruption {#instances-of-corruption}
 
@@ -597,7 +595,7 @@ high-profile examples have emerged.
 
 For example, in one case—which eventually resulted in the criminal conviction of
 two OPO executives in Alabama,[^71] and for which the whistleblower was
-threatened with being “cremated alive”[^72]—an OPO staffer filed a complaint
+threatened with being “cremated alive”[^72] —an OPO staffer filed a complaint
 with the OPTN’s Membership and Professional Standards Committee (MPSC) regarding
 allegations of a money laundering scheme. As NPR later reported, the OPO had
 given a contract to a local funeral home to be ”the one place where tissue was
@@ -678,7 +676,7 @@ For example, studies have found that the average cost for a knee tendon repair
 is $13,000, a procedure that commonly uses a tissue transplant.[^85] For a
 patient with Medicare, the out-of-pocket cost may range between $414 to
 $719.[^86] Because few tissue transplants are lifesaving, families may be more
-likely to skip these costly procedures.** Tissue transplants are used in
+likely to skip these costly procedures. **Tissue transplants are used in
 surgeries that can be important for mobility and quality of life, but may not be
 affordable for families who cannot afford unexpected expenses.**[^87]
 
@@ -750,8 +748,8 @@ Government agencies and Congress should support:
   agency. The ultimate goal should be to increase patient safety by fully
   monitoring each aspect of procurement and transplant.
 - **Faster, more responsive information sharing between FDA, CMS, HRSA, and CDC
-  when responding to adverse event reports and deviations from best practices.
-  **These agencies must be able to quickly and accurately notify hospitals and
+  when responding to adverse event reports and deviations from best practices.**
+  These agencies must be able to quickly and accurately notify hospitals and
   patients in the event of adverse events. Historically, recalls can take
   months, with agencies unable to accurately track every recipient of
   potentially hazardous tissue.
@@ -766,7 +764,7 @@ currently an inadequate tracking system for tissue donations and transplants.
 The European Commission updated traceability guidance in 2022, after finding the
 original 2001 guidance was now “outdated” and not keeping “pace with this
 rapidly changing sector.”[^93] **The U.S. should follow this example and update
-the 2005 tissue product guidance as well. **
+the 2005 tissue product guidance as well.**
 
 Specifically, **FDA should require a universal tracking system** for all
 human-tissue based products that is easy to integrate with global standards, and
@@ -799,7 +797,7 @@ tissue transplants, while Australia and New Zealand publish extensive monthly
 data, breaking down the number of tissue donors by gender, province, and
 age.[^97]<sup>,</sup>[^98] **This data is crucial for identifying trends,
 accurately counting adverse events, and better understanding the inequities of
-tissue procurement and transplantation. **
+tissue procurement and transplantation.**
 
 CMS should require OPOs to include data on tissue procurement in reporting to
 CMS. Because OPOs must provide this data to processors in order to clear tissue
@@ -833,7 +831,7 @@ being able to address issues and ensure a more ethical system of procurement and
 transplant.
 
 Regulators should also **require OPOs to publish potential conflicts of interest
-related to tissue procurement. **Pro-transparency OPO leaders have voiced
+related to tissue procurement.** Pro-transparency OPO leaders have voiced
 support for CMS to require OPOs to publish a statement of financial
 relationships between OPOs, OPO leadership, and external tissue operations.[^99]
 Doing so would bring increased transparency to a currently opaque system.
