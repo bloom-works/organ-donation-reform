@@ -377,11 +377,13 @@ General (OIG) found issues including:
 - Many tissue banks rely on staff from other organizations to obtain consent.
   There may be little training and accountability of external tissue requestors.
 - Tissue banks provide donor families with little written material at the time
-  of donation.”[^41] The OIG recommended a number of improvements to how the
-  tissue banking industry approaches informed consent, including providing
-  written disclosures, better marking of donated tissue throughout the
-  processing process, more accountability for those requesting consent, and
-  periodic public disclosure about tissue banks’ financing.
+  of donation.”[^41]
+
+The OIG recommended a number of improvements to how the tissue banking industry
+approaches informed consent, including providing written disclosures, better
+marking of donated tissue throughout the processing process, more accountability
+for those requesting consent, and periodic public disclosure about tissue banks’
+financing.
 
 In our conversations with experts, they described a system that has changed
 little in the past twenty years:
