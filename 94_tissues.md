@@ -425,7 +425,7 @@ charitable desire of good people to donate lifesaving solid organs, like kidneys
 and hearts and lungs. They should not be linked in consent forms, in business
 operations or in patient education…The fact that you can’t say no and have it
 stand after you die horrifies me…‘No’ doesn’t mean ‘no’ here, and ‘yes’ has no
-boundaries.””[^48] The OPO subsequently settled this claim out of court.[^49]
+boundaries.”[^48] The OPO subsequently settled this claim out of court.[^49]
 
 ### Misleading tactics {#misleading-tactics}
 
