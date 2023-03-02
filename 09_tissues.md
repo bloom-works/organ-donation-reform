@@ -236,7 +236,7 @@ voluntary standards. Tissue banks can be accredited through the AATB, but
 accreditation is entirely voluntary.
 
 The AATB has also emerged as an influential lobbying voice for the tissue
-industry. Investigative reporting in 2018 detailed that Kevin Cmunt—then an
+industry. Investigative reporting in 2012 detailed that Kevin Cmunt—then an
 official at the tissue bank AlloSource, and subsequently an OPO CEO—bragged
 during a panel session at an AATB meeting that “AATB has traditionally worked
 very closely with FDA, and in many cases led the FDA in regulatory
@@ -564,10 +564,10 @@ for Kentucky Organ Donor Affiliates.
 
 Other overlaps between OPOs and tissue processing companies include:
 
-- Executives from Mid-America Transplant, Donor Alliance Network, Iowa Donor
-  Network, ConnectLife, and Gift of Hope also sit on the Board of Allosource, a
-  large tissue processing company. These OPOs own stakes in Allosource ranging
-  from $8 million to $26.4 million.[^63]<sup>,</sup>[^64]
+- Executives from five OPOs (Donor Alliance Network, Iowa Donor Network,
+  Mid-America Transplant, ConnectLife, and Gift of Hope) also sit on the Board
+  of Allosource, a large tissue processing company. These OPOs own stakes in
+  Allosource ranging from $8 million to $26.4 million.[^63]<sup>,</sup>[^64]
 
 - Executives from Midwest Transplant Network and New Jersey Sharing Network sit
   on the board of MTF Biologics, another large tissue processing company.[^65]
@@ -625,8 +625,8 @@ business development to further their own personal interests.
 
 Compounding the problem is that the MPSC does not make case details publicly
 available. In fact, at the August 2022 Senate Finance Committee hearing, Senator
-Elizabeth Warren characterized UNOS’s current oversight as “sitting on [their]
-hands while watching patients die.”[^76]
+Elizabeth Warren characterized UNOS’s current oversight as “sitting on your
+hands while people die.”[^76]
 
 In a separate incident around the same time as the Alabama case, a New
 Jersey-based body broker named Michael Mastromarino pleaded guilty to enterprise
@@ -848,11 +848,11 @@ large as $3 trillion by 2026.[^102]
 
 Although many patients do benefit from tissue transplants every year, the
 industry has been plagued by safety issues, inadequate oversight, and little
-accountability for patients and their families. OPO leadership have consistently
-made choices to prioritize tissue recovery over organ procurement, such as
-directing staff resources to tissue procurement rather than organ procurement.
-Decisions like this have a direct impact on the thousands of patients waiting
-for a lifesaving organ transplant.
+accountability for patients and their families. Some OPO leadership have
+consistently made choices to prioritize tissue recovery over organ procurement,
+such as directing staff resources to tissue procurement rather than organ
+procurement. Decisions like this have a direct impact on the thousands of
+patients waiting for a lifesaving organ transplant.
 
 The tissue industry urgently needs regulatory changes to bring increased
 transparency and safety to a necessary—yet currently opaque and unsafe—system.
