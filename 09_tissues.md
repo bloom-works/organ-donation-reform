@@ -569,8 +569,9 @@ Other overlaps between OPOs and tissue processing companies include:
   of Allosource, a large tissue processing company. These OPOs own stakes in
   Allosource ranging from $8 million to $26.4 million.[^63]<sup>,</sup>[^64]
 
-- Executives from Midwest Transplant Network and New Jersey Sharing Network sit
-  on the board of MTF Biologics, another large tissue processing company.[^65]
+- Executives from Midwest Transplant Network, LifeShare of Oklahoma and New
+  Jersey Sharing Network sit on the board of MTF Biologics, another large tissue
+  processing company.[^65]
 
 - LifeNet Virginia operates seven subsidiaries, five of which are focused on
   tissue procurement and processing.[^66]
