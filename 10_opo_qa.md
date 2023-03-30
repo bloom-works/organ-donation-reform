@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "OPOs and Quality Assurance and Performance Improvement Plans"
-permalink: /Tissue-Donation
+permalink: /OPO-QA
 nav: true
 weight: 1
 toc: true
@@ -562,312 +562,330 @@ themselves and their loved ones after death, while those waiting for a
 transplant deserve transparency and accountability that they do not currently
 have. OPOs must be held accountable for these patients and families.
 
-#
-
-# Appendix A: Recommended QAPI Data Points & Sources {#appendix-a-recommended-qapi-data-points-&-sources}
+## Appendix A: Recommended QAPI Data Points & Sources
 
 <table>
-  <tr>
-   <td><strong>Data Point</strong>
-   </td>
-   <td><strong>Source</strong>
-   </td>
-   <td><strong>Information Provided</strong>
-   </td>
-   <td><strong>Availability  (e.g., public, upon request, not public)</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Organ utilization: Organs recovered for transplant, transplanted by donation service area (DSA)
-   </td>
-   <td>Scientific Registry of Transplant Recipients
-   </td>
-   <td>Data on the number of organs, by type, that are authorized and successfully transplanted
-   </td>
-   <td>Public
-   </td>
-  </tr>
-  <tr>
-   <td>Number of recovered organ donors, by race/ethnicity (%) by donation service area (DSA)
-   </td>
-   <td>Scientific Registry of Transplant Recipients
-   </td>
-   <td>Data on the demographics of organ donor patients; provides insight for researchers tracking procurement and transplantation equity 
-   </td>
-   <td>Public, suppressed if &lt;10 patients annually within DSA
-   </td>
-  </tr>
-  <tr>
-   <td>Number of vented patients referred to OPO care stratified by demographic
-   </td>
-   <td>OPO, currently collected by OPTN contractor on the DNR
-   </td>
-   <td>Data on the demographics of potential organ donor patients; provides insight for researchers tracking procurement and transplantation equity, quality of care and access to care
-<p>
+<tr>
+<td style="width:25%"><strong>Data Point</strong></td>
+<td style="width:25%"><strong>Source</strong></td>
+<td style="width:25%"><strong>Information Provided</strong></td>
+<td style="width:25%"><strong>Availability  (e.g., public, upon request, not public)</strong></td>
+</tr>
+<tr>
+<td>Organ utilization: Organs recovered for transplant, transplanted by donation service area (DSA)
+</td>
+<td>Scientific Registry of Transplant Recipients
+</td>
+<td>Data on the number of organs, by type, that are authorized and successfully transplanted
+</td>
+<td>Public
+</td>
+</tr>
+ <tr>
+<td>Number of recovered organ donors, by race/ethnicity (%) by donation service area (DSA)
+</td>
+<td>Scientific Registry of Transplant Recipients
+</td>
+<td>Data on the demographics of organ donor patients; provides insight for researchers tracking procurement and transplantation equity 
+</td>
+<td>Public, suppressed if &lt;10 patients annually within DSA
+</td>
+</tr>
+<tr>
+<td>Number of vented patients referred to OPO care stratified by demographic
+</td>
+<td>OPO, currently collected by OPTN contractor on the DNR
+</td>
+<td>Data on the demographics of potential organ donor patients; provides insight for researchers tracking procurement and transplantation equity, quality of care and access to care
+<br/>
+<br/>
 Counts number of patient interactions for regulators
-   </td>
-   <td>Public, suppressed if &lt;10 patients annually within DSA
-   </td>
-  </tr>
-  <tr>
-   <td>Number of patients meeting referral criteria without appropriate hospital referral (adverse event)
-   </td>
-   <td>OPO, currently collected by OPTN contractor on the DNR
-   </td>
-   <td>Data on the demographics of potential organ donor patients; provides insight for researchers tracking procurement and transplantation equity , quality of care, access to care
-<p>
+</td>
+<td>Public, suppressed if &lt;10 patients annually within DSA
+</td>
+</tr>
+<tr>
+<td>Number of patients meeting referral criteria without appropriate hospital referral (adverse event)
+</td>
+<td>OPO, currently collected by OPTN contractor on the DNR
+</td>
+<td>Data on the demographics of potential organ donor patients; provides insight for researchers tracking procurement and transplantation equity , quality of care, access to care
+<br/>
+<br/>
 Counts adverse events for regulators
-   </td>
-   <td>Not public at DSA level (small number of patients), should be public when aggregated at hospital system level/transplant system level
-   </td>
-  </tr>
-  <tr>
-   <td>Onsite patient evaluations (sometimes called “referral response”) rate
-   </td>
-   <td>OPO, currently collected at the organizational level but not reported to OPTN
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
-<p>
+</td>
+<td>Not public at DSA level (small number of patients), should be public when aggregated at hospital system level/transplant system level
+</td>
+</tr>
+<tr>
+<td>Onsite patient evaluations (sometimes called “referral response”) rate
+</td>
+<td>OPO, currently collected at the organizational level but not reported to OPTN
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
+<br/>
+<br/>
 Provides quality of care data for regulators
-   </td>
-   <td>Public
-   </td>
-  </tr>
-  <tr>
-   <td>Onsite response to referred patient within 60 minutes
-   </td>
-   <td>OPO, currently collected at the organizational level but not reported to OPTN
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
-<p>
+</td>
+<td>Public
+</td>
+</tr>
+<tr>
+<td>Onsite response to referred patient within 60 minutes
+</td>
+<td>OPO, currently collected at the organizational level but not reported to OPTN
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
+<br/>
+<br/>
 Provides quality of care data for regulators
-<p>
+<br/>
+<br/>
 Allows hospitals to validate OPO quality of care for patients referred
-   </td>
-   <td>Public
-   </td>
-  </tr>
-  <tr>
-   <td>Rate of referred patients per 100 CALC deaths (using seasonally-adjusted forecasts of CALC deaths)
-   </td>
-   <td>OPO, CMS denominator
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
-<p>
+</td>
+<td>Public
+</td>
+</tr>
+<tr>
+<td>Rate of referred patients per 100 CALC deaths (using seasonally-adjusted forecasts of CALC deaths)
+</td>
+<td>OPO, CMS denominator
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
+<br/>
+<br/>
 Provides quality of care data and measures effectiveness of OPO referral criteria for regulators
-   </td>
-   <td>Public
-   </td>
-  </tr>
-  <tr>
-   <td>Rate of referred patients ruled medically suitable
-   </td>
-   <td>OPO,  currently collected by OPTN contractor on the DNR
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
-<p>
+</td>
+<td>Public
+</td>
+</tr>
+<tr>
+<td>Rate of referred patients ruled medically suitable
+</td>
+<td>OPO,  currently collected by OPTN contractor on the DNR
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
+<br/>
+<br/>
 Provides quality of care data and measures effectiveness of OPO referral criteria for regulators
-   </td>
-   <td>Public
-   </td>
-  </tr>
-  <tr>
-   <td>Rate of ruled medically suitable patients per 100 CALC deaths (using seasonally-adjusted forecasts of CALC deaths)
-   </td>
-   <td>OPO, CMS denominator
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
-<p>
+</td>
+<td>Public
+</td>
+</tr>
+<tr>
+<td>Rate of ruled medically suitable patients per 100 CALC deaths (using seasonally-adjusted forecasts of CALC deaths)
+</td>
+<td>OPO, CMS denominator
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
+<br/>
+<br/>
 Provides quality of care data and measures effectiveness of OPO referral criteria for regulators
-   </td>
-   <td>Public
-   </td>
-  </tr>
-  <tr>
-   <td>Rate of referred patients with approach (stratified by age, race/ethnicity, and OPTN cause of death)
-   </td>
-   <td>OPO, only authorization outcome is currently collected on the DNR (authorized yes/no), but all OPOs collect these data at the organizational level
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
-<p>
+</td>
+<td>Public
+</td>
+</tr>
+<tr>
+<td>Rate of referred patients with approach (stratified by age, race/ethnicity, and OPTN cause of death)
+</td>
+<td>OPO, only authorization outcome is currently collected on the DNR (authorized yes/no), but all OPOs collect these data at the organizational level
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
+<br/>
+<br/>
 Provides quality of care data and effectiveness of selection for approach for regulators
-<p>
+<br/>
+<br/>
 Allows hospitals to validate OPO quality of care for patients referred
-   </td>
-   <td>Public, suppressed if &lt;10 patients annually within DSA
-   </td>
-  </tr>
-  <tr>
-   <td>Rate of family approach per 100 vented referrals
-   </td>
-   <td>OPOOPO, only authorization outcome is currently collected on the DNR (authorized yes/no), but all OPOs collect these data at the organizational level, CMS denominator
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
-<p>
+</td>
+<td>Public, suppressed if &lt;10 patients annually within DSA
+</td>
+</tr>
+<tr>
+<td>Rate of family approach per 100 vented referrals
+</td>
+<td>OPOOPO, only authorization outcome is currently collected on the DNR (authorized yes/no), but all OPOs collect these data at the organizational level, CMS denominator
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
+<br/>
+<br/>
 Provides quality of care data and effectiveness of selection for approach for regulators
-   </td>
-   <td>Public
-   </td>
-  </tr>
-  <tr>
-   <td>Rate of family authorization per 100 approaches (stratified by age, race/ethnicity, and OPTN cause of death)
-   </td>
-   <td>OPO, only authorization outcome is currently collected on the DNR (authorized yes/no), but all OPOs collect these data at the organizational levelOPO
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
-<p>
+</td>
+<td>Public
+</td>
+</tr>
+<tr>
+<td>Rate of family authorization per 100 approaches (stratified by age, race/ethnicity, and OPTN cause of death)
+</td>
+<td>OPO, only authorization outcome is currently collected on the DNR (authorized yes/no), but all OPOs collect these data at the organizational levelOPO
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
+<br/>
+<br/>
 Provides quality of care data and effectiveness of approach for regulators
-<p>
+<br/>
+<br/>
 Allows hospitals to validate OPO quality of care for patients referred
-   </td>
-   <td>Public
-   </td>
-  </tr>
-  <tr>
-   <td>Rate of “huddles” with hospital provider of all medically suitable patients
-   </td>
-   <td>OPO, all OPOs collect these data at the organizational levelOPO
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care, coordination of care
-<p>
+</td>
+<td>Public
+</td>
+</tr>
+<tr>
+<td>Rate of “huddles” with hospital provider of all medically suitable patients
+</td>
+<td>OPO, all OPOs collect these data at the organizational levelOPO
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care, coordination of care
+<br/>
+<br/>
 Provides quality of care data for regulators
-<p>
+<br/>
+<br/>
 Allows hospitals to validate OPO quality of care for patients referred
-   </td>
-   <td>Public
-   </td>
-  </tr>
-  <tr>
-   <td>Number of organs recovered by type
-   </td>
-   <td>OPTN (DDR), SRTR
-   </td>
-   <td>Data on the number of organs, by type, that are authorized and successfully transplanted
-   </td>
-   <td>Public
-   </td>
-  </tr>
-  <tr>
-   <td>Rate of recovered organs transplanted by type
-   </td>
-   <td>OPTN (DDR), SRTR
-   </td>
-   <td>Data on the number of organs, by type, that are authorized and successfully transplanted
-   </td>
-   <td>Public
-   </td>
-  </tr>
-  <tr>
-   <td>Rate of hospital compliance for appropriate referral of patients (i.e., number patients referred appropriately / number patients eligible to be referred per OPO death record review)
-   </td>
-   <td>OPTN, SRTR, OPO (available on the DNR, which currently characterizes timeliness, but does not describe compliance with clinical triggers)
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care, coordination of care
-<p>
+</td>
+<td>Public
+</td>
+</tr>
+<tr>
+<td>Number of organs recovered by type
+</td>
+<td>OPTN (DDR), SRTR
+</td>
+<td>Data on the number of organs, by type, that are authorized and successfully transplanted
+</td>
+<td>Public
+</td>
+</tr>
+<tr>
+<td>Rate of recovered organs transplanted by type
+</td>
+<td>OPTN (DDR), SRTR
+</td>
+<td>Data on the number of organs, by type, that are authorized and successfully transplanted
+</td>
+<td>Public
+</td>
+</tr>
+<tr>
+<td>Rate of hospital compliance for appropriate referral of patients (i.e., number patients referred appropriately / number patients eligible to be referred per OPO death record review)
+</td>
+<td>OPTN, SRTR, OPO (available on the DNR, which currently characterizes timeliness, but does not describe compliance with clinical triggers)
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care, coordination of care
+<br/>
+<br/>
 Provides quality of care, effectiveness of OPO referral criteria and associated data for regulators
-<p>
+<br/>
+<br/>
 Allows hospitals to validate OPO quality of care for patients referred
-   </td>
-   <td>Public
-   </td>
-  </tr>
-  <tr>
-   <td>Rate of family decline by category (stratified by age, race/ethnicity, and OPTN cause of death)
-   </td>
-   <td>OPO, only authorization outcome is currently collected on the DNR (authorized yes/no), but all OPOs collect these data at the organizational levelOPO
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
-<p>
+</td>
+<td>Public
+</td>
+</tr>
+<tr>
+<td>Rate of family decline by category (stratified by age, race/ethnicity, and OPTN cause of death)
+</td>
+<td>OPO, only authorization outcome is currently collected on the DNR (authorized yes/no), but all OPOs collect these data at the organizational levelOPO
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
+<br/>
+<br/>
 Provides quality of care data and effectiveness of approach for regulators
-<p>
+<br/>
+<br/>
 Allows hospitals to validate OPO quality of care for patients referred
-   </td>
-   <td>Public, suppressed if &lt;10 patients annually within DSA
-   </td>
-  </tr>
-  <tr>
-   <td>Rate of potential donor patients authorized but not recovered
-   </td>
-   <td>OPO, DDR and DNR
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
-<p>
+</td>
+<td>Public, suppressed if &lt;10 patients annually within DSA
+</td>
+</tr>
+<tr>
+<td>Rate of potential donor patients authorized but not recovered
+</td>
+<td>OPO, DDR and DNR
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
+<br/>
+<br/>
 Provides quality of care data and effectiveness of donor management for regulators
-   </td>
-   <td>Public
-   </td>
-  </tr>
-  <tr>
-   <td>Rate of non-allocated organs by category for refusal
-   </td>
-   <td>OPO, OPTN
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
-<p>
+</td>
+<td>Public
+</td>
+</tr>
+<tr>
+<td>Rate of non-allocated organs by category for refusal
+</td>
+<td>OPO, OPTN
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
+<br/>
+<br/>
 Provides quality of care data and effectiveness of allocation and donor management for regulators
-   </td>
-   <td>Public
-   </td>
-  </tr>
-  <tr>
-   <td>Count of refusal codes associated with procurement adverse event 
-   </td>
-   <td>OPO, OPTN
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
-<p>
+</td>
+<td>Public
+</td>
+</tr>
+<tr>
+<td>Count of refusal codes associated with procurement adverse event 
+</td>
+<td>OPO, OPTN
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
+<br/>
+<br/>
 Provides quality of care data and effectiveness of allocation and donor management for regulators
-   </td>
-   <td>Upon request
-   </td>
-  </tr>
-  <tr>
-   <td>Rate of discarded organs of all recovered organs, by type  
-   </td>
-   <td>OPO, OPTN, DDR
-   </td>
-   <td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
-<p>
+</td>
+<td>Upon request
+</td>
+</tr>
+<tr>
+<td>Rate of discarded organs of all recovered organs, by type  
+</td>
+<td>OPO, OPTN, DDR
+</td>
+<td>Provides insight for researchers tracking procurement and transplantation equity, quality of care, access to care
+<br/>
+<br/>
 Provides quality of care data and effectiveness of allocation and donor management for regulators
-   </td>
-   <td>Public
-   </td>
-  </tr>
+</td>
+<td>Public
+</td>
+</tr>
 </table>
 
-# Appendix B: Recommended QAPI Components
+## Appendix B: Recommended QAPI Components
 
 <table>
-  <tr>
-   <td><strong>Item</strong>
-   </td>
-   <td colspan="2" ><strong>Requirements</strong>
-   </td>
-   <td><strong>Department</strong>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="4" ><strong>Organ Donation and Transplant Metrics</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Process Data</strong>[^51]
-   </td>
-   <td colspan="2" ><em>For a complete list of recommended QAPI data points, see <a href="#bookmark=id.wd1e4ydk35y">Appendix A</a>.</em>
-   </td>
-   <td>Data must be collected across every OPO department. 
-<p>
+<tr>
+<td><strong>Item</strong>
+</td>
+<td colspan="2" ><strong>Requirements</strong>
+</td>
+<td><strong>Department</strong>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align: center"><strong>Organ Donation and Transplant Metrics</strong>
+</td>
+</tr>
+<tr>
+<td><strong>Process Data</strong>[^51]
+</td>
+<td colspan="2" ><em>For a complete list of recommended QAPI data points, see <a href="#bookmark=id.wd1e4ydk35y">Appendix A</a>.</em>
+</td>
+<td>Data must be collected across every OPO department. 
+<br />
+<br />
 Quality Assurance Department compiles, analyzes, and ensures accuracy.
-   </td>
-  </tr>
-  <tr>
-   <td colspan="4" ><strong>Quality Assurance Department Reports</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Safety Incident Review</strong>
-   </td>
-   <td colspan="2" ><em>In concert with Hospital and Family Services, Quality Assurance Department should prepare a report including: </em>
+</td>
+</tr>
+<!-- <tr>
+<td colspan="4" ><strong>Quality Assurance Department Reports</strong>
+</td>
+</tr>
+<tr>
+<td><strong>Safety Incident Review</strong>
+</td>
+<td colspan="2" ><em>In concert with Hospital and Family Services, Quality Assurance Department should prepare a report including: </em>
 <ul>
 
 <li>Review of any safety incidents that have been reported by hospital, transplant centers, or family partners[^52]
@@ -877,16 +895,17 @@ Quality Assurance Department compiles, analyzes, and ensures accuracy.
 <li>Updates to any previously reported safety incidents, including any new or updated protocols
 </li>
 </ul>
-   </td>
-   <td>Quality Assurance Department
-<p>
+</td>
+<td>Quality Assurance Department
+<br />
+<br />
 Hospital and Family Services
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Preparedness Statement</strong>
-   </td>
-   <td colspan="2" ><em>Working with every OPO department, Quality Assurance Department should prepare a report including: </em>
+</td>
+</tr>
+<tr>
+<td><strong>Preparedness Statement</strong>
+</td>
+<td colspan="2" ><em>Working with every OPO department, Quality Assurance Department should prepare a report including: </em>
 <ul>
 
 <li>Current state of OPO preparedness in response to or during unexpected events, such as the COVID-19 pandemic[^53]
@@ -894,27 +913,26 @@ Hospital and Family Services
 <li>Updates to any protocols made to increase preparedness
 </li>
 </ul>
-   </td>
-   <td>Quality Assurance Department
-<p>
-Department 
-<p>
-Leadership
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Performance Improvement Projects</strong>
-   </td>
-   <td colspan="2" ><em>Quality Assurance Department should report on: </em>
+</td>
+<td>Quality Assurance Department
+<br />
+<br />
+Department Leadership
+</td>
+</tr>
+<tr>
+<td><strong>Performance Improvement Projects</strong>
+</td>
+<td colspan="2" ><em>Quality Assurance Department should report on: </em>
 <ul>
 
 <li>Results of ongoing performance improvement projects
 
 <li>Upcoming performance improvement projects 
 <ul>
- 
+
 <li>Incorporate and highlight opportunities for staff review and comment[^54]
- 
+
 <li>Review process for developing and evaluating improvement projects; review criteria for determining priority.[^55] 
 </li> 
 </ul>
@@ -922,18 +940,18 @@ Leadership
 <li>Schedule of monthly QAPI review meetings[^56]
 </li>
 </ul>
-   </td>
-   <td>Quality Assurance Department
-   </td>
-  </tr>
-  <tr>
-   <td colspan="4" ><strong>Community</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Registration and Outreach</strong>
-   </td>
-   <td colspan="2" ><em>Provide updates on: </em>
+</td>
+<td>Quality Assurance Department
+</td>
+</tr>
+<tr>
+<td colspan="4" ><strong>Community</strong>
+</td>
+</tr>
+<tr>
+<td><strong>Registration and Outreach</strong>
+</td>
+<td colspan="2" ><em>Provide updates on: </em>
 <ul>
 
 <li>Current rates of community donor registration
@@ -945,14 +963,14 @@ Leadership
 <li>Details of ongoing outreach efforts and campaigns
 </li>
 </ul>
-   </td>
-   <td>Family Services, Hospital Services, Communications/Press Office
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Patient and Family Feedback</strong>
-   </td>
-   <td colspan="2" ><em>OPO should provide updates and data gathered from ongoing surveys of donor families,</em>[^57]<em> covering key measures such as: </em>
+</td>
+<td>Family Services, Hospital Services, Communications/Press Office
+</td>
+</tr>
+<tr>
+<td><strong>Patient and Family Feedback</strong>
+</td>
+<td colspan="2" ><em>OPO should provide updates and data gathered from ongoing surveys of donor families,</em>[^57]<em> covering key measures such as: </em>
 <ul>
 
 <li>The responsiveness, respect and courtesy shown by staff[^58]
@@ -964,14 +982,14 @@ Leadership
 <li>How families felt about donation after the process was complete[^60]
 </li>
 </ul>
-   </td>
-   <td>Family Services
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Hospital and Transplant Center Feedback</strong>
-   </td>
-   <td colspan="2" ><em>OPO should provide updates and data gathered from ongoing surveys of hospital and transplant center staff, covering key measures such as: </em>
+</td>
+<td>Family Services
+</td>
+</tr>
+<tr>
+<td><strong>Hospital and Transplant Center Feedback</strong>
+</td>
+<td colspan="2" ><em>OPO should provide updates and data gathered from ongoing surveys of hospital and transplant center staff, covering key measures such as: </em>
 <ul>
 
 <li>The responsiveness, respect, and courtesy shown by staff
@@ -981,18 +999,18 @@ Leadership
 <li>Effectiveness ratings of specific steps within the donation process (eg., donor evaluation, communication during referral)
 </li>
 </ul>
-   </td>
-   <td>Hospital Services
-   </td>
-  </tr>
-  <tr>
-   <td colspan="4" ><strong>Organization</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Organizational Chart</strong>
-   </td>
-   <td colspan="2" ><em>Human Resources Department should provide: </em>
+</td>
+<td>Hospital Services
+</td>
+</tr>
+<tr>
+<td colspan="4" ><strong>Organization</strong>
+</td>
+</tr>
+<tr>
+<td><strong>Organizational Chart</strong>
+</td>
+<td colspan="2" ><em>Human Resources Department should provide: </em>
 <ul>
 
 <li>Organizational chart
@@ -1000,14 +1018,14 @@ Leadership
 <li>Summary of responsibilities for each department and/or key staff positions
 </li>
 </ul>
-   </td>
-   <td>Human Resources
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Staff Training</strong>
-   </td>
-   <td colspan="2" ><em>Human Resources Department should provide: </em>
+</td>
+<td>Human Resources
+</td>
+</tr>
+<tr>
+<td><strong>Staff Training</strong>
+</td>
+<td colspan="2" ><em>Human Resources Department should provide: </em>
 <ul>
 
 <li>Upcoming and/or ongoing staff training opportunities and requirements
@@ -1017,14 +1035,14 @@ Leadership
 <li>Review updated policies or protocols
 </li>
 </ul>
-   </td>
-   <td>Human Resources
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Staff Feedback</strong>
-   </td>
-   <td colspan="2" ><em>Human Resources Department should provide:</em>
+</td>
+<td>Human Resources
+</td>
+</tr>
+<tr>
+<td><strong>Staff Feedback</strong>
+</td>
+<td colspan="2" ><em>Human Resources Department should provide:</em>
 <p>
 <em> </em>
 <ul>
@@ -1032,62 +1050,66 @@ Leadership
 <li>Aggregated data from orientation and exit surveys
 </li>
 </ul>
-   </td>
-   <td>Human Resources
-   </td>
-  </tr>
-  <tr>
-   <td colspan="4" ><strong>Executive Summary</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Strategic Planning Statement</strong>
-   </td>
-   <td colspan="2" >Strategic Planning Statement should reflect the current standing of the OPO according to CMS, future and current projects focused on improving organ donation and transplant, and future or current plans expansion (eg., competing for a neighboring DSA). 
-   </td>
-   <td>Executive
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Financials</strong>
-   </td>
-   <td colspan="2" >Financial statement should reflect the current financial position of OPO and any details as required on publicly available tax documents, broken down by department. 
-<p>
+</td>
+<td>Human Resources
+</td>
+</tr>
+<tr>
+<td colspan="4" ><strong>Executive Summary</strong>
+</td>
+</tr>
+<tr>
+<td><strong>Strategic Planning Statement</strong>
+</td>
+<td colspan="2" >Strategic Planning Statement should reflect the current standing of the OPO according to CMS, future and current projects focused on improving organ donation and transplant, and future or current plans expansion (eg., competing for a neighboring DSA). 
+</td>
+<td>Executive
+</td>
+</tr>
+<tr>
+<td><strong>Financials</strong>
+</td>
+<td colspan="2" >Financial statement should reflect the current financial position of OPO and any details as required on publicly available tax documents, broken down by department. 
+<br />
+<br />
 Financial statements should include a disclosure of  any potential conflicts of interest among Board Members and Executives. 
-   </td>
-   <td>Executive
-   </td>
-  </tr>
-  <tr>
-   <td colspan="4" ><strong>Definitions and Resources</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td colspan="2" >OPO should provide definitions and relevant details for all metrics included in QAPI. 
-<p>
+</td>
+<td>Executive
+</td>
+</tr>
+<tr>
+<td colspan="4" ><strong>Definitions and Resources</strong>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td colspan="2" >OPO should provide definitions and relevant details for all metrics included in QAPI. 
+<br />
+<br />
 Provide staff and the public with commonly useful resources, like Scientific Registry of Transplant Recipients and links to CMS and OPTN guidelines and bylaws.
-   </td>
-   <td>Shared; Human Resources 
-   </td>
-  </tr>
-  <tr>
-   <td colspan="4" ><strong>Published Format</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td colspan="2" >OPO should make QAPI documents available to every staff member. OPOs must provide the most updated data available on a monthly basis.[^61] 
-<p>
+</td>
+<td>Shared; Human Resources 
+</td>
+</tr>
+<tr>
+<td colspan="4" ><strong>Published Format</strong>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td colspan="2" >OPO should make QAPI documents available to every staff member. OPOs must provide the most updated data available on a monthly basis.[^61] 
+<br />
+<br />
 OPO should review QAPI at monthly staff meetings and quarterly Board meetings, and provide meeting minutes covering the QAPI review for CMS auditors. 
-<p>
+<br />
+<br />
 OPO must make QAPIs publicly available when they are submitted to CMS.[^62]  
-   </td>
-   <td>Communications
-   </td>
-  </tr>
+</td>
+<td>Communications
+</td>
+</tr> -->
 </table>
 
 <!-- Footnotes themselves at the bottom. -->
