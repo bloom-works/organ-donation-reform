@@ -60,7 +60,7 @@ Specifically, CMS currently reviews each QAPI to determine that the OPO:
    to evaluate the sufficiency of an individual OPO’s QAPI, or, relatedly,
    anyThere is no meaningful consequence for an OPO’s failure to adhere to its
    QAPI. **A former CMS staffer we spoke with told Bloom that QAPIs are “just
-   paperwork [OPOs] have to do.” **
+   paperwork [OPOs] have to do.”**
 
 ### The purpose of QAPIs
 
@@ -93,24 +93,23 @@ Despite these important steps towards QAPI improvements, Bloom heard from
 experts that several issues hold back the implementation of many QAPIs,
 including:
 
-- **Lack of standardized data collection. **OPOs can use misleading and
+- **Lack of standardized data collection.** OPOs can use misleading and
   self-serving data measures, and can even create benchmarks and definitions
   that fit the existing data. The variation in data collection exacerbates
   existing opacity in OPO performance and operations, creating major challenges
   in accurately assessing OPO performance. For instance, if one OPO’s definition
   of “authorization” is unique to their organization, any associated QAPIs will
   not be able to be externally validated or benchmarked for improvement.
-- **Lack of transparency. **Currently, OPOs are not required to make QAPI plans
+- **Lack of transparency.** Currently, OPOs are not required to make QAPI plans
   publicly available, and CMS does not publish detailed data on OPO
   performance.[^9] This means that major issues and areas for performance
   improvement are harder for researchers, media, patient advocates, hospitals,
   and other stakeholders to identify.
-
-- **Lack of preparedness. **QAPIs can be a valuable way for OPOs to identify,
+- **Lack of preparedness.** QAPIs can be a valuable way for OPOs to identify,
   prepare for, and respond to rapidly evolving and unexpected events, such as
   the COVID-19 pandemic. However, Bloom heard that OPOs do not maintain a strong
   culture of using QAPIs to prepare for changing circumstances and events.
-- **Lack of accountability and consequences. **Consistently, experts we spoke
+- **Lack of accountability and consequences.** Consistently, experts we spoke
   with described a system where OPOs face almost no consequences for poor
   performance. Theoretically an OPO can be decertified by CMS, but this has
   never happened, despite severe performance failures and fatal lapses in
@@ -144,7 +143,7 @@ collect and analyze the data included in the QAPI. Bloom heard several
 interviewees talk about how OPOs can “pick and choose” how to include metrics by
 creating definitions and benchmarks that fit existing data. **Variations in data
 collection and quality create major downstream effects in developing an accurate
-understanding of why OPOs are successful — or not. **Understanding such drivers
+understanding of why OPOs are successful — or not.** Understanding such drivers
 of OPO high- or poor-performance would help CMS oversee its OPO contractors, as
 well as empirically inform future criteria for competition for OPO DSAs.
 
@@ -156,13 +155,13 @@ taking away from) referrals, and often provide varying oversight and guidance
 for front line staff, all of which leads to distortions in data collection and
 analysis. **Without clarity from CMS about how OPOs should define each measure
 and use this data for QAPIs, these distortions remain opaque and difficult to
-correct. **Furthermore, without knowing the specific processes used to collect
+correct.** Furthermore, without knowing the specific processes used to collect
 data, CMS cannot easily compare OPOs on specific process points, nor can CMS
 ensure that OPOs are effectively and equitably serving all of their patient
 communities.
 
 **One major data issue is that OPOs have historically used inconsistent and
-potentially misleading denominators to calculate metrics. **This is the
+potentially misleading denominators to calculate metrics.** This is the
 population figure used by OPOs to calculate measures like donor approach rate or
 conversion rate.
 
@@ -354,7 +353,7 @@ The first step in improving QAPIs is that **CMS must provide set definitions for
 each process point and require standardized data measures** based on population
 counts.
 
-**Every single expert Bloom spoke with made this recommendation. **With a set
+**Every single expert Bloom spoke with made this recommendation.** With a set
 definition and an aggregated national number that can be broken down by OPO, CMS
 staff and researchers would be able to clearly identify when attrition happens
 and would be able to develop accurate comparisons between OPOs.
@@ -468,12 +467,12 @@ planning. Given the dire necessity of their work, this is the level to which
 OPOs should be held when creating and implementing a QAPI.
 
 Not only should every department be engaged in creating the QAPI, but **every
-staff member should have access to the plan (which should be public). **In order
+staff member should have access to the plan (which should be public).** In order
 for staff across an organization to have equitable access to data, the QAPI must
 be developed and written in a way that is as accessible to entry-level employees
 as it is to Board Members.
 
-In addition to employees,** OPOs must be required to share the QAPI with
+In addition to employees, **OPOs must be required to share the QAPI with
 transplant centers and hospital partners.** Hospitals should see the same data
 that an OPO sees. OPOs should not be allowed to manipulate process data to keep
 key performance indicators opaque to hospital partners.
