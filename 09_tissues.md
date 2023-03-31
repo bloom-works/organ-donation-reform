@@ -65,7 +65,7 @@ of medicine. The current regulatory gray areas make it all the more urgent that
 these issues be addressed for the sake of patient safety and public trust in the
 system.
 
-### Differences between organ and tissue procurement {#differences-between-organ-and-tissue-procurement}
+### Differences between organ and tissue procurement 
 
 - **Biological differences:** The difference between organs and tissues is, in
   the words of one expert we spoke to, that “organs are vascularized and have a
@@ -97,7 +97,7 @@ system.
   we as a society have used more body parts for cosmetic enhancements,”** rather
   than lifesaving procedures.
 
-### The tissue procurement process {#the-tissue-procurement-process}
+### The tissue procurement process
 
 In the United States, tissue procurement is often handled by Organ Procurement
 Organizations (OPOs), the same organizations tasked by the Centers for Medicare
@@ -149,7 +149,7 @@ The process from tissue donation to transplant includes:
 
 ## Regulation and the role of lobbying
 
-### Federal oversight {#federal-oversight}
+### Federal oversight
 
 Tissue procurement and processing is primarily overseen by the Food and Drug
 Administration (FDA), rather than CMS, which regulates organ procurement and
@@ -193,7 +193,7 @@ There is often cost-shifting within OPOs related to organ and tissue finances,
 including using taxpayer dollars meant for organ recovery to essentially
 subsidize private tissue processing interests.[^11]
 
-### Classification and regulation {#classification-and-regulation}
+### Classification and regulation
 
 FDA’s Center for Biologics Evaluation and Research (CBER) regulates tissue
 products under CFR Title 21, Part 1271, which includes any “human cell, tissue,
@@ -228,7 +228,7 @@ In effect this means that the less the product is processed, the less it is
 subject to regulation — and tissue processors have a clear stake in maintaining
 the definitions of minimally manipulated and homologous use.
 
-### Lobbying and industry influence on regulation {#lobbying-and-industry-influence-on-regulation}
+### Lobbying and industry influence on regulation 
 
 The American Association of Tissue Banks (AATB) is an influential industry
 membership association that promotes the use of donated tissue and sets some
@@ -318,7 +318,7 @@ result is potentially fatal for patients as well as emotionally damaging for
 families who have no assurance that their loved ones will be treated with
 respect and dignity.
 
-### CryoLife: a history of deadly failures {#cryolife-a-history-of-deadly-failures}
+### CryoLife: a history of deadly failures
 
 In November 2001, 23-year-old Brian Lykins died following a routine knee surgery
 after contracting an infection from a contaminated tissue transplant. A Centers
@@ -408,7 +408,7 @@ little in the past twenty years:
   the fact that tissue may be used for cosmetic purposes on an authorization
   form.[^45]
 
-### Case study in consent-related issues: Nevada Donor Network {#case-study-in-consent-related-issues-nevada-donor-network}
+### Case study in consent-related issues: Nevada Donor Network 
 
 In one case involving the Nevada Donor Network—which is currently under
 investigation from the House Oversight Committee regarding conflicts of interest
@@ -429,7 +429,7 @@ operations or in patient education…The fact that you can’t say no and have i
 stand after you die horrifies me…‘No’ doesn’t mean ‘no’ here, and ‘yes’ has no
 boundaries.”[^48] The OPO subsequently settled this claim out of court.[^49]
 
-### Misleading tactics {#misleading-tactics}
+### Misleading tactics 
 
 Experts we spoke to cited a number of misleading tactics routinely used to
 obtain “consent” from families. **The AATB’s own guidance suggests refraining
@@ -480,7 +480,7 @@ medical community, in addition to biomedical researchers, pharmaceutical
 companies, and cosmetic companies, which need human tissue samples for testing
 and research.
 
-### Organs vs. tissues: balancing revenue and resources {#organs-vs-tissues-balancing-revenue-and-resources}
+### Organs vs. tissues: balancing revenue and resources 
 
 According to one former CMS staff member, it’s up to individual OPOs to balance
 their tissue and organ procurement work — except that tissue procurement relates
@@ -550,7 +550,7 @@ publishing staffing data for all OPOs for both organ and tissue procurement, as
 well as by publishing OPO process data (e.g., how often and how quickly OPOs
 respond to referrals) as suggested by the Senate Finance Committee.[^61]
 
-### Conflicts of interest {#conflicts-of-interest}
+### Conflicts of interest
 
 Different parts of the tissue processing industry are deeply entwined, which can
 create conflicts of interest.
@@ -591,7 +591,7 @@ processing company based in Hong Kong).**[^69]<sup>,</sup>[^70] **LifeLink sells
 this company tissue and bone material, and receives a royalty on any allografts
 sold.**
 
-### Instances of corruption {#instances-of-corruption}
+### Instances of corruption
 
 While industry opacity prevents many abuses from coming to light, some
 high-profile examples have emerged.
@@ -642,7 +642,7 @@ things that seemed so shocking about his case turned out to be routine aspects
 of the business. They were surprising only because so little is known about
 human tissue donation.”[^78]
 
-### Inequities in care {#inequities-in-care}
+### Inequities in care
 
 There’s no regulatory requirement for tissue donation to benefit the community
 the tissue comes from, and allocation decisions about where OPOs should send
@@ -737,7 +737,7 @@ This is emblematic of the fragmented, siloed nature of tissue regulation.
 Changes are urgently needed to increase patient safety and restore public trust
 in the system.
 
-### Information sharing between government agencies {#information-sharing-between-government-agencies}
+### Information sharing between government agencies
 
 To address the fragmented nature of tissue industry regulation, stronger
 information sharing is needed between FDA, CMS, and HRSA. It is crucial to close
@@ -757,7 +757,7 @@ Government agencies and Congress should support:
   months, with agencies unable to accurately track every recipient of
   potentially hazardous tissue.
 
-### Increase traceability of tissue products {#increase-traceability-of-tissue-products}
+### Increase traceability of tissue products
 
 A key component of adverse event reporting and tracking is traceability. The WHO
 has called traceability of human-based tissue products an “absolute
@@ -789,7 +789,7 @@ procedures, CMS may have authority over end users that FDA lacks. Currently, The
 Joint Commission voluntary standards for hospitals include patient-level
 tracing, providing a strong example for CMS to consider.[^96]
 
-### Require transparency to increase safety and equity {#require-transparency-to-increase-safety-and-equity}
+### Require transparency to increase safety and equity 
 
 Currently, researchers cannot state with certainty the number of tissue donors
 in the U.S. last year, the types of grafts procured, the types of transplants

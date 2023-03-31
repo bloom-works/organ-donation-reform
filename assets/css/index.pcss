@@ -165,11 +165,11 @@ a[href$='.pdf']:after {
   vertical-align: top;
 }
 
-.prose tr td:first-child {
+.prose table:not(.custom-col-width) tr td:first-child {
   width: 30%;
 }
 
-.prose tr td:last-child {
+.prose table:not(.custom-col-width) tr td:last-child {
   width: 45%;
 }
 
@@ -181,6 +181,9 @@ a[href$='.pdf']:after {
 .prose td ul {
   margin-left: 0;
   list-style: none;
+  padding: 0.5rem 0.7rem;
+  font-size: 0.85rem;
+  text-align: left;
 }
 
 .prose td li:not(:first-child) {

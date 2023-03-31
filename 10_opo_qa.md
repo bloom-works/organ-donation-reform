@@ -7,7 +7,7 @@ weight: 1
 toc: true
 ---
 
-## Introduction {#introduction}
+## Introduction
 
 The Centers for Medicare and Medicaid Services (CMS) require all Organ
 Procurement Organizations (OPOs) to produce Quality Assurance and Performance
@@ -37,7 +37,7 @@ QAPIs could be used to hold OPOs accountable to higher performance standards,
 leading to thousands more organs procured and transplanted—and lives saved—every
 year.[^2]
 
-## Current use of QAPIs {#current-use-of-qapis}
+## Current use of QAPIs
 
 Since 2006, CMS has required that all OPOs create, annually review, and maintain
 a QAPI program. The requirements for QAPI programs were revised under the
@@ -62,7 +62,7 @@ Specifically, CMS currently reviews each QAPI to determine that the OPO:
    QAPI. **A former CMS staffer we spoke with told Bloom that QAPIs are “just
    paperwork [OPOs] have to do.” **
 
-### The purpose of QAPIs {#the-purpose-of-qapis}
+### The purpose of QAPIs
 
 CMS’s goal should be for QAPIs to become public, data-driven improvement plans.
 This goal is achievable now that CMS has finalized regulations to evaluate OPOs
@@ -87,7 +87,7 @@ If an OPO cannot improve within the four-year certification cycle, it will be
 decertified and the Designated Service Area (DSA) will be opened to competition
 from other OPOs.
 
-## QAPIs are not achieving their potential {#qapis-are-not-achieving-their-potential}
+## QAPIs are not achieving their potential
 
 Despite these important steps towards QAPI improvements, Bloom heard from
 experts that several issues hold back the implementation of many QAPIs,
@@ -137,7 +137,7 @@ the work of OPO Quality Assurance Departments.
 this means that at least half of all QAPIs are failing to result in sufficient
 quality control and performance improvement.**
 
-### Variation and data quality {#variation-and-data-quality}
+### Variation and data quality
 
 Without a list of set measure definitions, it is up to each OPO to decide how to
 collect and analyze the data included in the QAPI. Bloom heard several
@@ -213,7 +213,7 @@ measure with the OPO’s relative performance ranking. In other words, OPOs have
 historically used internally consistent but externally invalid measures in their
 QAPIs.
 
-#### Consequences of inaccurate data {#consequences-of-inaccurate-data}
+#### Consequences of inaccurate data
 
 Bloom routinely heard from interviewees that OPOs don’t trust each other’s data,
 making it difficult to identify accurate national or regional benchmarks for
@@ -237,7 +237,7 @@ but at this time, such data is not commonly used by OPOs nor the OPTN contractor
 to inform hospitals, regulators, or the public about identifiable patterns of
 poor OPO practice.[^16]
 
-### A lack of accountability allows OPOs to fail {#a-lack-of-accountability-allows-opos-to-fail}
+### A lack of accountability allows OPOs to fail
 
 While OPOs are required to maintain a QAPI and provide evidence to CMS that they
 continually review this plan, such as sharing meeting minutes from a QAPI
@@ -271,7 +271,7 @@ homeowners association;”[^19] UNOS’s Membership and Professional Standards
 Committee (MPSC) recently came under scrutiny for failing to remediate fatal
 patient safety lapses at OPOs.[^20]
 
-#### The case of LiveOnNY {#the-case-of-liveonny}
+#### The case of LiveOnNY
 
 The historical failures of CMS’s performance improvement plans have fatal
 consequences. For example, LiveOnNY, the OPO for New York City, was threatened
@@ -317,7 +317,7 @@ many states use healthcare performance improvement plans and make them publicly
 available.[^27] **OPOs are uniquely allowed to operate without an acceptable
 level of transparency and accountability.**
 
-## The future of QAPIs: Recommendations for action {#the-future-of-qapis-recommendations-for-action}
+## The future of QAPIs: Recommendations for action
 
 Under the November 2020 Final Rule, QAPIs must be revised when OPO performance
 falls below the defined threshold. If an OPO cannot meet performance standards
@@ -332,7 +332,7 @@ data-driven interventions at the Indiana Donor Network OPO created a 44%
 increase in organ donors in just one year, driven by a 57% increase in the
 number of potential donor families approached.[^28]
 
-These significanthuge improvements were possible at an OPO that was ranked 51st
+These significant improvements were possible at an OPO that was ranked 51st
 out 58 OPOs,[^29] suggesting that accurate data analysis and qualitative
 performance improvement practices do have the ability to bring improvement to
 even some of the lowest performing OPOs. Earlier research has highlighted that
@@ -344,7 +344,7 @@ Moving forward, replicating turnarounds of failing OPOs through enforceable,
 data-driven, public improvement plans is precisely what CMS’s goal should be for
 QAPIs.
 
-### Require accurate, standardized data collection {#require-accurate-standardized-data-collection}
+### Require accurate, standardized data collection
 
 A meaningful QAPI needs to be built on sound data. Without accurate,
 standardized data, QAPIs are fundamentally not serving the OPO, let alone
@@ -360,9 +360,9 @@ staff and researchers would be able to clearly identify when attrition happens
 and would be able to develop accurate comparisons between OPOs.
 
 For a list of specific measures OPOs should be required to use, see
-[Appendix A](#bookmark=id.wd1e4ydk35y).
+[Appendix A](#appendix-a-recommended-qapi-data-points--sources)
 
-### QAPIs should be linked to CALC {#qapis-should-be-linked-to-calc}
+### QAPIs should be linked to CALC
 
 The new lever for more effective, more informative, and more accurate QAPIs is
 the creation of a reliable, valid external measure of OPO performance: the CMS
@@ -419,7 +419,7 @@ denominators. Together, the combination of sources can produce a high level
 assessment of performance trajectory and a more detailed depiction of areas of
 strength and weakness in practice.
 
-### QAPIs should be publicly available {#qapis-should-be-publicly-available}
+### QAPIs should be publicly available
 
 In a system historically devoid of meaningful oversight, the lack of access to
 QAPIs and their data is a glaring issue.[^37] **QAPIs should be made publicly
@@ -436,7 +436,7 @@ available ratings of healthcare providers on
 dashboard.[^38] **OPOs must be held to the same standard of transparency as any
 other healthcare provider.**
 
-### Ensure the right staff develop, have access to, and use the QAPI {#ensure-the-right-staff-develop-have-access-to-and-use-the-qapi}
+### Ensure the right staff develop, have access to, and use the QAPI 
 
 An organizational culture of safety and performance improvement must start at
 the top. OPO leadership must be engaged in creating and using the QAPI, and can
@@ -478,7 +478,7 @@ transplant centers and hospital partners.** Hospitals should see the same data
 that an OPO sees. OPOs should not be allowed to manipulate process data to keep
 key performance indicators opaque to hospital partners.
 
-### QAPIs should incorporate patient feedback {#qapis-should-incorporate-patient-feedback}
+### QAPIs should incorporate patient feedback 
 
 With access to transparent, accessible data about OPO performance, patients and
 their families will be able to make more informed decisions about working with
@@ -513,7 +513,7 @@ that CMS take meaningful actions to rectify this. Incorporating patient and
 family feedback into a QAPI and making that QAPI public would go far to build
 (or rebuild) trust with the very individuals OPOs are meant to serve.
 
-### CMS should utilize QAPIs when evaluating competition {#cms-should-utilize-qapis-when-evaluating-competition}
+### CMS should utilize QAPIs when evaluating competition 
 
 QAPIs carry the potential to not only improve OPO performance and restore
 patient trust in the system, but can also be used to strengthen other CMS
@@ -542,7 +542,7 @@ nursing facilities indicates that an average of 13 QI initiatives per
 organization led to widespread, measurable improvements under CMS standards,
 even for those facilities primarily serving rural and/or minority patients.[^48]
 
-## Conclusion {#conclusion}
+## Conclusion
 
 With the right regulations, review mechanisms, and standardized data in place,
 QAPIs could be a valuable tool for effectively assessing OPOs and ensuring
@@ -564,12 +564,12 @@ have. OPOs must be held accountable for these patients and families.
 
 ## Appendix A: Recommended QAPI Data Points & Sources
 
-<table>
+<table class="custom-col-width">
 <tr>
-<td style="width:25%"><strong>Data Point</strong></td>
-<td style="width:25%"><strong>Source</strong></td>
-<td style="width:25%"><strong>Information Provided</strong></td>
-<td style="width:25%"><strong>Availability  (e.g., public, upon request, not public)</strong></td>
+<td style="width:25%; text-align:center"><strong>Data Point</strong></td>
+<td style="width:25%; text-align:center"><strong>Source</strong></td>
+<td style="width:25%; text-align:center"><strong>Information Provided</strong></td>
+<td style="width:25%; text-align:center"><strong>Availability  (e.g., public, upon request, not public)</strong></td>
 </tr>
 <tr>
 <td>Organ utilization: Organs recovered for transplant, transplanted by donation service area (DSA)
@@ -854,23 +854,23 @@ Provides quality of care data and effectiveness of allocation and donor manageme
 
 ## Appendix B: Recommended QAPI Components
 
-<table>
+<table class="custom-col-width">
 <tr>
-<td><strong>Item</strong>
+<td style="width:25%;text-align:center"><strong>Item</strong>
 </td>
-<td colspan="2" ><strong>Requirements</strong>
+<td colspan="2" style="width:50%;text-align:center"><strong>Requirements</strong>
 </td>
-<td><strong>Department</strong>
+<td style="width:25%;text-align:center"><strong>Department</strong>
 </td>
 </tr>
 <tr>
-<td colspan="4" style="text-align: center"><strong>Organ Donation and Transplant Metrics</strong>
+<td colspan="4" style="text-align:center"><strong>Organ Donation and Transplant Metrics</strong>
 </td>
 </tr>
 <tr>
-<td><strong>Process Data</strong>[^51]
+<td><strong>Process Data</strong><span markdown="1">[^51]</span>
 </td>
-<td colspan="2" ><em>For a complete list of recommended QAPI data points, see <a href="#bookmark=id.wd1e4ydk35y">Appendix A</a>.</em>
+<td colspan="2"><em>For a complete list of recommended QAPI data points, see <a href="#appendix-a-recommended-qapi-data-points--sources">Appendix A</a>.</em>
 </td>
 <td>Data must be collected across every OPO department. 
 <br />
@@ -878,23 +878,22 @@ Provides quality of care data and effectiveness of allocation and donor manageme
 Quality Assurance Department compiles, analyzes, and ensures accuracy.
 </td>
 </tr>
-<!-- <tr>
-<td colspan="4" ><strong>Quality Assurance Department Reports</strong>
+<tr>
+<td colspan="4" style="text-align:center"><strong>Quality Assurance Department Reports</strong>
 </td>
 </tr>
 <tr>
 <td><strong>Safety Incident Review</strong>
 </td>
 <td colspan="2" ><em>In concert with Hospital and Family Services, Quality Assurance Department should prepare a report including: </em>
-<ul>
+<ul style="list-style:disc">
+<li>Review of any safety incidents that have been reported by hospital, transplant centers, or family partners<span markdown="1">[^52]</span></li>
 
-<li>Review of any safety incidents that have been reported by hospital, transplant centers, or family partners[^52]
-
-<li>Summary of responses made to any safety incident
-
+<li>Summary of responses made to any safety incident</li>
 <li>Updates to any previously reported safety incidents, including any new or updated protocols
 </li>
 </ul>
+
 </td>
 <td>Quality Assurance Department
 <br />
@@ -906,12 +905,9 @@ Hospital and Family Services
 <td><strong>Preparedness Statement</strong>
 </td>
 <td colspan="2" ><em>Working with every OPO department, Quality Assurance Department should prepare a report including: </em>
-<ul>
-
-<li>Current state of OPO preparedness in response to or during unexpected events, such as the COVID-19 pandemic[^53]
-
-<li>Updates to any protocols made to increase preparedness
-</li>
+<ul  style="list-style:disc">
+<li>Current state of OPO preparedness in response to or during unexpected events, such as the COVID-19 pandemic<span markdown="1">[^53]</span></li>
+<li>Updates to any protocols made to increase preparedness</li>
 </ul>
 </td>
 <td>Quality Assurance Department
@@ -924,20 +920,16 @@ Department Leadership
 <td><strong>Performance Improvement Projects</strong>
 </td>
 <td colspan="2" ><em>Quality Assurance Department should report on: </em>
+<ul  style="list-style:disc">
+<li>Results of ongoing performance improvement projects</li>
+<li>Upcoming performance improvement projects </li>
+<li>
 <ul>
-
-<li>Results of ongoing performance improvement projects
-
-<li>Upcoming performance improvement projects 
-<ul>
-
-<li>Incorporate and highlight opportunities for staff review and comment[^54]
-
-<li>Review process for developing and evaluating improvement projects; review criteria for determining priority.[^55] 
-</li> 
+<li>Incorporate and highlight opportunities for staff review and comment<span markdown="1">[^54]</span></li>
+<li>Review process for developing and evaluating improvement projects; review criteria for determining priority.<span markdown="1">[^55]</span></li> 
+<li>Schedule of monthly QAPI review meetings<span markdown="1">[^56]</span>
+</li>
 </ul>
-
-<li>Schedule of monthly QAPI review meetings[^56]
 </li>
 </ul>
 </td>
@@ -945,21 +937,18 @@ Department Leadership
 </td>
 </tr>
 <tr>
-<td colspan="4" ><strong>Community</strong>
+<td colspan="4" style="text-align:center"><strong>Community</strong>
 </td>
 </tr>
 <tr>
 <td><strong>Registration and Outreach</strong>
 </td>
 <td colspan="2" ><em>Provide updates on: </em>
-<ul>
+<ul  style="list-style:disc">
 
-<li>Current rates of community donor registration
-
-<li>Details of upcoming outreach events
-
-<li>Success of previous outreach events (eg., number of new donors registered)
-
+<li>Current rates of community donor registration</li>
+<li>Details of upcoming outreach events</li>
+<li>Success of previous outreach events (eg., number of new donors registered)</li>
 <li>Details of ongoing outreach efforts and campaigns
 </li>
 </ul>
@@ -970,16 +959,12 @@ Department Leadership
 <tr>
 <td><strong>Patient and Family Feedback</strong>
 </td>
-<td colspan="2" ><em>OPO should provide updates and data gathered from ongoing surveys of donor families,</em>[^57]<em> covering key measures such as: </em>
-<ul>
-
-<li>The responsiveness, respect and courtesy shown by staff[^58]
-
-<li>The speed and frequency with which families were able to get help and have questions answered
-
-<li>How thoroughly staff explained the donation process[^59]
-
-<li>How families felt about donation after the process was complete[^60]
+<td colspan="2" ><em>OPO should provide updates and data gathered from ongoing surveys of donor families,<span markdown="1">[^57]</span> covering key measures such as: </em>
+<ul  style="list-style:disc">
+<li>The responsiveness, respect and courtesy shown by staff<span markdown="1">[^58]</span></li>
+<li>The speed and frequency with which families were able to get help and have questions answered</li>
+<li>How thoroughly staff explained the donation process<span markdown="1">[^59]</span></li>
+<li>How families felt about donation after the process was complete<span markdown="1">[^60]</span>
 </li>
 </ul>
 </td>
@@ -990,12 +975,9 @@ Department Leadership
 <td><strong>Hospital and Transplant Center Feedback</strong>
 </td>
 <td colspan="2" ><em>OPO should provide updates and data gathered from ongoing surveys of hospital and transplant center staff, covering key measures such as: </em>
-<ul>
-
-<li>The responsiveness, respect, and courtesy shown by staff
-
-<li>Response times after a potential referral
-
+<ul  style="list-style:disc">
+<li>The responsiveness, respect, and courtesy shown by staff</li>
+<li>Response times after a potential referral</li>
 <li>Effectiveness ratings of specific steps within the donation process (eg., donor evaluation, communication during referral)
 </li>
 </ul>
@@ -1004,17 +986,15 @@ Department Leadership
 </td>
 </tr>
 <tr>
-<td colspan="4" ><strong>Organization</strong>
+<td colspan="4" style="text-align:center"><strong>Organization</strong>
 </td>
 </tr>
 <tr>
 <td><strong>Organizational Chart</strong>
 </td>
 <td colspan="2" ><em>Human Resources Department should provide: </em>
-<ul>
-
-<li>Organizational chart
-
+<ul  style="list-style:disc">
+<li>Organizational chart</li>
 <li>Summary of responsibilities for each department and/or key staff positions
 </li>
 </ul>
@@ -1026,11 +1006,9 @@ Department Leadership
 <td><strong>Staff Training</strong>
 </td>
 <td colspan="2" ><em>Human Resources Department should provide: </em>
-<ul>
-
-<li>Upcoming and/or ongoing staff training opportunities and requirements
-
-<li>Current state of staff training (i.e., number of staff in orientation, number of staff who have not met or renewed current training requirements)
+<ul  style="list-style:disc">
+<li>Upcoming and/or ongoing staff training opportunities and requirements</li>
+<li>Current state of staff training (i.e., number of staff in orientation, number of staff who have not met or renewed current training requirements)</li>
 
 <li>Review updated policies or protocols
 </li>
@@ -1043,10 +1021,7 @@ Department Leadership
 <td><strong>Staff Feedback</strong>
 </td>
 <td colspan="2" ><em>Human Resources Department should provide:</em>
-<p>
-<em> </em>
-<ul>
-
+<ul  style="list-style:disc">
 <li>Aggregated data from orientation and exit surveys
 </li>
 </ul>
@@ -1055,7 +1030,7 @@ Department Leadership
 </td>
 </tr>
 <tr>
-<td colspan="4" ><strong>Executive Summary</strong>
+<td colspan="4" style="text-align:center"><strong>Executive Summary</strong>
 </td>
 </tr>
 <tr>
@@ -1078,7 +1053,7 @@ Financial statements should include a disclosure of  any potential conflicts of 
 </td>
 </tr>
 <tr>
-<td colspan="4" ><strong>Definitions and Resources</strong>
+<td colspan="4" style="text-align:center"><strong>Definitions and Resources</strong>
 </td>
 </tr>
 <tr>
@@ -1093,23 +1068,23 @@ Provide staff and the public with commonly useful resources, like Scientific Reg
 </td>
 </tr>
 <tr>
-<td colspan="4" ><strong>Published Format</strong>
+<td colspan="4" style="text-align:center"><strong>Published Format</strong>
 </td>
 </tr>
 <tr>
 <td>
 </td>
-<td colspan="2" >OPO should make QAPI documents available to every staff member. OPOs must provide the most updated data available on a monthly basis.[^61] 
+<td colspan="2" >OPO should make QAPI documents available to every staff member. OPOs must provide the most updated data available on a monthly basis.<span markdown="1">[^61]</span>
 <br />
 <br />
 OPO should review QAPI at monthly staff meetings and quarterly Board meetings, and provide meeting minutes covering the QAPI review for CMS auditors. 
 <br />
 <br />
-OPO must make QAPIs publicly available when they are submitted to CMS.[^62]  
+OPO must make QAPIs publicly available when they are submitted to CMS.<span markdown="1">[^62]</span>
 </td>
 <td>Communications
 </td>
-</tr> -->
+</tr>
 </table>
 
 <!-- Footnotes themselves at the bottom. -->
@@ -1340,61 +1315,44 @@ OPO must make QAPIs publicly available when they are submitted to CMS.[^62]
     [“A System in Need of Repair: Addressing Organizational Failures of the U.S.’s Organ Procurement and Transplantation Network,”](<https://www.finance.senate.gov/imo/media/doc/UNOS%20Hearing%20Confidential%20Memo%20(FOR%20RELEASE).pdf>) 2020.
 
 [^51]:
-
-<p>
      For further details on some of these recommended metrics, see: <a href="https://optn.transplant.hrsa.gov/media/3015/201906_spc_boardreport.pdf">“Ad Hoc Systems Performance Committee Report.”</a> OPTN, 2019.
 
 [^52]:
 
-<p>
      Cases should be summarized anonymously. If OPO policies preclude sharing this information publicly, then OPO should provide aggregated data as to the incidence of specific types of safety reports. OPO must still provide information as to the responses taken and any newly updated protocols.
 
 [^53]:
-
-<p>
      Preparedness measures could include: steps taken to physically protect facilities during extreme weather events; updated pandemic-specific measures; community investments made to support families and transplant recipients during times of economic hardship (eg., increased funding for transplant family accommodations during economic recession); responses to updated clinical guidelines or new regulations from CMS or OPTN.
 
 [^54]:
-
-<p>
      Quality Assurance Department must actively solicit staff input, especially when determining the priority level of a given performance improvement project.
 
 [^55]:
-
-<p>
      For a QAPI process model, see: <a href="https://pubmed.ncbi.nlm.nih.gov/16985402/">“Meeting the Center for Medicare & Medicaid Services Requirements for Quality Assessment and Performance Improvement: A Model for Hospitals.”</a> <em>Journal of Nursing Care Quality</em>, 2006.
 
 [^56]:
-
-<p>
      Ideally, staff from every department should be present at QAPI review meetings. Additionally, OPOs should provide an alternate mechanism for collecting ongoing staff feedback, such as surveys or report sharing from departmental meetings.
 
 [^57]:
 
-<p>
      These surveys must be available to both families who consented for donation and those who did not.
 
 [^58]:
 
-<p>
      This measure should include any staff position a family or patient interacts with. For example, in the <a href="https://www.hcahpsonline.org/globalassets/hcahps/quality-assurance/2022_survey-instruments_english_mail.pdf">HCAHPS</a> survey for hospital care, interactions with nurses and doctors are rated separately.
 
 [^59]:
 
-<p>
      It is crucial that families provide informed consent and fully understand the donation process. OPOs should collect a rating about the degree to which families felt they understood the consent process.
 
 [^60]:
 
-<p>
      Measures like how likely a family is to remain involved with the OPO (eg., through volunteer work) can be an additional indicator of the overall quality of their experience.
 
 [^61]:
 
-<p>
      Some measures, such as national rankings, may not be updated monthly. OPOs should provide the most recent data, in lieu of monthly updates, where appropriate.
 
 [^62]:
 
-<p>
      Like an Annual Report, a QAPI must be made public at least once annually. Previous QAPI documents should be available for review upon request.
