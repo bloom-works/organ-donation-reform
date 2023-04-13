@@ -29,4 +29,4 @@ as current system failures disproportionately harm
 The rule takes effect for the 2022 recertification cycle, and will be updated by
 HHS as new data becomes available.
 
-For latest OPO rankings, see opodata.org.
+For latest OPO rankings, see [opodata.org](https://opodata.org/).
